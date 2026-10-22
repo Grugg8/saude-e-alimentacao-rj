@@ -1,0 +1,36 @@
+---
+title: "Sentir-se deprimido não é ter diagnóstico"
+---
+
+A PNS faz duas perguntas diferentes sobre depressão. Uma mede a frequência com
+que a pessoa se sentiu deprimida nas últimas duas semanas. A outra pergunta se
+algum médico ou profissional de saúde mental já deu esse diagnóstico. São coisas
+relacionadas, mas não equivalentes.
+
+![**Figura 1.** Percentual com diagnóstico de depressão, segundo a frequência de sentir-se deprimido. Linha vertical: IC 95%.](figuras/fig_acordo.png){fig-alt="Duas barras verticais mostrando o percentual com diagnóstico de depressão: 5,1% entre quem não se sente deprimido com frequência e 34,8% entre quem se sente deprimido na maioria dos dias."}
+
+## Dois terços sem diagnóstico
+
+Entre as pessoas que se sentem deprimidas na maioria dos dias, 34,8% têm
+diagnóstico de depressão. Entre as que não se sentem assim, 5,1% têm. A
+diferença é grande, mas o mais chamativo é o outro lado: **65,2% das pessoas com
+sintoma frequente não têm diagnóstico registrado**.
+
+A concordância entre as duas medidas é fraca a moderada. O kappa ponderado é de
+0,32 (erro padrão 0,03), em uma escala em que 1 seria concordância perfeita e 0
+seria ausência de concordância. Entre homens o valor é 0,32; entre mulheres,
+0,30.
+
+::: {.nota}
+**O que cada pergunta mede.** A pergunta de percepção (N016) pede a frequência
+de sentir-se deprimido nas últimas duas semanas. A de diagnóstico (Q092) pede
+memória de um diagnóstico médico, sem prazo. Uma não valida a outra: o estudo
+não é de acurácia diagnóstica.
+
+**Por que isso importa.** Sintoma frequente sem diagnóstico pode indicar
+dificuldade de acesso, subdiagnóstico ou simplesmente que a pessoa não procurou
+ajuda. Os dados deste site não permitem distinguir essas explicações.
+
+**Grupo pequeno.** A comparação envolve 302 pessoas com sintoma frequente. Os
+intervalos de confiança são mais largos do que nos indicadores gerais.
+:::

@@ -1,0 +1,102 @@
+---
+title: "Como foi feito"
+---
+
+Esta página resume as decisões metodológicas. O detalhamento completo, com todas
+as tabelas, está no relatório técnico.
+
+## Desenho amostral
+
+A PNS 2019 é uma amostra complexa, estratificada e conglomerada em múltiplos
+estágios. Cada morador selecionado tem um peso que representa quantas pessoas da
+população ele equivale, com pós-estratificação fornecida pelo IBGE. As
+estimativas usam o estrato e a unidade primária de amostragem (UPA), com
+variância por linearização de Taylor.
+
+No recorte de 18 a 59 anos do Rio de Janeiro, o desenho tem 37 estratos, 512
+UPAs e 475 graus de liberdade. Esse último número define o t crítico usado nos
+intervalos de confiança.
+
+## Estimação
+
+- **Proporções**: média ponderada, com intervalo de confiança por transformação
+  logit, que mantém o intervalo entre 0% e 100%.
+- **Médias e medianas**: média ponderada e quantis ponderados.
+- **Comparações de proporções**: teste de Rao-Scott, que corrige a estatística
+  qui-quadrado para o desenho amostral.
+- **Comparações de contagens**: teste de postos ponderado pelo desenho.
+- **Múltiplas comparações**: Benjamini-Hochberg, aplicado dentro de cada família
+  (núcleo, sexo, exploratória) e de cada vista (todos, mulheres, homens).
+- **Modelos**: regressão quasi-binomial para doença crônica e internação
+  (resultado em odds ratio) e quasi-Poisson para consultas (resultado em razão de
+  médias). A dispersão de consultas foi alta (9,84), o que justifica a versão
+  quasi-Poisson em vez da Poisson simples.
+- **Ajustes**: o marginal inclui uma exposição e as covariáveis; o mútuo inclui
+  as cinco exposições e as covariáveis. Os dois são apresentados lado a lado.
+- **Sexo**: entra como covariável e em interação com cada exposição. O efeito
+  entre mulheres é obtido pela combinação dos coeficientes, com a covariância do
+  modelo.
+- **Colinearidade**: VIF máximo de 2,10, sem indicativo de problema.
+
+## Decisões de construção
+
+**Recorte.** 18 a 59 anos, ambos os sexos, estado do Rio de Janeiro.
+
+**Consumo regular.** Cinco ou mais dias por semana para feijão, frutas,
+verduras e legumes e doces.
+
+**Ultraprocessados.** Dez grupos consumidos no dia anterior, com corte em cinco
+ou mais. A versão de oito itens, sem os dois itens de doce, é uma análise de
+sensibilidade. A leitura dos três eixos é a mesma nas duas versões.
+
+**Zeros de consultas e internações.** O questionário pula a pergunta de
+quantidade para quem não consultou ou não internou. Esses casos foram tratados
+como zero, e não como ausentes.
+
+**Escolaridade.** Cinco faixas. Quem estuda hoje não responde ao curso mais
+elevado e entra pelo curso atual; quem nunca frequentou escola entra como sem
+instrução, junto com creche e pré-escola.
+
+**Sem imputação.** Os ausentes foram mantidos como ausentes. A doença crônica
+composta fica ausente quando alguma das seis doenças não tem resposta.
+
+**Conferência do dicionário.** A conferência das variáveis contra o dicionário
+do IBGE identificou dois códigos a corrigir, já aplicados na construção da base:
+a pergunta de doença do coração é Q06306, e não Q06303; a de consultas é J01101,
+e não J011.
+
+## Conferência dos números
+
+Os números publicados foram conferidos contra as saídas da análise. As
+estimativas de referência são: doença crônica composta 29,5%, média de consultas
+3,11, internação 5,8% e idade média 38,8 anos.
+
+O site é estático: nenhum modelo ou teste é executado quando alguém abre a
+página. As figuras e tabelas são geradas antes da publicação pelos scripts em
+`R/`.
+
+## Glossário
+
+**Prevalência.** Percentual de pessoas com uma condição em um momento ou
+período.
+
+**IC 95%.** Intervalo de confiança de 95%. Faixa de valores compatível com os
+dados; quanto mais estreita, mais precisa a estimativa.
+
+**Ponderação.** Uso dos pesos amostrais para que cada pessoa represente o número
+correto de pessoas da população.
+
+**q (Benjamini-Hochberg).** Valor de p ajustado para várias comparações ao mesmo
+tempo. É o que deve ser lido quando muitos testes são feitos.
+
+**Odds ratio (OR).** Razão entre chances. 1 indica nenhuma diferença; acima de 1,
+maior chance no grupo exposto; abaixo de 1, menor chance. Não é risco.
+
+**Razão de médias.** Quantas vezes a média de um grupo é maior que a do grupo de
+referência. 1 indica nenhuma diferença.
+
+**Autorrelato.** Informação dada pela própria pessoa, sem verificação em
+prontuário ou exame.
+
+**Estudo transversal.** Estudo em que cada pessoa é observada uma única vez, sem
+seguimento no tempo.

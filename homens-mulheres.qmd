@@ -1,0 +1,50 @@
+---
+title: "Homens e mulheres: retratos diferentes"
+---
+
+Uma das variáveis que mais separam os resultados neste recorte é o sexo. Das
+nove comparações feitas entre homens e mulheres, oito têm diferença com q menor
+que 0,05 depois da correção para múltiplas comparações.
+
+{{< include tabelas/cartoes_homens.md >}}
+
+{{< include tabelas/sexo.md >}}
+
+: **Tabela 1.** Indicadores por sexo. Percentuais para prevalências; médias para
+consultas, internações e idade. q é o valor de p ajustado por Benjamini-Hochberg
+dentro da família de nove testes; o asterisco marca q < 0,05.
+
+## As diferenças vão na mesma direção
+
+Mulheres relatam mais doença crônica (33,0% contra 25,4%), mais depressão (10,4%
+contra 4,8%) e mais consultas (3,73 contra 2,39 por pessoa em 12 meses). Homens
+relatam mais consumo regular de feijão (79,8% contra 67,0%) e mais
+ultraprocessados (22,4% contra 18,5%); mulheres relatam mais frutas (44,0%
+contra 34,9%) e mais verduras e legumes (56,4% contra 50,1%).
+
+O único indicador sem diferença estatística é o consumo de doces: 18,6% entre
+homens e 16,5% entre mulheres (q = 0,22).
+
+![**Figura 1.** Quem não usou o serviço nenhuma vez em 12 meses. A não utilização de consultas é quase o dobro entre homens (25,3% contra 13,0%). Linha vertical: IC 95%.](figuras/fig_zeros.png){fig-alt="Barras horizontais com o percentual de pessoas que não consultaram e que não internaram nenhuma vez em 12 meses, mostrando que a não utilização é mais comum entre homens."}
+
+## O que essa diferença pode significar
+
+Há pelo menos duas leituras compatíveis com os dados. A primeira é que as
+mulheres adoecem mais ou buscam mais o serviço. A segunda é que elas consultam
+mais e, com isso, têm mais oportunidade de receber um diagnóstico. Como o
+diagnóstico é autorrelatado e a pesquisa é transversal, não é possível separar
+as duas coisas.
+
+A diferença de idade média entre os grupos (38,3 e 39,2 anos) ilustra um ponto
+importante: ela é estatisticamente detectável, mas não tem relevância prática.
+Significância estatística não mede importância.
+
+::: {.nota}
+**Correção para múltiplas comparações.** Foram feitas 174 comparações no total.
+Sem correção, cerca de 9 delas apareceriam como "significativas" apenas por
+acaso, ao nível de 5%. O q de Benjamini-Hochberg controla essa taxa dentro de
+cada família e de cada vista. Por isso a leitura usa q, e não p isolado.
+
+**Leitura de grupo.** As diferenças descrevem grupos, não pessoas. Dizer que
+mulheres consultam mais, em média, não diz nada sobre uma mulher específica.
+:::

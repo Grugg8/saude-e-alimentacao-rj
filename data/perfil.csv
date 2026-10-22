@@ -1,0 +1,97 @@
+bloco,categoria,grupo,n,est,li,ls,unidade,tipo
+Faixa etária,18 a 29 anos,Total,667,27.6,26.5,28.7,pct,n_est_ic
+Faixa etária,18 a 29 anos,Homens,318,29,27.4,30.6,pct,n_est_ic
+Faixa etária,18 a 29 anos,Mulheres,349,26.3,24.7,28,pct,n_est_ic
+Faixa etária,30 a 44 anos,Total,1222,36,34.5,37.6,pct,n_est_ic
+Faixa etária,30 a 44 anos,Homens,582,36.2,33.9,38.5,pct,n_est_ic
+Faixa etária,30 a 44 anos,Mulheres,640,35.9,33.7,38.2,pct,n_est_ic
+Faixa etária,45 a 59 anos,Total,1353,36.4,35.3,37.5,pct,n_est_ic
+Faixa etária,45 a 59 anos,Homens,598,34.8,33.3,36.4,pct,n_est_ic
+Faixa etária,45 a 59 anos,Mulheres,755,37.7,36.1,39.4,pct,n_est_ic
+Idade (anos),Média,Total,,38.8,38.6,39,anos,est_ic
+Idade (anos),Média,Homens,,38.3,38.1,38.6,anos,est_ic
+Idade (anos),Média,Mulheres,,39.2,39,39.5,anos,est_ic
+Cor ou raça,Branca,Total,1364,42.2,40,44.6,pct,n_est_ic
+Cor ou raça,Branca,Homens,612,40.4,37.3,43.5,pct,n_est_ic
+Cor ou raça,Branca,Mulheres,752,43.9,41,46.8,pct,n_est_ic
+Cor ou raça,Preta,Total,610,18.1,16.4,19.8,pct,n_est_ic
+Cor ou raça,Preta,Homens,267,17.7,15.3,20.2,pct,n_est_ic
+Cor ou raça,Preta,Mulheres,343,18.4,16.2,20.8,pct,n_est_ic
+Cor ou raça,Amarela,Total,21,0.6,0.4,1,pct,n_est_ic
+Cor ou raça,Amarela,Homens,12,0.8,0.4,1.6,pct,n_est_ic
+Cor ou raça,Amarela,Mulheres,9,0.5,0.2,0.9,pct,n_est_ic
+Cor ou raça,Parda,Total,1226,38.3,36.3,40.3,pct,n_est_ic
+Cor ou raça,Parda,Homens,595,40.1,37.1,43.1,pct,n_est_ic
+Cor ou raça,Parda,Mulheres,631,36.7,34,39.6,pct,n_est_ic
+Cor ou raça,Indígena,Total,21,0.8,0.4,1.6,pct,n_est_ic
+Cor ou raça,Indígena,Homens,12,1,0.4,2.9,pct,n_est_ic
+Cor ou raça,Indígena,Mulheres,9,0.5,0.2,1.3,pct,n_est_ic
+Estado civil,Casado(a),Total,1363,44,42,45.9,pct,n_est_ic
+Estado civil,Casado(a),Homens,673,46.4,43.7,49.2,pct,n_est_ic
+Estado civil,Casado(a),Mulheres,690,41.8,39.1,44.6,pct,n_est_ic
+Estado civil,"Divorciado(a), separado(a) ou desquitado(a)",Total,276,6.7,5.9,7.7,pct,n_est_ic
+Estado civil,"Divorciado(a), separado(a) ou desquitado(a)",Homens,94,4.8,3.8,6,pct,n_est_ic
+Estado civil,"Divorciado(a), separado(a) ou desquitado(a)",Mulheres,182,8.4,7.1,9.9,pct,n_est_ic
+Estado civil,Viúvo(a),Total,73,1.5,1.1,2,pct,n_est_ic
+Estado civil,Viúvo(a),Homens,9,0.2,0.1,0.5,pct,n_est_ic
+Estado civil,Viúvo(a),Mulheres,64,2.6,1.9,3.5,pct,n_est_ic
+Estado civil,Solteiro(a),Total,1530,47.8,46,49.7,pct,n_est_ic
+Estado civil,Solteiro(a),Homens,722,48.5,45.9,51.1,pct,n_est_ic
+Estado civil,Solteiro(a),Mulheres,808,47.2,44.8,49.7,pct,n_est_ic
+Escolaridade,Sem instrução,Total,46,1.1,0.8,1.5,pct,n_est_ic
+Escolaridade,Sem instrução,Homens,27,1.3,0.8,2.1,pct,n_est_ic
+Escolaridade,Sem instrução,Mulheres,19,0.9,0.5,1.4,pct,n_est_ic
+Escolaridade,Alfabetização,Total,15,0.5,0.2,0.9,pct,n_est_ic
+Escolaridade,Alfabetização,Homens,10,0.7,0.3,1.5,pct,n_est_ic
+Escolaridade,Alfabetização,Mulheres,5,0.3,0.1,0.9,pct,n_est_ic
+Escolaridade,Fundamental,Total,801,22.6,20.5,24.9,pct,n_est_ic
+Escolaridade,Fundamental,Homens,388,23.7,21,26.6,pct,n_est_ic
+Escolaridade,Fundamental,Mulheres,413,21.7,19.1,24.5,pct,n_est_ic
+Escolaridade,Médio,Total,1370,44.9,42.5,47.2,pct,n_est_ic
+Escolaridade,Médio,Homens,638,46.9,43.9,50,pct,n_est_ic
+Escolaridade,Médio,Mulheres,732,43,40,46.1,pct,n_est_ic
+Escolaridade,Superior,Total,1010,31,28.5,33.6,pct,n_est_ic
+Escolaridade,Superior,Homens,435,27.4,24.4,30.5,pct,n_est_ic
+Escolaridade,Superior,Mulheres,575,34.1,30.9,37.5,pct,n_est_ic
+Renda domiciliar per capita (R$),Mediana,Total,,1033,600,1900,reais,mediana_iq
+Renda domiciliar per capita (R$),Mediana,Homens,,1067,599,1925,reais,mediana_iq
+Renda domiciliar per capita (R$),Mediana,Mulheres,,1000,600,1875,reais,mediana_iq
+Faixas de renda (salários mínimos),Até 1/4 SM,Total,217,5.7,4.7,6.8,pct,n_est_ic
+Faixas de renda (salários mínimos),Até 1/4 SM,Homens,76,5.6,4.2,7.4,pct,n_est_ic
+Faixas de renda (salários mínimos),Até 1/4 SM,Mulheres,141,5.8,4.7,7,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 1/4 a 1/2 SM,Total,365,12.7,11.1,14.4,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 1/4 a 1/2 SM,Homens,161,13,10.8,15.6,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 1/4 a 1/2 SM,Mulheres,204,12.4,10.4,14.6,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 1/2 a 1 SM,Total,839,27.7,25.6,29.9,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 1/2 a 1 SM,Homens,357,26,23.2,29,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 1/2 a 1 SM,Mulheres,482,29.1,26.4,32,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 1 a 2 SM,Total,979,30.1,28.1,32.2,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 1 a 2 SM,Homens,479,31.4,28.6,34.3,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 1 a 2 SM,Mulheres,500,29,26.4,31.7,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 2 a 3 SM,Total,348,9.9,8.7,11.2,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 2 a 3 SM,Homens,180,10.1,8.6,11.8,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 2 a 3 SM,Mulheres,168,9.7,8,11.7,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 3 a 5 SM,Total,256,7.8,6.6,9.2,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 3 a 5 SM,Homens,125,7.8,6.3,9.6,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 3 a 5 SM,Mulheres,131,7.8,6.3,9.6,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 5 SM,Total,238,6.2,5.1,7.5,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 5 SM,Homens,120,6.1,4.9,7.7,pct,n_est_ic
+Faixas de renda (salários mínimos),Mais de 5 SM,Mulheres,118,6.2,4.8,8.1,pct,n_est_ic
+Componentes do domicílio,Média,Total,,3.33,3.26,3.41,pct,est_ic
+Componentes do domicílio,Média,Homens,,3.31,3.2,3.41,pct,est_ic
+Componentes do domicílio,Média,Mulheres,,3.36,3.26,3.45,pct,est_ic
+Situação censitária,Urbana,Total,3048,96.9,96.1,97.6,pct,n_est_ic
+Situação censitária,Urbana,Homens,1392,96.6,95.6,97.3,pct,n_est_ic
+Situação censitária,Urbana,Mulheres,1656,97.2,96,98.1,pct,n_est_ic
+Situação censitária,Rural,Total,194,3.1,2.4,3.9,pct,n_est_ic
+Situação censitária,Rural,Homens,106,3.4,2.7,4.4,pct,n_est_ic
+Situação censitária,Rural,Mulheres,88,2.8,1.9,4,pct,n_est_ic
+Tipo de área,Capital,Total,1221,38.8,,,pct,n_est_sem_ic
+Tipo de área,Capital,Homens,550,38.3,,,pct,n_est_sem_ic
+Tipo de área,Capital,Mulheres,671,39.1,,,pct,n_est_sem_ic
+Tipo de área,Resto da região metropolitana,Total,1270,34.6,,,pct,n_est_sem_ic
+Tipo de área,Resto da região metropolitana,Homens,588,34.4,,,pct,n_est_sem_ic
+Tipo de área,Resto da região metropolitana,Mulheres,682,34.8,,,pct,n_est_sem_ic
+Tipo de área,Resto da UF,Total,751,26.6,,,pct,n_est_sem_ic
+Tipo de área,Resto da UF,Homens,360,27.3,,,pct,n_est_sem_ic
+Tipo de área,Resto da UF,Mulheres,391,26,,,pct,n_est_sem_ic

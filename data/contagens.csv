@@ -1,0 +1,25 @@
+bloco,categoria,grupo,n,est,li,ls,unidade,tipo
+Consultas médicas em 12 meses,Média (IC 95%),Total,,3.11,2.87,3.34,contagem,est_ic
+Consultas médicas em 12 meses,Média (IC 95%),Homens,,2.39,2.12,2.66,contagem,est_ic
+Consultas médicas em 12 meses,Média (IC 95%),Mulheres,,3.73,3.37,4.09,contagem,est_ic
+Consultas médicas em 12 meses,Mediana [P25–P75],Total,,2,1,4,contagem,mediana_iq
+Consultas médicas em 12 meses,Mediana [P25–P75],Homens,,1,0,3,contagem,mediana_iq
+Consultas médicas em 12 meses,Mediana [P25–P75],Mulheres,,2,1,4,contagem,mediana_iq
+Consultas médicas em 12 meses,Percentil 90,Total,,6,,,contagem,est
+Consultas médicas em 12 meses,Percentil 90,Homens,,5,,,contagem,est
+Consultas médicas em 12 meses,Percentil 90,Mulheres,,8,,,contagem,est
+Consultas médicas em 12 meses,Zero (%),Total,,18.7,,,pct,est
+Consultas médicas em 12 meses,Zero (%),Homens,,25.3,,,pct,est
+Consultas médicas em 12 meses,Zero (%),Mulheres,,13,,,pct,est
+Internações em 12 meses,Média (IC 95%),Total,,0.08,0.06,0.1,contagem,est_ic
+Internações em 12 meses,Média (IC 95%),Homens,,0.07,0.05,0.09,contagem,est_ic
+Internações em 12 meses,Média (IC 95%),Mulheres,,0.09,0.07,0.12,contagem,est_ic
+Internações em 12 meses,Mediana [P25–P75],Total,,0,0,0,contagem,mediana_iq
+Internações em 12 meses,Mediana [P25–P75],Homens,,0,0,0,contagem,mediana_iq
+Internações em 12 meses,Mediana [P25–P75],Mulheres,,0,0,0,contagem,mediana_iq
+Internações em 12 meses,Percentil 90,Total,,0,,,contagem,est
+Internações em 12 meses,Percentil 90,Homens,,0,,,contagem,est
+Internações em 12 meses,Percentil 90,Mulheres,,0,,,contagem,est
+Internações em 12 meses,Zero (%),Total,,94.2,,,pct,est
+Internações em 12 meses,Zero (%),Homens,,95.3,,,pct,est
+Internações em 12 meses,Zero (%),Mulheres,,93.3,,,pct,est

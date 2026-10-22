@@ -1,0 +1,5 @@
+indicador,estimado,esperado,tolerancia,ok
+Doença crônica composta (%),29.515647871336437,29.5,0.15,TRUE
+Consultas em 12 meses (média),3.105291369089661,3.11,0.02,TRUE
+Internação em 12 meses (%),5.763533520003647,5.8,0.15,TRUE
+Idade média (anos),38.821599026763884,38.8,0.15,TRUE

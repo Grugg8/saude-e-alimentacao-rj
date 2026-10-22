@@ -1,0 +1,130 @@
+---
+title: "A alimentação explica a saúde?"
+---
+
+Esta é a pergunta central do trabalho. A resposta curta é não, pelo menos não
+com estes dados e este desenho.
+
+::: {.destaque}
+Na análise simples, algumas associações entre consumo alimentar e desfechos
+apareceram. Depois do ajuste por sexo, idade, escolaridade, renda, cor ou raça,
+estado civil e características do domicílio, **nenhuma das cinco exposições
+ficou associada aos três desfechos** com q menor que 0,05, nem no ajuste
+marginal nem no mútuo.
+:::
+
+## O que a análise simples mostrava
+
+Foram feitas 174 comparações: cinco exposições contra três desfechos, em três
+vistas (todos, mulheres, homens), mais as comparações entre sexos e as
+exploratórias. Na vista direta, 6 das 15 comparações do núcleo tinham q menor
+que 0,05: feijão e consultas, frutas e consultas, frutas e internações, verduras
+e doença crônica, verduras e consultas, ultraprocessados e doença crônica.
+
+Dentro de cada sexo, o sinal enfraquece: 2 de 15 entre mulheres e 1 de 15 entre
+homens. Isso é compatível com confundimento por sexo, mas a perda de precisão
+dentro de cada grupo também pesa: com menos pessoas, o intervalo de confiança
+fica maior.
+
+::: {.panel-tabset}
+## Todos
+
+{{< include tabelas/matriz_nucleo_direta.md >}}
+
+## Mulheres
+
+{{< include tabelas/matriz_nucleo_mulheres.md >}}
+
+## Homens
+
+{{< include tabelas/matriz_nucleo_homens.md >}}
+:::
+
+**Tabela 1.** q de Benjamini-Hochberg para as 15 comparações do núcleo, por
+vista. O asterisco marca q < 0,05. Cada célula resume um teste entre quem
+consome e quem não consome o alimento.
+
+::: {.callout-note collapse="true"}
+## Ver as 40 comparações exploratórias
+
+O bloco exploratório cruza as cinco exposições com oito desfechos: hipertensão,
+diabetes, doença do coração, AVC, depressão, câncer, indisposição frequente e
+sentir-se deprimido frequente. Na vista direta, 5 das 40 comparações tinham
+q < 0,05; dentro de cada sexo, nenhuma.
+
+::: {.panel-tabset}
+## Todos
+
+{{< include tabelas/matriz_exploratoria_direta.md >}}
+
+## Mulheres
+
+{{< include tabelas/matriz_exploratoria_mulheres.md >}}
+
+## Homens
+
+{{< include tabelas/matriz_exploratoria_homens.md >}}
+:::
+:::
+
+## O que sobrou depois do ajuste
+
+Os modelos incluem as características pessoais. No ajuste mútuo entram as cinco
+exposições ao mesmo tempo; no marginal, cada uma separadamente. Para doença
+crônica e internação, o resultado é um **odds ratio** (OR); para consultas, uma
+**razão de médias**. Nos dois casos, 1 significa nenhuma diferença. Um OR de 1,2
+significa cerca de 20% mais chance estimada; de 0,8, cerca de 20% menos. O
+intervalo de confiança mostra a faixa compatível com os dados: se ele cruza o 1,
+não há evidência de associação.
+
+![**Figura 1.** Doença crônica composta: OR por alimento, por sexo, no ajuste marginal (cada alimento com as covariáveis) e no mútuo (os cinco juntos). Escala logarítmica; a linha tracejada em 1 é a ausência de associação.](figuras/fig_modelo_composta.png){fig-alt="Gráfico de pontos com intervalos de confiança para o odds ratio de cada alimento sobre a doença crônica, em homens e mulheres, nos ajustes marginal e mútuo. Todos os intervalos cruzam a linha de 1."}
+
+::: {.callout-note collapse="true"}
+## Números exatos: doença crônica (ajuste mútuo)
+
+{{< include tabelas/modelos_composta.md >}}
+:::
+
+![**Figura 2.** Consultas em 12 meses: razão de médias por alimento, por sexo, nos dois ajustes. Escala logarítmica; linha tracejada em 1.](figuras/fig_modelo_consultas.png){fig-alt="Gráfico de pontos com intervalos de confiança para a razão de médias de consultas por alimento, em homens e mulheres, nos dois ajustes. Todos os intervalos cruzam a linha de 1."}
+
+::: {.callout-note collapse="true"}
+## Números exatos: consultas (ajuste mútuo)
+
+{{< include tabelas/modelos_consultas.md >}}
+:::
+
+![**Figura 3.** Internação em 12 meses: OR por alimento, por sexo, nos dois ajustes. Escala logarítmica; linha tracejada em 1.](figuras/fig_modelo_internacao.png){fig-alt="Gráfico de pontos com intervalos de confiança para o odds ratio de internação por alimento, em homens e mulheres, nos dois ajustes. Quase todos os intervalos cruzam a linha de 1."}
+
+::: {.callout-note collapse="true"}
+## Números exatos: internação (ajuste mútuo)
+
+{{< include tabelas/modelos_internacao.md >}}
+:::
+
+## O caso dos doces e das internações
+
+Uma combinação merece nota, porque é a que mais se aproxima de um resultado
+positivo. No ajuste mútuo, a interação entre doces e sexo tem OR de 4,31
+(IC 95% 1,47–12,62), com p de 0,008. Entre homens, o OR é de 0,40 (0,16–1,01);
+entre mulheres, de 1,74 (1,01–3,01).
+
+Depois da correção para múltiplas comparações, o q fica em 0,079, acima de 0,05.
+As direções opostas e o intervalo largo tornam a leitura frágil. O resultado
+fica registrado como hipótese para estudos futuros, não como achado.
+
+::: {.nota}
+**Por que o ajuste muda a leitura.** Sexo, idade, escolaridade e renda se
+associam tanto ao que as pessoas comem quanto aos desfechos. Quando essas
+características entram no modelo, parte do sinal da análise simples desaparece.
+Isso é compatível com confundimento, embora o ajuste também possa reduzir a
+precisão das estimativas.
+
+**Ausência de evidência não é evidência de ausência.** Não encontrar associação
+com estes dados não prova que a alimentação não importa. Prova que, neste
+recorte, com estas medidas de frequência e este tamanho de amostra, não há
+evidência estatística suficiente.
+
+**Muitos testes.** Foram 174 comparações. Sem correção, cerca de 9 apareceriam
+como significativas só por acaso. O q de Benjamini-Hochberg controla essa taxa
+dentro de cada família e de cada vista. Por isso a leitura principal usa q.
+:::

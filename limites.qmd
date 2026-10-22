@@ -1,0 +1,86 @@
+---
+title: "O que os dados não dizem"
+---
+
+Nenhum resultado deste site deve ser lido como recomendação individual, como
+previsão de risco ou como prova de causa e efeito. Esta página reúne os limites
+que valem para todos os números apresentados.
+
+## O que não é possível concluir
+
+- **Causalidade.** A PNS mede alimentação e saúde no mesmo momento. Não é
+  possível saber se a alimentação veio antes da doença, se a doença mudou a
+  alimentação ou se as duas coisas andam juntas por outro motivo.
+- **Risco individual.** Os percentuais descrevem grupos. Não permitem dizer que
+  uma pessoa específica vai adoecer ou deixar de adoecer.
+- **Tendência temporal.** Os dados são de 2019. O site não mostra aumento,
+  queda ou efeito de políticas ao longo do tempo.
+- **Comparação com outros lugares.** O recorte é o estado do Rio de Janeiro.
+  Nada aqui deve ser generalizado para o Brasil ou para outro estado.
+
+## Limites da pesquisa
+
+**Autorrelato.** Doenças são o que a pessoa lembra de ter ouvido de um médico.
+Consultas e internações são contadas de memória, no período de 12 meses. Não há
+verificação em prontuário. Isso tende a subestimar condições que não geram
+diagnóstico e a depender do acesso ao serviço.
+
+**Transversal.** Cada pessoa é observada uma única vez. Não há seguimento.
+
+**Faixa de idade.** O recorte vai de 18 a 59 anos. Pessoas de 60 anos ou mais,
+que concentram mais doença crônica, ficam de fora.
+
+**Medida de alimentação.** O consumo é medido em frequência de dias, não em
+quantidade, porção ou calorias. Os ultraprocessados vêm de um único dia de
+recordatório, o que aumenta a variabilidade.
+
+**Eventos raros.** AVC (0,9%), câncer (1,5%) e internação (5,8%) têm poucos
+casos. Os intervalos de confiança são largos e os modelos têm menos precisão
+para esses desfechos.
+
+## Limites da análise
+
+**Gradientes sem ajuste.** As figuras de escolaridade e idade são descritivas.
+Não controlam outros fatores, e escolaridade, idade e renda estão
+correlacionadas.
+
+**Muitas comparações.** Foram 174 testes. A correção de Benjamini-Hochberg
+reduz o risco de falsos positivos, mas não elimina. Resultados com q próximo de
+0,05 devem ser lidos com cautela.
+
+**Ausentes.** A doença crônica composta tem 4,8% de ausentes, mantidos como
+ausentes. Não há imputação.
+
+**Células pequenas.** Grupos com menos de 30 pessoas não aparecem nas figuras de
+gradiente. As estimativas ficam instáveis e poderiam sugerir padrões que os
+dados não sustentam.
+
+::: {.nota}
+**Privacidade.** O site publica apenas estimativas agregadas para o estado. Não
+há microdados, identificação de pessoas ou tabelas com células pequenas o
+suficiente para permitir reconhecimento. Os microdados da PNS são públicos e
+estão disponíveis no site do IBGE; este site não os redistribui.
+:::
+
+## Fonte e como citar
+
+Os dados vêm da **Pesquisa Nacional de Saúde 2019**, do Instituto Brasileiro de
+Geografia e Estatística (IBGE), em parceria com o Ministério da Saúde. O recorte,
+as variáveis derivadas e as análises são do relatório técnico do Projeto III da
+disciplina GET00109 (Prática Estatística III), que acompanha este site.
+
+Para citar este site:
+
+> Projeto III, GET00109 Prática Estatística III. *Comer e adoecer no Rio de
+> Janeiro: resultados da Pesquisa Nacional de Saúde 2019 para adultos de 18 a 59
+> anos*. 2026. Disponível em:
+> https://grugg8.github.io/saude-e-alimentacao-rj/.
+
+Para citar os dados:
+
+> Instituto Brasileiro de Geografia e Estatística. *Pesquisa Nacional de Saúde
+> 2019: microdados*. Rio de Janeiro: IBGE, 2020.
+
+O detalhamento metodológico está em [como foi feito](metodos.qmd). O relatório
+técnico completo, com as tabelas de todos os testes e modelos, está disponível
+com os autores.

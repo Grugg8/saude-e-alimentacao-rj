@@ -1,0 +1,22 @@
+bloco,categoria,grupo,n,est,li,ls,unidade,tipo
+Ausentes,Doença crônica composta (binária),Total,157,5.2,4.2,6.3,pct,n_est_ic
+Ausentes,Doença crônica composta (binária),Homens,96,6.8,5.3,8.7,pct,n_est_ic
+Ausentes,Doença crônica composta (binária),Mulheres,61,3.7,2.7,5.1,pct,n_est_ic
+Ausentes,Consultas em 12 meses (contagem),Total,0,0,,,pct,n_est_paren
+Ausentes,Consultas em 12 meses (contagem),Homens,0,0,,,pct,n_est_paren
+Ausentes,Consultas em 12 meses (contagem),Mulheres,0,0,,,pct,n_est_paren
+Ausentes,Internações em 12 meses (contagem),Total,0,0,,,pct,n_est_paren
+Ausentes,Internações em 12 meses (contagem),Homens,0,0,,,pct,n_est_paren
+Ausentes,Internações em 12 meses (contagem),Mulheres,0,0,,,pct,n_est_paren
+Zeros,Consultas em 12 meses (contagem),Total,608,18.7,17.1,20.5,pct,n_est_ic
+Zeros,Consultas em 12 meses (contagem),Homens,373,25.3,22.4,28.3,pct,n_est_ic
+Zeros,Consultas em 12 meses (contagem),Mulheres,235,13,11.2,15.1,pct,n_est_ic
+Zeros,Internações em 12 meses (contagem),Total,3038,94.2,93.2,95.1,pct,n_est_ic
+Zeros,Internações em 12 meses (contagem),Homens,1418,95.3,93.9,96.4,pct,n_est_ic
+Zeros,Internações em 12 meses (contagem),Mulheres,1620,93.3,91.7,94.6,pct,n_est_ic
+Zeros,Teve consulta (alternativa binária),Total,608,18.7,17.1,20.5,pct,n_est_ic
+Zeros,Teve consulta (alternativa binária),Homens,373,25.3,22.4,28.3,pct,n_est_ic
+Zeros,Teve consulta (alternativa binária),Mulheres,235,13,11.2,15.1,pct,n_est_ic
+Zeros,Teve internação (alternativa binária),Total,3038,94.2,93.2,95.1,pct,n_est_ic
+Zeros,Teve internação (alternativa binária),Homens,1418,95.3,93.9,96.4,pct,n_est_ic
+Zeros,Teve internação (alternativa binária),Mulheres,1620,93.3,91.7,94.6,pct,n_est_ic

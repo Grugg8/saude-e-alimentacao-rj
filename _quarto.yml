@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+
+website:
+  title: "Comer e adoecer no Rio de Janeiro"
+  site-url: "https://grugg8.github.io/saude-e-alimentacao-rj/"
+  description: "O que a Pesquisa Nacional de Saúde de 2019 mostra sobre alimentação, doenças e uso de serviços entre adultos de 18 a 59 anos no estado do Rio de Janeiro."
+  bread-crumbs: false
+  page-navigation: true
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - text: "Início"
+        href: index.qmd
+      - section: "O retrato"
+        contents:
+          - quem-foi-estudado.qmd
+          - alimentacao.qmd
+          - saude.qmd
+      - section: "Comparações"
+        contents:
+          - homens-mulheres.qmd
+          - percepcao.qmd
+          - desigualdade.qmd
+      - section: "O que explica"
+        contents:
+          - alimentacao-e-saude.qmd
+      - section: "Sobre"
+        contents:
+          - limites.qmd
+          - metodos.qmd
+  page-footer:
+    left: "Projeto III — GET00109, Prática Estatística III"
+    right: "Dados: PNS 2019, IBGE"
+
+format:
+  html:
+    lang: pt-BR
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    toc-title: "Nesta página"
+    fig-cap-location: bottom
+    tbl-cap-location: bottom
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="description" content="Resultados da PNS 2019 para adultos de 18 a 59 anos no Rio de Janeiro, em linguagem acessível.">
+        <meta property="og:title" content="Comer e adoecer no Rio de Janeiro">
+        <meta property="og:description" content="O que a Pesquisa Nacional de Saúde de 2019 mostra sobre alimentação, doenças e uso de serviços no estado do Rio de Janeiro.">
+        <meta property="og:type" content="website">
+    include-after-body:
+      text: |
+        <script src="assets/tabelas.js"></script>
+
+execute:
+  enabled: false

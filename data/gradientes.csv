@@ -1,0 +1,49 @@
+eixo,desfecho,sexo,estrato,categoria,n,est,li,ls,unidade,exibir
+doenca_cronica,Doença crônica composta,Homens,Faixa etária,18 a 29 anos,280,8.362996481222451,4.164594023705065,12.561398938739837,pct,TRUE
+doenca_cronica,Doença crônica composta,Homens,Faixa etária,30 a 44 anos,549,22.13985636646098,18.024230548520865,26.255482184401096,pct,TRUE
+doenca_cronica,Doença crônica composta,Homens,Faixa etária,45 a 59 anos,573,41.56431341562285,36.95223982703538,46.176387004210326,pct,TRUE
+doenca_cronica,Doença crônica composta,Mulheres,Faixa etária,18 a 29 anos,322,14.128630201699712,9.753251280452401,18.504009122947025,pct,TRUE
+doenca_cronica,Doença crônica composta,Mulheres,Faixa etária,30 a 44 anos,622,27.474382193974485,23.50515077918007,31.443613608768896,pct,TRUE
+doenca_cronica,Doença crônica composta,Mulheres,Faixa etária,45 a 59 anos,739,50.613904103490434,46.36675577009859,54.861052436882275,pct,TRUE
+doenca_cronica,Doença crônica composta,Homens,Escolaridade,Sem instrução,23,21.050998757429916,4.330750245918774,37.77124726894106,pct,FALSE
+doenca_cronica,Doença crônica composta,Homens,Escolaridade,Alfabetização,10,64.84391755097005,39.77219265511005,89.91564244683003,pct,FALSE
+doenca_cronica,Doença crônica composta,Homens,Escolaridade,Fundamental,348,28.401704282593244,22.664125033196285,34.1392835319902,pct,TRUE
+doenca_cronica,Doença crônica composta,Homens,Escolaridade,Médio,595,20.69643051630541,16.658903223409887,24.73395780920093,pct,TRUE
+doenca_cronica,Doença crônica composta,Homens,Escolaridade,Superior,426,29.837684486156625,25.079435613665574,34.59593335864767,pct,TRUE
+doenca_cronica,Doença crônica composta,Mulheres,Escolaridade,Sem instrução,18,41.79830544116683,16.268307509457024,67.32830337287665,pct,FALSE
+doenca_cronica,Doença crônica composta,Mulheres,Escolaridade,Alfabetização,5,100,100,100,pct,FALSE
+doenca_cronica,Doença crônica composta,Mulheres,Escolaridade,Fundamental,391,48.74857838975794,43.229560674419915,54.26759610509595,pct,TRUE
+doenca_cronica,Doença crônica composta,Mulheres,Escolaridade,Médio,703,30.56611443941884,26.611886297128045,34.520342581709635,pct,TRUE
+doenca_cronica,Doença crônica composta,Mulheres,Escolaridade,Superior,566,25.357437342042786,21.69124485224528,29.023629831840292,pct,TRUE
+consultas_12m,Consultas em 12 meses,Homens,Faixa etária,18 a 29 anos,318,2.066831390621927,1.3709686229075557,2.762694158336298,contagem,TRUE
+consultas_12m,Consultas em 12 meses,Homens,Faixa etária,30 a 44 anos,582,2.2407981823055305,1.9758136432139484,2.5057827213971127,contagem,TRUE
+consultas_12m,Consultas em 12 meses,Homens,Faixa etária,45 a 59 anos,598,2.815519213684334,2.4055763040572162,3.2254621233114515,contagem,TRUE
+consultas_12m,Consultas em 12 meses,Mulheres,Faixa etária,18 a 29 anos,349,3.3431652705200943,2.8003961933985786,3.88593434764161,contagem,TRUE
+consultas_12m,Consultas em 12 meses,Mulheres,Faixa etária,30 a 44 anos,640,3.4438978581132704,3.1195753560433372,3.7682203601832036,contagem,TRUE
+consultas_12m,Consultas em 12 meses,Mulheres,Faixa etária,45 a 59 anos,755,4.266691964068523,3.4015670851830206,5.1318168429540245,contagem,TRUE
+consultas_12m,Consultas em 12 meses,Homens,Escolaridade,Sem instrução,27,2.418858385184608,1.3267386214400718,3.5109781489291443,contagem,FALSE
+consultas_12m,Consultas em 12 meses,Homens,Escolaridade,Alfabetização,10,16.69852571793879,-8.881185255028303,42.278236690905885,contagem,FALSE
+consultas_12m,Consultas em 12 meses,Homens,Escolaridade,Fundamental,388,2.109255407870156,1.6450626329012041,2.573448182839108,contagem,TRUE
+consultas_12m,Consultas em 12 meses,Homens,Escolaridade,Médio,638,2.10128963382843,1.8224456769806199,2.3801335906762406,contagem,TRUE
+consultas_12m,Consultas em 12 meses,Homens,Escolaridade,Superior,435,2.786088012368732,2.5080496058997603,3.064126418837704,contagem,TRUE
+consultas_12m,Consultas em 12 meses,Mulheres,Escolaridade,Sem instrução,19,5.591081420051022,-0.1904137801471597,11.372576620249205,contagem,FALSE
+consultas_12m,Consultas em 12 meses,Mulheres,Escolaridade,Alfabetização,5,5.493820814265282,4.068068300772352,6.919573327758212,contagem,FALSE
+consultas_12m,Consultas em 12 meses,Mulheres,Escolaridade,Fundamental,413,3.9036840868504,2.5529314482321066,5.254436725468693,contagem,TRUE
+consultas_12m,Consultas em 12 meses,Mulheres,Escolaridade,Médio,732,3.4332062284626628,3.0310227887468515,3.835389668178474,contagem,TRUE
+consultas_12m,Consultas em 12 meses,Mulheres,Escolaridade,Superior,575,3.923781460292835,3.4991030696922527,4.348459850893417,contagem,TRUE
+teve_internacao,Internação em 12 meses,Homens,Faixa etária,18 a 29 anos,318,1.8960067654166814,-0.01810338255153303,3.8101169133848964,pct,TRUE
+teve_internacao,Internação em 12 meses,Homens,Faixa etária,30 a 44 anos,582,6.360081231705673,3.9435464076131592,8.776616055798188,pct,TRUE
+teve_internacao,Internação em 12 meses,Homens,Faixa etária,45 a 59 anos,598,5.283553964611234,3.350680001724983,7.2164279274974845,pct,TRUE
+teve_internacao,Internação em 12 meses,Mulheres,Faixa etária,18 a 29 anos,349,7.000181976507487,3.8354491741197885,10.164914778895186,pct,TRUE
+teve_internacao,Internação em 12 meses,Mulheres,Faixa etária,30 a 44 anos,640,7.733905262544452,5.411983018615721,10.055827506473184,pct,TRUE
+teve_internacao,Internação em 12 meses,Mulheres,Faixa etária,45 a 59 anos,755,5.50097295884593,3.722025191500132,7.279920726191727,pct,TRUE
+teve_internacao,Internação em 12 meses,Homens,Escolaridade,Sem instrução,27,6.987890001597918,-1.9599080595642984,15.935688062760134,pct,FALSE
+teve_internacao,Internação em 12 meses,Homens,Escolaridade,Alfabetização,10,11.215575341216384,-10.25529561945125,32.68644630188402,pct,FALSE
+teve_internacao,Internação em 12 meses,Homens,Escolaridade,Fundamental,388,4.789839702015693,2.438672370505026,7.1410070335263605,pct,TRUE
+teve_internacao,Internação em 12 meses,Homens,Escolaridade,Médio,638,4.370633831671684,2.4533702122523113,6.287897451091057,pct,TRUE
+teve_internacao,Internação em 12 meses,Homens,Escolaridade,Superior,435,4.886291379000756,2.9037171645716215,6.868865593429891,pct,TRUE
+teve_internacao,Internação em 12 meses,Mulheres,Escolaridade,Sem instrução,19,0,0,0,pct,FALSE
+teve_internacao,Internação em 12 meses,Mulheres,Escolaridade,Alfabetização,5,42.41046080556294,-12.27569309241911,97.09661470354499,pct,FALSE
+teve_internacao,Internação em 12 meses,Mulheres,Escolaridade,Fundamental,413,4.715167714015391,2.4582458273181587,6.972089600712623,pct,TRUE
+teve_internacao,Internação em 12 meses,Mulheres,Escolaridade,Médio,732,7.661413996487602,5.288795304819936,10.03403268815527,pct,TRUE
+teve_internacao,Internação em 12 meses,Mulheres,Escolaridade,Superior,575,6.602241914728458,4.327213908454573,8.877269921002341,pct,TRUE

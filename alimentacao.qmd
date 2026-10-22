@@ -1,0 +1,56 @@
+---
+title: "O que as pessoas comem"
+---
+
+A PNS pergunta com que frequência a pessoa come feijão, frutas, verduras e
+legumes, doces e outros itens. Também pergunta quais grupos de alimentos
+industrializados foram consumidos no dia anterior.
+
+::: {.callout-note appearance="simple"}
+## Como lemos o consumo
+
+- **Consumo regular**: cinco ou mais dias por semana. Vale para feijão, frutas,
+  verduras e legumes e doces.
+- **Ultraprocessados**: contagem dos dez grupos consumidos no dia anterior
+  (bebidas adoçadas, salgadinhos, biscoitos, embutidos, entre outros). O
+  indicador principal marca quem consumiu cinco ou mais grupos.
+- **Versão de 8 itens**: a mesma conta sem os dois itens de doce, usada para
+  checar se o resultado depende dessa sobreposição.
+- A pergunta mede **frequência, não quantidade**. Comer feijão cinco dias por
+  semana não diz quanto feijão a pessoa come.
+:::
+
+{{< include tabelas/cartoes_alimentacao.md >}}
+
+![**Figura 1.** Consumo regular (5 ou mais dias por semana) e ultraprocessados, por sexo. Percentual estimado; linha vertical: IC 95%.](figuras/fig_exposicoes.png){fig-alt="Barras horizontais com a prevalência de consumo regular de feijão, frutas, verduras e legumes, doces e ultraprocessados, em painéis de homens e mulheres."}
+
+## Feijão é o item mais frequente
+
+O feijão aparece em 73,0% (IC 95% 70,9–75,0) da população, bem acima dos outros
+itens. Verduras e legumes vêm em seguida, com 53,5% (51,2–55,8), e frutas com
+39,7% (37,6–41,9). Doces ficam em 17,5% (15,8–19,2).
+
+Nos ultraprocessados, 20,3% (18,4–22,3) consumiram cinco ou mais grupos no dia
+anterior. Na versão de oito itens, sem os doces, a prevalência cai para 13,0%
+(11,5–14,7). Em média, as pessoas consumiram 3,0 grupos de ultraprocessados
+(IC 95% 2,89–3,10), de um total de dez.
+
+## Homens e mulheres comem diferente
+
+As diferenças entre os sexos aparecem em quase todos os itens. Homens consomem
+mais feijão (79,8% contra 67,0%) e mais ultraprocessados (22,4% contra 18,5%).
+Mulheres consomem mais frutas (44,0% contra 34,9%) e mais verduras e legumes
+(56,4% contra 50,1%). Doces ficam próximos: 18,6% entre homens e 16,5% entre
+mulheres, uma diferença que não se sustenta estatisticamente.
+
+::: {.nota}
+**Sobreposição entre doces e ultraprocessados.** Entre quem come doces cinco ou
+mais dias por semana, 65,3% consumiram algum doce no dia anterior; entre os
+demais, 32,4%. Por isso o indicador de ultraprocessados de dez itens inclui
+parte do consumo de doces. A versão de oito itens existe para mostrar que a
+leitura geral não muda quando essa sobreposição é removida.
+
+**O que "regular" não significa.** O indicador não classifica o alimento como
+saudável ou não saudável, nem mede porção. Ele apenas separa quem consome com
+frequência de quem consome pouco ou nunca.
+:::

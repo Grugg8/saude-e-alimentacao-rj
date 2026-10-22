@@ -1,0 +1,79 @@
+---
+title: "Comer e adoecer no Rio de Janeiro"
+toc: false
+format:
+  html:
+    include-in-header:
+      text: |
+        <style>#title-block-header { display: none; }</style>
+        <meta name="description" content="Resultados da PNS 2019 para adultos de 18 a 59 anos no Rio de Janeiro, em linguagem acessível.">
+        <meta property="og:title" content="Comer e adoecer no Rio de Janeiro">
+        <meta property="og:description" content="O que a Pesquisa Nacional de Saúde de 2019 mostra sobre alimentação, doenças e uso de serviços no estado do Rio de Janeiro.">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://grugg8.github.io/saude-e-alimentacao-rj/">
+---
+
+::: {.hero}
+[Pesquisa Nacional de Saúde · 2019 · Rio de Janeiro]{.kicker}
+
+# Comer e adoecer no Rio de Janeiro
+
+[O que 3.242 adultos de 18 a 59 anos do estado do Rio de Janeiro contam sobre alimentação, doenças e uso de serviços de saúde. Percentuais e médias são estimativas para a população, com intervalo de confiança de 95%.]{.lead}
+:::
+
+{{< include tabelas/cartoes_index.md >}}
+
+## O que este site mostra
+
+A Pesquisa Nacional de Saúde de 2019 selecionou 90.846 moradores em todo o
+Brasil. Desse total, 4.966 eram do estado do Rio de Janeiro e 3.242 tinham entre
+18 e 59 anos. É esse grupo que aparece aqui.
+
+O site reúne os resultados do relatório técnico do Projeto III da disciplina
+Prática Estatística III, em linguagem acessível. As estimativas usam o peso
+amostral da pesquisa, o que permite falar da população do estado e não apenas
+das pessoas entrevistadas.
+
+## A resposta curta
+
+::: {.destaque}
+Na análise simples, algumas diferenças entre quem consome e quem não consome
+cada alimento apareceram. Depois de levar em conta sexo, idade, escolaridade,
+renda, cor ou raça, estado civil e características do domicílio, **nenhuma das
+cinco exposições alimentares ficou associada aos três desfechos** com evidência
+estatística.
+
+O que aparece com força na análise descritiva são as diferenças entre homens e
+mulheres: elas relatam mais doenças crônicas e consultam muito mais. Entre as
+mulheres, a escolaridade também separa bastante os resultados.
+:::
+
+Essa é a leitura central do trabalho, e ela tem uma consequência prática: os
+números deste site descrevem quem adoece e quem usa o sistema de saúde, mas não
+permitem dizer que um alimento específico causa ou previne uma doença.
+
+## Por onde começar
+
+- **[Quem foi estudado](quem-foi-estudado.qmd)**: o recorte, a amostra e o perfil
+  da população.
+- **[O que as pessoas comem](alimentacao.qmd)**: feijão, frutas, verduras, doces
+  e ultraprocessados, com as diferenças entre os sexos.
+- **[Como está a saúde](saude.qmd)**: doenças crônicas, percepção de saúde,
+  consultas e internações.
+- **[Homens e mulheres](homens-mulheres.qmd)**: nove indicadores comparados.
+- **[Percepção e diagnóstico](percepcao.qmd)**: sentir-se deprimido não é o mesmo
+  que ter um diagnóstico.
+- **[Escolaridade e saúde](desigualdade.qmd)**: como os resultados mudam conforme
+  o nível de instrução.
+- **[A alimentação explica a saúde?](alimentacao-e-saude.qmd)**: os testes, os
+  modelos e o que sobrou depois do ajuste.
+- **[O que os dados não dizem](limites.qmd)** e **[como foi feito](metodos.qmd)**:
+  limites, fontes e métodos.
+
+::: {.nota}
+**Sobre os números.** Percentuais e médias são estimativas ponderadas pelo
+desenho amostral da PNS, com intervalo de confiança de 95% entre parênteses. O
+intervalo indica a faixa de valores compatível com os dados; quando dois
+intervalos se sobrepõem muito, a diferença entre os grupos é incerta. Este site
+não refaz análises: ele apresenta resultados já produzidos no relatório técnico.
+:::

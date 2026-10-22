@@ -1,0 +1,287 @@
+/* Página pública — PNS 2019, RJ
+   Tipografia do sistema, sem fontes externas e sem dependência de CDN. */
+
+:root {
+  --ink: #23272B;
+  --ink-soft: #3D4448;
+  --muted: #5F6B70;
+  --rule: #E4E1DB;
+  --paper: #FFFFFF;
+  --soft: #F8F6F2;
+  --teal: #1F6F68;
+  --teal-dark: #17544F;
+  --terra: #A85A3F;
+  --max: 46rem;
+}
+
+body {
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 19px;
+  line-height: 1.65;
+  background: var(--paper);
+}
+
+h1, h2, h3, h4, h5,
+.navbar, .sidebar, .quarto-title-meta, figcaption,
+.cartao, .legenda, .nota, .destaque .rotulo,
+table, .callout, .btn, .nav-tabs, .quarto-title-block .title {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4 {
+  color: var(--ink);
+  letter-spacing: -0.015em;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 1.55rem;
+  margin-top: 2.6rem;
+  padding-top: 0.4rem;
+}
+
+h3 {
+  font-size: 1.15rem;
+  margin-top: 1.9rem;
+  color: var(--ink-soft);
+}
+
+p { margin-bottom: 0.9rem; }
+
+a {
+  color: var(--teal-dark);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+a:hover { color: var(--terra); }
+
+/* Largura de leitura */
+#quarto-content { max-width: 1180px; }
+main.content { max-width: var(--max); margin-inline: auto; }
+#quarto-document-content { max-width: 100%; }
+.quarto-title-block { max-width: var(--max); margin-inline: auto; }
+
+/* Cabeçalho / capa */
+.hero {
+  padding: 1.2rem 0 2rem;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 2.2rem;
+}
+.hero .kicker {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.76rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--terra);
+  margin-bottom: 0.5rem;
+}
+.hero h1 {
+  font-size: 2.65rem;
+  line-height: 1.08;
+  margin: 0 0 0.9rem;
+  letter-spacing: -0.025em;
+}
+.hero p.lead {
+  font-size: 1.22rem;
+  line-height: 1.55;
+  color: var(--ink-soft);
+  margin: 0;
+}
+
+/* Cartões de indicadores */
+.cartoes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(165px, 1fr));
+  gap: 14px;
+  margin: 1.8rem 0 2rem;
+}
+.cartao {
+  background: var(--soft);
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  padding: 16px 18px 14px;
+}
+.cartao .valor {
+  display: block;
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.08;
+  color: var(--ink);
+}
+.cartao .rotulo {
+  display: block;
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.35;
+  margin-top: 7px;
+}
+.cartao .fonte {
+  display: block;
+  font-size: 0.71rem;
+  color: var(--muted);
+  line-height: 1.3;
+  margin-top: 5px;
+}
+
+/* Mensagem principal de uma seção */
+.destaque {
+  background: var(--soft);
+  border-left: 3px solid var(--teal);
+  padding: 1rem 1.3rem;
+  margin: 1.8rem 0;
+  font-size: 1.06rem;
+  line-height: 1.6;
+}
+.destaque p:last-child { margin-bottom: 0; }
+.destaque strong { color: var(--ink); }
+
+/* Nota metodológica */
+.nota {
+  font-size: 0.86rem;
+  line-height: 1.55;
+  color: var(--muted);
+  border-top: 1px solid var(--rule);
+  padding-top: 0.8rem;
+  margin-top: 1.6rem;
+}
+.nota strong { color: var(--ink-soft); }
+
+/* Figuras */
+figure {
+  margin: 2.1rem 0;
+}
+figure img, figure svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+figcaption {
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: var(--muted);
+  margin-top: 0.65rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--rule);
+}
+figcaption strong { color: var(--ink-soft); }
+
+/* Tabelas */
+table {
+  font-size: 0.85rem;
+  line-height: 1.45;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.4rem 0 1.8rem;
+}
+thead th {
+  border-bottom: 2px solid var(--ink);
+  text-align: left;
+  font-weight: 600;
+  padding: 0.5rem 0.55rem;
+  vertical-align: bottom;
+}
+tbody td {
+  border-bottom: 1px solid var(--rule);
+  padding: 0.42rem 0.55rem;
+  vertical-align: top;
+}
+tbody tr:last-child td { border-bottom: 1px solid var(--rule); }
+th.num, td.num { text-align: right; font-variant-numeric: tabular-nums; }
+
+.table-responsive, .cell-output { overflow-x: auto; }
+
+/* Tabelas largas rolam dentro da própria caixa no celular. */
+.tabela-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1.4rem 0 1.8rem;
+  border-bottom: 1px solid var(--rule);
+}
+.tabela-scroll table { margin: 0; }
+.tabela-scroll td:not(:first-child),
+.tabela-scroll th:not(:first-child) { white-space: nowrap; }
+
+/* Abas */
+.panel-tabset .nav-tabs {
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 1rem;
+}
+.panel-tabset .nav-tabs .nav-link {
+  font-size: 0.88rem;
+  color: var(--muted);
+  border: none;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  padding: 0.5rem 0.9rem;
+}
+.panel-tabset .nav-tabs .nav-link.active {
+  color: var(--ink);
+  background: transparent;
+  border-bottom-color: var(--teal);
+}
+
+/* Callouts mais discretos */
+.callout {
+  font-size: 0.92rem;
+  border-radius: 8px;
+}
+.callout.callout-style-default > .callout-header {
+  font-size: 0.92rem;
+  padding: 0.55rem 0.9rem;
+}
+.callout .callout-body { padding: 0.7rem 0.9rem; }
+
+/* Botão de sumário e navegação */
+.sidebar-title { font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.sidebar-item { font-size: 0.88rem; }
+.sidebar-item .sidebar-item-text { color: var(--ink-soft); }
+.sidebar-item .active { color: var(--teal-dark); font-weight: 600; }
+#TOC { font-size: 0.82rem; }
+#TOC a { text-decoration: none; color: var(--muted); }
+#TOC a.active { color: var(--ink); }
+
+/* Rodapé */
+.nav-footer {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.8rem;
+  color: var(--muted);
+  border-top: 1px solid var(--rule);
+  margin-top: 3rem;
+}
+
+/* Listas mais legíveis */
+ul, ol { padding-left: 1.3rem; }
+li { margin-bottom: 0.4rem; }
+
+/* Destaque numérico no texto */
+.num {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* Sumário lateral da página em telas pequenas */
+@media (max-width: 991px) {
+  #TOC { display: none; }
+}
+
+@media (max-width: 640px) {
+  body { font-size: 18px; }
+  .hero h1 { font-size: 2rem; }
+  .hero p.lead { font-size: 1.08rem; }
+  .cartoes { grid-template-columns: 1fr 1fr; gap: 10px; }
+  .cartao { padding: 13px 14px 12px; }
+  .cartao .valor { font-size: 1.55rem; }
+  .cartao .rotulo { font-size: 0.76rem; }
+  h2 { font-size: 1.35rem; }
+  table { font-size: 0.78rem; }
+}
+
+@media print {
+  .sidebar, #TOC, .nav-footer { display: none; }
+  body { font-size: 11pt; }
+}
