@@ -1,30 +1,33 @@
 ---
-title: "A alimentação explica a saúde?"
+title: "Alimentação e resultados de saúde"
 ---
 
-Esta é a pergunta central do trabalho. A resposta curta é não, pelo menos não
-com estes dados e este desenho.
+A análise investiga se as medidas de consumo alimentar variam junto com os
+resultados de saúde. Como a pesquisa mediu alimentação e saúde no mesmo período,
+não é possível concluir que uma cause a outra.
 
 ::: {.destaque}
-Na análise simples, algumas associações entre consumo alimentar e desfechos
-apareceram. Depois do ajuste por sexo, idade, escolaridade, renda, cor ou raça,
-estado civil e características do domicílio, **nenhuma das cinco exposições
-ficou associada aos três desfechos** com q menor que 0,05, nem no ajuste
-marginal nem no mútuo.
+Na comparação inicial, algumas diferenças entre grupos apareceram. Nos modelos
+que consideram sexo, idade, escolaridade, renda, cor ou raça, estado civil e
+características do domicílio, nenhuma das cinco medidas de alimentação mostrou
+evidência estatística suficiente de associação com doença crônica, consultas ou
+internações, depois da correção para múltiplas comparações. Esse resultado foi
+semelhante nos dois tipos de modelo descritos abaixo.
 :::
 
 ## O que a análise simples mostrava
 
-Foram feitas 174 comparações: cinco exposições contra três desfechos, em três
-vistas (todos, mulheres, homens), mais as comparações entre sexos e as
-exploratórias. Na vista direta, 6 das 15 comparações do núcleo tinham q menor
-que 0,05: feijão e consultas, frutas e consultas, frutas e internações, verduras
-e doença crônica, verduras e consultas, ultraprocessados e doença crônica.
+A comparação inicial testa cada medida de consumo alimentar em relação a cada
+resultado de saúde. No conjunto principal, foram feitas 15 comparações para
+cada grupo analisado. Entre todos os participantes, seis tiveram q abaixo de
+0,05: feijão e consultas, frutas e consultas, frutas e internações, verduras e
+doença crônica, verduras e consultas, e ultraprocessados e doença crônica.
 
-Dentro de cada sexo, o sinal enfraquece: 2 de 15 entre mulheres e 1 de 15 entre
-homens. Isso é compatível com confundimento por sexo, mas a perda de precisão
-dentro de cada grupo também pesa: com menos pessoas, o intervalo de confiança
-fica maior.
+O valor q ajusta os valores de p para levar em conta vários testes feitos em
+conjunto. Entre mulheres, duas das 15 comparações tiveram q abaixo de 0,05; entre
+homens, uma. O contraste entre os resultados gerais e os resultados por sexo
+pode refletir diferenças na composição dos grupos, inclusive por sexo, e a
+menor precisão das estimativas em grupos menores.
 
 ::: {.panel-tabset}
 ## Todos
@@ -40,16 +43,17 @@ fica maior.
 {{< include tabelas/matriz_nucleo_homens.md >}}
 :::
 
-**Tabela 1.** q de Benjamini-Hochberg para as 15 comparações do núcleo, por
-vista. O asterisco marca q < 0,05. Cada célula resume um teste entre quem
-consome e quem não consome o alimento.
+**Tabela 1.** Valores q, ajustados por Benjamini-Hochberg, para as 15 comparações
+principais em cada grupo. O asterisco marca q < 0,05. Cada célula compara os
+resultados de quem consome regularmente o alimento com os de quem consome com
+menor frequência.
 
 ::: {.callout-note collapse="true"}
 ## Ver as 40 comparações exploratórias
 
-O bloco exploratório cruza as cinco exposições com oito desfechos: hipertensão,
-diabetes, doença do coração, AVC, depressão, câncer, indisposição frequente e
-sentir-se deprimido frequente. Na vista direta, 5 das 40 comparações tinham
+A análise exploratória compara cinco medidas de consumo alimentar com oito
+resultados de saúde: hipertensão, diabetes, doença do coração, AVC, depressão,
+câncer, indisposição frequente e sentir-se deprimido com frequência. Na vista direta, 5 das 40 comparações tinham
 q < 0,05; dentro de cada sexo, nenhuma.
 
 ::: {.panel-tabset}
@@ -67,17 +71,23 @@ q < 0,05; dentro de cada sexo, nenhuma.
 :::
 :::
 
-## O que sobrou depois do ajuste
+## O que mostram os modelos ajustados
 
-Os modelos incluem as características pessoais. No ajuste mútuo entram as cinco
-exposições ao mesmo tempo; no marginal, cada uma separadamente. Para doença
-crônica e internação, o resultado é um **odds ratio** (OR); para consultas, uma
-**razão de médias**. Nos dois casos, 1 significa nenhuma diferença. Um OR de 1,2
-significa cerca de 20% mais chance estimada; de 0,8, cerca de 20% menos. O
-intervalo de confiança mostra a faixa compatível com os dados: se ele cruza o 1,
-não há evidência de associação.
+Os modelos comparam os grupos levando em conta sexo, idade, escolaridade, renda,
+cor ou raça, estado civil e características do domicílio. No modelo marginal,
+cada medida de consumo é analisada separadamente; no modelo mútuo, as cinco
+entram juntas.
 
-![**Figura 1.** Doença crônica composta: OR por alimento, por sexo, no ajuste marginal (cada alimento com as covariáveis) e no mútuo (os cinco juntos). Escala logarítmica; a linha tracejada em 1 é a ausência de associação.](figuras/fig_modelo_composta.png){fig-alt="Gráfico de pontos com intervalos de confiança para o odds ratio de cada alimento sobre a doença crônica, em homens e mulheres, nos ajustes marginal e mútuo. Todos os intervalos cruzam a linha de 1."}
+Para doença crônica e internação, os modelos estimam uma razão de *odds* (OR).
+*Odds* é a relação entre a probabilidade de um evento ocorrer e a de não ocorrer;
+o OR compara essa relação entre grupos e não corresponde diretamente a uma
+diferença de probabilidade. Para consultas, os modelos comparam as médias. Em
+ambas as medidas, 1 representa ausência de diferença; valores acima ou abaixo de
+1 indicam estimativas maiores ou menores no grupo que consome regularmente. Os
+intervalos de confiança expressam a incerteza de cada estimativa. A conclusão
+sobre os modelos também considera a correção para múltiplas comparações.
+
+![**Figura 1.** Doença crônica composta: OR por alimento, por sexo, no ajuste marginal (cada alimento com as covariáveis) e no mútuo (os cinco juntos). Escala logarítmica; a linha tracejada em 1 é a ausência de associação.](figuras/fig_modelo_composta.png){fig-alt="Estimativas de OR e intervalos de confiança para cada alimento, separadas por sexo e tipo de ajuste. Todos os intervalos incluem 1, valor que representa ausência de diferença."}
 
 ::: {.callout-note collapse="true"}
 ## Números exatos: doença crônica (ajuste mútuo)
@@ -85,7 +95,7 @@ não há evidência de associação.
 {{< include tabelas/modelos_composta.md >}}
 :::
 
-![**Figura 2.** Consultas em 12 meses: razão de médias por alimento, por sexo, nos dois ajustes. Escala logarítmica; linha tracejada em 1.](figuras/fig_modelo_consultas.png){fig-alt="Gráfico de pontos com intervalos de confiança para a razão de médias de consultas por alimento, em homens e mulheres, nos dois ajustes. Todos os intervalos cruzam a linha de 1."}
+![**Figura 2.** Consultas em 12 meses: razão de médias por alimento, por sexo, nos dois ajustes. Escala logarítmica; linha tracejada em 1.](figuras/fig_modelo_consultas.png){fig-alt="Estimativas da razão de médias de consultas e intervalos de confiança por alimento, sexo e tipo de ajuste. No modelo marginal, a estimativa para verduras entre homens é maior que 1 e o intervalo não inclui 1; no modelo mútuo, o intervalo inclui 1. Após a correção para múltiplas comparações, nenhum resultado dos modelos teve q abaixo de 0,05."}
 
 ::: {.callout-note collapse="true"}
 ## Números exatos: consultas (ajuste mútuo)
@@ -93,7 +103,7 @@ não há evidência de associação.
 {{< include tabelas/modelos_consultas.md >}}
 :::
 
-![**Figura 3.** Internação em 12 meses: OR por alimento, por sexo, nos dois ajustes. Escala logarítmica; linha tracejada em 1.](figuras/fig_modelo_internacao.png){fig-alt="Gráfico de pontos com intervalos de confiança para o odds ratio de internação por alimento, em homens e mulheres, nos dois ajustes. Quase todos os intervalos cruzam a linha de 1."}
+![**Figura 3.** Internação em 12 meses: OR por alimento, por sexo, nos dois ajustes. Escala logarítmica; linha tracejada em 1.](figuras/fig_modelo_internacao.png){fig-alt="Estimativas de OR e intervalos de confiança para internação por alimento, separadas por sexo e tipo de ajuste. A maioria dos intervalos inclui 1. Para doces entre mulheres, a estimativa é maior que 1, mas o teste de interação não permanece significativo após a correção para múltiplas comparações."}
 
 ::: {.callout-note collapse="true"}
 ## Números exatos: internação (ajuste mútuo)
@@ -101,16 +111,18 @@ não há evidência de associação.
 {{< include tabelas/modelos_internacao.md >}}
 :::
 
-## O caso dos doces e das internações
+## Doces e internações: um sinal incerto
 
-Uma combinação merece nota, porque é a que mais se aproxima de um resultado
-positivo. No ajuste mútuo, a interação entre doces e sexo tem OR de 4,31
-(IC 95% 1,47–12,62), com p de 0,008. Entre homens, o OR é de 0,40 (0,16–1,01);
-entre mulheres, de 1,74 (1,01–3,01).
+No modelo mútuo, a estimativa entre homens foi OR 0,40 (IC 95% 0,16–1,01) e,
+entre mulheres, OR 1,74 (1,01–3,01). A comparação formal dessas estimativas é o
+teste de interação entre consumo de doces e sexo: OR 4,31 (1,47–12,62), com
+p = 0,008. Após a correção para múltiplas comparações, q = 0,079, acima do
+limite de 0,05 adotado no estudo.
 
-Depois da correção para múltiplas comparações, o q fica em 0,079, acima de 0,05.
-As direções opostas e o intervalo largo tornam a leitura frágil. O resultado
-fica registrado como hipótese para estudos futuros, não como achado.
+As estimativas por sexo apontam em direções opostas, mas o teste de interação
+não passou o critério corrigido. Assim, não há evidência suficiente para
+concluir que a associação difira entre homens e mulheres. O resultado é uma
+hipótese a investigar, não um achado confirmado.
 
 ::: {.nota}
 **Por que o ajuste muda a leitura.** Sexo, idade, escolaridade e renda se
@@ -119,12 +131,14 @@ características entram no modelo, parte do sinal da análise simples desaparece
 Isso é compatível com confundimento, embora o ajuste também possa reduzir a
 precisão das estimativas.
 
-**Ausência de evidência não é evidência de ausência.** Não encontrar associação
-com estes dados não prova que a alimentação não importa. Prova que, neste
-recorte, com estas medidas de frequência e este tamanho de amostra, não há
-evidência estatística suficiente.
+**O que um resultado não significativo significa.** Não encontrar evidência
+estatística suficiente não prova que uma associação não exista. Significa que,
+com este recorte, estas medidas e a precisão dos dados, a análise não permite
+confirmá-la.
 
-**Muitos testes.** Foram 174 comparações. Sem correção, cerca de 9 apareceriam
-como significativas só por acaso. O q de Benjamini-Hochberg controla essa taxa
-dentro de cada família e de cada vista. Por isso a leitura principal usa q.
+**Vários testes.** Os 174 testes descritivos e exploratórios incluem 45
+comparações do núcleo, 120 exploratórias e nove entre homens e mulheres. Como
+muitos testes aumentam a possibilidade de resultados significativos por acaso,
+os valores q são ajustados por Benjamini-Hochberg dentro de cada conjunto. Nos
+modelos, a correção é feita separadamente para cada desfecho e tipo de ajuste.
 :::

@@ -2,9 +2,9 @@
 title: "Homens e mulheres: retratos diferentes"
 ---
 
-Uma das variáveis que mais separam os resultados neste recorte é o sexo. Das
-nove comparações feitas entre homens e mulheres, oito têm diferença com q menor
-que 0,05 depois da correção para múltiplas comparações.
+Entre os nove indicadores comparados, oito apresentaram diferenças
+estatisticamente detectáveis entre homens e mulheres (q < 0,05), após o ajuste
+para múltiplas comparações.
 
 {{< include tabelas/cartoes_homens.md >}}
 
@@ -27,23 +27,23 @@ homens e 16,5% entre mulheres (q = 0,22).
 
 ![**Figura 1.** Quem não usou o serviço nenhuma vez em 12 meses. A não utilização de consultas é quase o dobro entre homens (25,3% contra 13,0%). Linha vertical: IC 95%.](figuras/fig_zeros.png){fig-alt="Barras horizontais com o percentual de pessoas que não consultaram e que não internaram nenhuma vez em 12 meses, mostrando que a não utilização é mais comum entre homens."}
 
-## O que essa diferença pode significar
+## O que essas diferenças podem significar
 
-Há pelo menos duas leituras compatíveis com os dados. A primeira é que as
-mulheres adoecem mais ou buscam mais o serviço. A segunda é que elas consultam
-mais e, com isso, têm mais oportunidade de receber um diagnóstico. Como o
-diagnóstico é autorrelatado e a pesquisa é transversal, não é possível separar
-as duas coisas.
+As mulheres podem ter mais doenças, buscar mais os serviços de saúde ou ter mais
+oportunidade de receber um diagnóstico porque consultam com maior frequência.
+Como a pesquisa é transversal e os diagnósticos são autorrelatados, estes dados
+não permitem distinguir essas explicações.
 
-A diferença de idade média entre os grupos (38,3 e 39,2 anos) ilustra um ponto
-importante: ela é estatisticamente detectável, mas não tem relevância prática.
-Significância estatística não mede importância.
+A idade média também difere: 38,3 anos entre homens e 39,2 entre mulheres. A
+diferença é detectável estatisticamente, mas pequena em termos práticos. Um
+resultado estatisticamente significativo não é necessariamente importante na
+vida cotidiana.
 
 ::: {.nota}
-**Correção para múltiplas comparações.** Foram feitas 174 comparações no total.
-Sem correção, cerca de 9 delas apareceriam como "significativas" apenas por
-acaso, ao nível de 5%. O q de Benjamini-Hochberg controla essa taxa dentro de
-cada família e de cada vista. Por isso a leitura usa q, e não p isolado.
+**Várias comparações.** Ao testar muitos indicadores, aumenta a possibilidade
+de encontrar diferenças por acaso. O procedimento de Benjamini-Hochberg ajusta
+os valores de p dentro da família de nove comparações entre sexos. A tabela
+apresenta esses valores ajustados, chamados q.
 
 **Leitura de grupo.** As diferenças descrevem grupos, não pessoas. Dizer que
 mulheres consultam mais, em média, não diz nada sobre uma mulher específica.

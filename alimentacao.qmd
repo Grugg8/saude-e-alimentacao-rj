@@ -11,9 +11,10 @@ industrializados foram consumidos no dia anterior.
 
 - **Consumo regular**: cinco ou mais dias por semana. Vale para feijão, frutas,
   verduras e legumes e doces.
-- **Ultraprocessados**: contagem dos dez grupos consumidos no dia anterior
-  (bebidas adoçadas, salgadinhos, biscoitos, embutidos, entre outros). O
-  indicador principal marca quem consumiu cinco ou mais grupos.
+- **Ultraprocessados**: contagem de dez grupos consumidos no dia anterior
+  (bebidas adoçadas, salgadinhos, biscoitos, embutidos, entre outros). O estudo
+  usa cinco ou mais grupos como indicador; esse corte não é uma classificação
+  clínica ou nutricional.
 - **Versão de 8 itens**: a mesma conta sem os dois itens de doce, usada para
   checar se o resultado depende dessa sobreposição.
 - A pergunta mede **frequência, não quantidade**. Comer feijão cinco dias por
@@ -46,11 +47,14 @@ mulheres, uma diferença que não se sustenta estatisticamente.
 ::: {.nota}
 **Sobreposição entre doces e ultraprocessados.** Entre quem come doces cinco ou
 mais dias por semana, 65,3% consumiram algum doce no dia anterior; entre os
-demais, 32,4%. Por isso o indicador de ultraprocessados de dez itens inclui
-parte do consumo de doces. A versão de oito itens existe para mostrar que a
-leitura geral não muda quando essa sobreposição é removida.
+demais, 32,4%. Por isso, o indicador de dez grupos inclui parte do consumo de
+doces. Ao retirar esses dois itens, a conclusão geral dos três modelos foi
+semelhante. Na análise de consultas entre mulheres, porém, a razão de médias foi
+0,79 (IC 95% 0,66–0,93; p = 0,006), equivalente a uma média estimada 21% menor
+entre quem consumiu cinco ou mais grupos. Como essa checagem não teve correção
+adicional para múltiplos testes, o resultado é exploratório.
 
 **O que "regular" não significa.** O indicador não classifica o alimento como
-saudável ou não saudável, nem mede porção. Ele apenas separa quem consome com
-frequência de quem consome pouco ou nunca.
+saudável ou não saudável, nem mede porção. Ele separa quem consome em cinco ou
+mais dias da semana de quem consome com menor frequência.
 :::

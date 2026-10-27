@@ -2,19 +2,19 @@
 title: "Como está a saúde"
 ---
 
-Os desfechos do estudo vêm de três blocos: doenças crônicas diagnosticadas,
-percepção de saúde e uso de serviços. Todos são autorrelatados, ou seja, a
-pessoa conta se recebeu o diagnóstico e quantas vezes consultou ou internou.
+A análise reúne diagnósticos de doenças crônicas, relatos sobre saúde e uso de
+serviços. As informações foram fornecidas pelas próprias pessoas: não houve
+consulta a prontuários para confirmar diagnósticos ou atendimentos.
 
 {{< include tabelas/cartoes_saude.md >}}
 
 ![**Figura 1.** Doenças crônicas diagnosticadas, por sexo. Percentual estimado; linha vertical: IC 95%.](figuras/fig_doencas.png){fig-alt="Barras horizontais com a prevalência de doença crônica composta, hipertensão, depressão, diabetes, doença do coração, câncer e AVC, em painéis de homens e mulheres."}
 
-## Quase três em cada dez têm alguma doença crônica
+## Quase três em cada dez relatam diagnóstico de doença crônica
 
-A doença crônica composta marca quem tem ao menos uma entre seis condições:
-hipertensão, diabetes, doença do coração, AVC, depressão e câncer. A prevalência
-é de 29,5% (IC 95% 27,7–31,4).
+A medida composta reúne seis condições: hipertensão, diabetes, doença do
+coração, AVC, depressão e câncer. Ela indica se a pessoa relatou diagnóstico de
+pelo menos uma delas. A prevalência estimada é de 29,5% (IC 95% 27,7–31,4).
 
 A hipertensão é a mais frequente (19,9%; 18,4–21,5), seguida de depressão (7,8%;
 6,8–9,0) e diabetes (5,2%; 4,5–6,1). Doença do coração (2,9%), câncer (1,5%) e
@@ -25,30 +25,27 @@ relativamente mais largos.
 
 ## Consultas são muito mais comuns que internações
 
-Em 12 meses, 81,3% (79,5–82,9) consultaram médico ao menos uma vez, e 5,8%
-(4,9–6,8) internaram. A média é de 3,11 consultas por pessoa (2,87–3,34), com
-mediana 2 e 90% das pessoas até 6 consultas. Já a média de internações é de 0,08
-por pessoa (0,06–0,10).
+Em 12 meses, 81,3% (IC 95% 79,5–82,9) consultaram um médico ao menos uma vez,
+e 5,8% (4,9–6,8) foram internados. A média foi de 3,11 consultas por pessoa
+(2,87–3,34); metade consultou até duas vezes e 90% tiveram seis consultas ou
+menos. A média de internações foi de 0,08 por pessoa (0,06–0,10).
 
-A distribuição das contagens tem um formato importante: 18,7% não consultaram
-nenhuma vez, e 94,2% não internaram. Ou seja, a maior parte das internações se
-concentra em uma minoria pequena.
+Em 12 meses, 18,7% não consultaram nenhuma vez e 94,2% não foram internados. As
+internações, portanto, ocorreram em uma parcela pequena da população.
 
 ![**Figura 3.** Percentual que não usou o serviço nenhuma vez em 12 meses, por sexo. Linha vertical: IC 95%.](figuras/fig_zeros.png){fig-alt="Barras horizontais com o percentual de pessoas que não consultaram e que não internaram nenhuma vez em 12 meses, em painéis de homens e mulheres."}
 
 ::: {.nota}
-**Zeros reconstruídos.** O questionário não pergunta quantas consultas a pessoa
-fez se ela já respondeu que não consultou no último ano, e o mesmo vale para
-internação. Esses casos aparecem como ausentes na base, mas são zeros
-verdadeiros. Aqui eles foram tratados como zero, não como informação faltante.
+**Pessoas sem consultas ou internações.** O questionário não pergunta quantas
+vezes a pessoa usou o serviço se ela respondeu que não o utilizou no último ano.
+Nesses casos, a quantidade foi considerada zero, e não dado ausente.
 
-**Ausentes na doença composta.** A composta fica ausente quando alguma das seis
-doenças não tem resposta (ignorado ou não aplicável): são 157 pessoas, 4,8% do
-recorte. Não há imputação. Nas doenças individuais, a proporção de ausentes é
-menor.
+**Respostas ausentes.** A medida composta fica sem estimativa quando falta
+resposta para alguma das seis condições. Isso ocorreu com 157 pessoas (4,8% do
+recorte). Esses valores não foram preenchidos; nas doenças individuais, a
+proporção de respostas ausentes é menor.
 
-**Diagnóstico autorrelatado.** A PNS pergunta se algum médico já disse que a
-pessoa tem a doença. Não é prontuário nem exame. Isso importa para ler as
-diferenças entre grupos: quem vai mais ao médico tem mais oportunidade de
-receber um diagnóstico.
+**Diagnósticos relatados.** A PNS pergunta se algum médico já informou à pessoa
+que ela tem determinada doença. Como não há confirmação em prontuário ou exame,
+os resultados também podem refletir diferenças no acesso aos serviços de saúde.
 :::

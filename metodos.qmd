@@ -2,101 +2,97 @@
 title: "Como foi feito"
 ---
 
-Esta página resume as decisões metodológicas. O detalhamento completo, com todas
-as tabelas, está no relatório técnico.
+Esta análise usa dados da Pesquisa Nacional de Saúde de 2019 para adultos de 18
+a 59 anos no estado do Rio de Janeiro. Abaixo, explicamos como a pesquisa foi
+considerada nos cálculos e como interpretar os principais resultados.
 
-## Desenho amostral
+## Como a amostra entra nos cálculos
 
-A PNS 2019 é uma amostra complexa, estratificada e conglomerada em múltiplos
-estágios. Cada morador selecionado tem um peso que representa quantas pessoas da
-população ele equivale, com pós-estratificação fornecida pelo IBGE. As
-estimativas usam o estrato e a unidade primária de amostragem (UPA), com
-variância por linearização de Taylor.
+A PNS não seleciona todas as pessoas com a mesma chance. Os cálculos usam pesos
+para que as respostas representem a população, além de considerar os grupos e
+as etapas usados na seleção da amostra. Isso afeta tanto as estimativas quanto
+sua incerteza; por isso, os intervalos não são calculados como se a pesquisa
+fosse uma amostra aleatória simples.
 
-No recorte de 18 a 59 anos do Rio de Janeiro, o desenho tem 37 estratos, 512
-UPAs e 475 graus de liberdade. Esse último número define o t crítico usado nos
-intervalos de confiança.
+## Como os resultados foram comparados
 
-## Estimação
+As proporções e médias são estimadas com os pesos da pesquisa. As comparações
+entre grupos usam testes que também levam em conta o desenho amostral. Quando
+vários testes pertencem ao mesmo conjunto, os valores de p são ajustados pelo
+procedimento de Benjamini-Hochberg; os resultados ajustados são apresentados
+como valores q.
 
-- **Proporções**: média ponderada, com intervalo de confiança por transformação
-  logit, que mantém o intervalo entre 0% e 100%.
-- **Médias e medianas**: média ponderada e quantis ponderados.
-- **Comparações de proporções**: teste de Rao-Scott, que corrige a estatística
-  qui-quadrado para o desenho amostral.
-- **Comparações de contagens**: teste de postos ponderado pelo desenho.
-- **Múltiplas comparações**: Benjamini-Hochberg, aplicado dentro de cada família
-  (núcleo, sexo, exploratória) e de cada vista (todos, mulheres, homens).
-- **Modelos**: regressão quasi-binomial para doença crônica e internação
-  (resultado em odds ratio) e quasi-Poisson para consultas (resultado em razão de
-  médias). A dispersão de consultas foi alta (9,84), o que justifica a versão
-  quasi-Poisson em vez da Poisson simples.
-- **Ajustes**: o marginal inclui uma exposição e as covariáveis; o mútuo inclui
-  as cinco exposições e as covariáveis. Os dois são apresentados lado a lado.
-- **Sexo**: entra como covariável e em interação com cada exposição. O efeito
-  entre mulheres é obtido pela combinação dos coeficientes, com a covariância do
-  modelo.
-- **Colinearidade**: VIF máximo de 2,10, sem indicativo de problema.
+Os modelos comparam grupos de consumo alimentar considerando também sexo, idade,
+escolaridade, renda, cor ou raça, estado civil e características do domicílio.
+No ajuste marginal, cada medida alimentar entra separadamente. No ajuste mútuo,
+as cinco medidas entram juntas. Os resultados para doença crônica e internação
+são expressos como razões de *odds* (OR); para consultas, como razões de médias.
+A razão 1 representa ausência de diferença entre os grupos.
 
-## Decisões de construção
+::: {.callout-note collapse="true"}
+## Detalhes estatísticos
 
-**Recorte.** 18 a 59 anos, ambos os sexos, estado do Rio de Janeiro.
+- As proporções usam intervalos de confiança calculados por transformação logit,
+  para que os limites permaneçam entre 0% e 100%.
+- As médias e medianas são ponderadas. As comparações de proporções usam o teste
+  de Rao-Scott; as comparações de contagens usam um teste de postos ponderado.
+- O ajuste de Benjamini-Hochberg é feito por família de testes e por grupo de
+  análise. Nos modelos, cada conjunto de testes é corrigido separadamente por
+  desfecho e tipo de ajuste.
+- A regressão quasi-binomial é usada para doença crônica e internação. Para
+  consultas, usa-se a regressão quasi-Poisson, que considera a dispersão elevada
+  observada nas contagens (9,84).
+- Os modelos incluem sexo como covariável e testam sua interação com cada medida
+  de consumo. As estimativas por sexo são calculadas a partir dos coeficientes e
+  da covariância do modelo.
+- A avaliação de colinearidade teve VIF máximo de 2,10.
+- A amostra analítica tem 37 estratos e 512 unidades primárias de amostragem
+  (UPAs), com 475 graus de liberdade para os intervalos de confiança.
+:::
 
-**Consumo regular.** Cinco ou mais dias por semana para feijão, frutas,
-verduras e legumes e doces.
+## Como as medidas foram definidas
 
-**Ultraprocessados.** Dez grupos consumidos no dia anterior, com corte em cinco
-ou mais. A versão de oito itens, sem os dois itens de doce, é uma análise de
-sensibilidade. A leitura dos três eixos é a mesma nas duas versões.
-
-**Zeros de consultas e internações.** O questionário pula a pergunta de
-quantidade para quem não consultou ou não internou. Esses casos foram tratados
-como zero, e não como ausentes.
-
-**Escolaridade.** Cinco faixas. Quem estuda hoje não responde ao curso mais
-elevado e entra pelo curso atual; quem nunca frequentou escola entra como sem
-instrução, junto com creche e pré-escola.
-
-**Sem imputação.** Os ausentes foram mantidos como ausentes. A doença crônica
-composta fica ausente quando alguma das seis doenças não tem resposta.
-
-**Conferência do dicionário.** A conferência das variáveis contra o dicionário
-do IBGE identificou dois códigos a corrigir, já aplicados na construção da base:
-a pergunta de doença do coração é Q06306, e não Q06303; a de consultas é J01101,
-e não J011.
-
-## Conferência dos números
-
-Os números publicados foram conferidos contra as saídas da análise. As
-estimativas de referência são: doença crônica composta 29,5%, média de consultas
-3,11, internação 5,8% e idade média 38,8 anos.
-
-O site é estático: nenhum modelo ou teste é executado quando alguém abre a
-página. As figuras e tabelas são geradas antes da publicação pelos scripts em
-`R/`.
+- **Consumo regular:** consumo de feijão, frutas, verduras e legumes ou doces em
+  cinco ou mais dias por semana.
+- **Ultraprocessados:** número de grupos consumidos no dia anterior. O indicador
+  principal conta dez grupos e considera cinco ou mais como consumo elevado. Uma
+  versão alternativa exclui os dois itens de doces e serve como análise de
+  sensibilidade.
+- **Consultas e internações:** para quem informou não ter usado o serviço no
+  período, a quantidade foi considerada zero, pois o questionário não perguntava
+  o número de eventos nesses casos.
+- **Escolaridade:** cinco categorias. Para quem ainda estuda, considera-se o
+  curso frequentado; quem nunca frequentou escola é agrupado com creche e
+  pré-escola.
+- **Dados ausentes:** não foram preenchidos por imputação. A medida composta de
+  doença crônica fica ausente se alguma das seis condições não tem resposta.
 
 ## Glossário
 
-**Prevalência.** Percentual de pessoas com uma condição em um momento ou
-período.
+**Prevalência.** Percentual estimado de pessoas que relataram uma condição no
+recorte estudado.
 
-**IC 95%.** Intervalo de confiança de 95%. Faixa de valores compatível com os
-dados; quanto mais estreita, mais precisa a estimativa.
+**Intervalo de confiança de 95% (IC 95%).** Faixa que expressa a incerteza da
+estimativa. Intervalos mais estreitos indicam maior precisão.
 
-**Ponderação.** Uso dos pesos amostrais para que cada pessoa represente o número
-correto de pessoas da população.
+**Peso amostral.** Fator usado para que as respostas representem a população,
+considerando as diferentes chances de seleção.
 
-**q (Benjamini-Hochberg).** Valor de p ajustado para várias comparações ao mesmo
-tempo. É o que deve ser lido quando muitos testes são feitos.
+**Valor q.** Valor de p ajustado para várias comparações feitas em conjunto. O
+critério adotado para destacar resultados foi q < 0,05.
 
-**Odds ratio (OR).** Razão entre chances. 1 indica nenhuma diferença; acima de 1,
-maior chance no grupo exposto; abaixo de 1, menor chance. Não é risco.
+**Odds.** Relação entre a probabilidade de um evento ocorrer e a probabilidade
+de ele não ocorrer.
 
-**Razão de médias.** Quantas vezes a média de um grupo é maior que a do grupo de
-referência. 1 indica nenhuma diferença.
+**Razão de odds (OR).** Comparação das odds entre dois grupos. OR igual a 1
+indica odds iguais; acima de 1, odds maiores no grupo analisado; abaixo de 1,
+odds menores. Não é uma razão direta entre probabilidades.
 
-**Autorrelato.** Informação dada pela própria pessoa, sem verificação em
+**Razão de médias.** Divisão da média de um grupo pela média do grupo de
+referência. Valor 1 indica médias iguais.
+
+**Autorrelato.** Informação fornecida pela própria pessoa, sem confirmação em
 prontuário ou exame.
 
-**Estudo transversal.** Estudo em que cada pessoa é observada uma única vez, sem
-seguimento no tempo.
+**Estudo transversal.** Pesquisa que observa cada pessoa uma vez, sem
+acompanhamento ao longo do tempo.

@@ -26,7 +26,7 @@ website:
           - homens-mulheres.qmd
           - percepcao.qmd
           - desigualdade.qmd
-      - section: "O que explica"
+      - section: "Alimentação e saúde"
         contents:
           - alimentacao-e-saude.qmd
       - section: "Sobre"

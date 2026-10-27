@@ -2,9 +2,8 @@
 title: "O que os dados não dizem"
 ---
 
-Nenhum resultado deste site deve ser lido como recomendação individual, como
-previsão de risco ou como prova de causa e efeito. Esta página reúne os limites
-que valem para todos os números apresentados.
+Os resultados descrevem grupos; não permitem prever a saúde de uma pessoa
+específica nem servem como recomendação individual.
 
 ## O que não é possível concluir
 
@@ -15,28 +14,32 @@ que valem para todos os números apresentados.
   uma pessoa específica vai adoecer ou deixar de adoecer.
 - **Tendência temporal.** Os dados são de 2019. O site não mostra aumento,
   queda ou efeito de políticas ao longo do tempo.
-- **Comparação com outros lugares.** O recorte é o estado do Rio de Janeiro.
-  Nada aqui deve ser generalizado para o Brasil ou para outro estado.
+- **Alcance dos resultados.** As estimativas se referem a adultos de 18 a 59
+  anos no estado do Rio de Janeiro. Não descrevem pessoas de outras faixas etárias
+  nem devem ser generalizadas para outros estados sem uma análise específica.
 
 ## Limites da pesquisa
 
-**Autorrelato.** Doenças são o que a pessoa lembra de ter ouvido de um médico.
-Consultas e internações são contadas de memória, no período de 12 meses. Não há
-verificação em prontuário. Isso tende a subestimar condições que não geram
-diagnóstico e a depender do acesso ao serviço.
+**Informações autorrelatadas.** As respostas sobre doenças dependem de a pessoa
+ter recebido e lembrar de um diagnóstico. Consultas e internações nos últimos 12
+meses também são informadas pela própria pessoa, sem conferência em prontuário.
+Assim, os resultados podem refletir tanto a ocorrência das condições quanto o
+acesso a diagnóstico e serviços de saúde.
 
-**Transversal.** Cada pessoa é observada uma única vez. Não há seguimento.
+**Pesquisa transversal.** Cada pessoa foi entrevistada uma vez. Como não há
+acompanhamento ao longo do tempo, não é possível estabelecer o que ocorreu
+primeiro: a mudança na alimentação ou o diagnóstico.
 
-**Faixa de idade.** O recorte vai de 18 a 59 anos. Pessoas de 60 anos ou mais,
-que concentram mais doença crônica, ficam de fora.
+**Faixa etária.** O recorte inclui adultos de 18 a 59 anos. Os resultados não
+abrangem pessoas com 60 anos ou mais.
 
 **Medida de alimentação.** O consumo é medido em frequência de dias, não em
 quantidade, porção ou calorias. Os ultraprocessados vêm de um único dia de
 recordatório, o que aumenta a variabilidade.
 
-**Eventos raros.** AVC (0,9%), câncer (1,5%) e internação (5,8%) têm poucos
-casos. Os intervalos de confiança são largos e os modelos têm menos precisão
-para esses desfechos.
+**Eventos menos frequentes.** AVC (0,9%), câncer (1,5%) e internação (5,8%) são
+menos comuns neste recorte. As estimativas têm menor precisão, sobretudo nos
+modelos.
 
 ## Limites da análise
 
@@ -44,9 +47,11 @@ para esses desfechos.
 Não controlam outros fatores, e escolaridade, idade e renda estão
 correlacionadas.
 
-**Muitas comparações.** Foram 174 testes. A correção de Benjamini-Hochberg
-reduz o risco de falsos positivos, mas não elimina. Resultados com q próximo de
-0,05 devem ser lidos com cautela.
+**Muitas comparações.** Os 174 testes descritivos e exploratórios incluem
+comparações do núcleo, exploratórias e entre homens e mulheres. Os valores q são
+ajustados por Benjamini-Hochberg dentro de conjuntos definidos na análise. Os
+modelos têm correções próprias. Valores próximos de 0,05 merecem cautela e não
+devem ser interpretados isoladamente.
 
 **Ausentes.** A doença crônica composta tem 4,8% de ausentes, mantidos como
 ausentes. Não há imputação.
@@ -65,9 +70,9 @@ estão disponíveis no site do IBGE; este site não os redistribui.
 ## Fonte e como citar
 
 Os dados vêm da **Pesquisa Nacional de Saúde 2019**, do Instituto Brasileiro de
-Geografia e Estatística (IBGE), em parceria com o Ministério da Saúde. O recorte,
-as variáveis derivadas e as análises são do relatório técnico do Projeto III da
-disciplina GET00109 (Prática Estatística III), que acompanha este site.
+Geografia e Estatística (IBGE), em parceria com o Ministério da Saúde. As
+variáveis derivadas e as análises foram elaboradas para este estudo, que se
+concentra em adultos de 18 a 59 anos no estado do Rio de Janeiro.
 
 Para citar este site:
 
@@ -81,6 +86,4 @@ Para citar os dados:
 > Instituto Brasileiro de Geografia e Estatística. *Pesquisa Nacional de Saúde
 > 2019: microdados*. Rio de Janeiro: IBGE, 2020.
 
-O detalhamento metodológico está em [como foi feito](metodos.qmd). O relatório
-técnico completo, com as tabelas de todos os testes e modelos, está disponível
-com os autores.
+O detalhamento dos procedimentos está em [como foi feito](metodos.qmd).
