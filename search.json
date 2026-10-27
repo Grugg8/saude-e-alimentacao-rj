@@ -4,18 +4,18 @@
     "href": "saude.html",
     "title": "Como está a saúde",
     "section": "",
-    "text": "Os desfechos do estudo vêm de três blocos: doenças crônicas diagnosticadas, percepção de saúde e uso de serviços. Todos são autorrelatados, ou seja, a pessoa conta se recebeu o diagnóstico e quantas vezes consultou ou internou.",
+    "text": "A análise reúne diagnósticos de doenças crônicas, relatos sobre saúde e uso de serviços. As informações foram fornecidas pelas próprias pessoas: não houve consulta a prontuários para confirmar diagnósticos ou atendimentos.",
     "crumbs": [
       "O retrato",
       "Como está a saúde"
     ]
   },
   {
-    "objectID": "saude.html#quase-três-em-cada-dez-têm-alguma-doença-crônica",
-    "href": "saude.html#quase-três-em-cada-dez-têm-alguma-doença-crônica",
+    "objectID": "saude.html#quase-três-em-cada-dez-relatam-diagnóstico-de-doença-crônica",
+    "href": "saude.html#quase-três-em-cada-dez-relatam-diagnóstico-de-doença-crônica",
     "title": "Como está a saúde",
-    "section": "Quase três em cada dez têm alguma doença crônica",
-    "text": "Quase três em cada dez têm alguma doença crônica\nA doença crônica composta marca quem tem ao menos uma entre seis condições: hipertensão, diabetes, doença do coração, AVC, depressão e câncer. A prevalência é de 29,5% (IC 95% 27,7–31,4).\nA hipertensão é a mais frequente (19,9%; 18,4–21,5), seguida de depressão (7,8%; 6,8–9,0) e diabetes (5,2%; 4,5–6,1). Doença do coração (2,9%), câncer (1,5%) e AVC (0,9%) são menos frequentes, com estimativas menos precisas e intervalos relativamente mais largos.\n\n\n\nFigura 2. Percepção de saúde e uso de serviços, por sexo. Percentual estimado; linha vertical: IC 95%.",
+    "section": "Quase três em cada dez relatam diagnóstico de doença crônica",
+    "text": "Quase três em cada dez relatam diagnóstico de doença crônica\nA medida composta reúne seis condições: hipertensão, diabetes, doença do coração, AVC, depressão e câncer. Ela indica se a pessoa relatou diagnóstico de pelo menos uma delas. A prevalência estimada é de 29,5% (IC 95% 27,7–31,4).\nA hipertensão é a mais frequente (19,9%; 18,4–21,5), seguida de depressão (7,8%; 6,8–9,0) e diabetes (5,2%; 4,5–6,1). Doença do coração (2,9%), câncer (1,5%) e AVC (0,9%) são menos frequentes, com estimativas menos precisas e intervalos relativamente mais largos.\n\n\n\nFigura 2. Percepção de saúde e uso de serviços, por sexo. Percentual estimado; linha vertical: IC 95%.",
     "crumbs": [
       "O retrato",
       "Como está a saúde"
@@ -26,7 +26,7 @@
     "href": "saude.html#consultas-são-muito-mais-comuns-que-internações",
     "title": "Como está a saúde",
     "section": "Consultas são muito mais comuns que internações",
-    "text": "Consultas são muito mais comuns que internações\nEm 12 meses, 81,3% (79,5–82,9) consultaram médico ao menos uma vez, e 5,8% (4,9–6,8) internaram. A média é de 3,11 consultas por pessoa (2,87–3,34), com mediana 2 e 90% das pessoas até 6 consultas. Já a média de internações é de 0,08 por pessoa (0,06–0,10).\nA distribuição das contagens tem um formato importante: 18,7% não consultaram nenhuma vez, e 94,2% não internaram. Ou seja, a maior parte das internações se concentra em uma minoria pequena.\n\n\n\nFigura 3. Percentual que não usou o serviço nenhuma vez em 12 meses, por sexo. Linha vertical: IC 95%.\n\n\n\nZeros reconstruídos. O questionário não pergunta quantas consultas a pessoa fez se ela já respondeu que não consultou no último ano, e o mesmo vale para internação. Esses casos aparecem como ausentes na base, mas são zeros verdadeiros. Aqui eles foram tratados como zero, não como informação faltante.\nAusentes na doença composta. A composta fica ausente quando alguma das seis doenças não tem resposta (ignorado ou não aplicável): são 157 pessoas, 4,8% do recorte. Não há imputação. Nas doenças individuais, a proporção de ausentes é menor.\nDiagnóstico autorrelatado. A PNS pergunta se algum médico já disse que a pessoa tem a doença. Não é prontuário nem exame. Isso importa para ler as diferenças entre grupos: quem vai mais ao médico tem mais oportunidade de receber um diagnóstico.",
+    "text": "Consultas são muito mais comuns que internações\nEm 12 meses, 81,3% (IC 95% 79,5–82,9) consultaram um médico ao menos uma vez, e 5,8% (4,9–6,8) foram internados. A média foi de 3,11 consultas por pessoa (2,87–3,34); metade consultou até duas vezes e 90% tiveram seis consultas ou menos. A média de internações foi de 0,08 por pessoa (0,06–0,10).\nEm 12 meses, 18,7% não consultaram nenhuma vez e 94,2% não foram internados. As internações, portanto, ocorreram em uma parcela pequena da população.\n\n\n\nFigura 3. Percentual que não usou o serviço nenhuma vez em 12 meses, por sexo. Linha vertical: IC 95%.\n\n\n\nPessoas sem consultas ou internações. O questionário não pergunta quantas vezes a pessoa usou o serviço se ela respondeu que não o utilizou no último ano. Nesses casos, a quantidade foi considerada zero, e não dado ausente.\nRespostas ausentes. A medida composta fica sem estimativa quando falta resposta para alguma das seis condições. Isso ocorreu com 157 pessoas (4,8% do recorte). Esses valores não foram preenchidos; nas doenças individuais, a proporção de respostas ausentes é menor.\nDiagnósticos relatados. A PNS pergunta se algum médico já informou à pessoa que ela tem determinada doença. Como não há confirmação em prontuário ou exame, os resultados também podem refletir diferenças no acesso aos serviços de saúde.",
     "crumbs": [
       "O retrato",
       "Como está a saúde"
@@ -37,18 +37,18 @@
     "href": "percepcao.html",
     "title": "Sentir-se deprimido não é ter diagnóstico",
     "section": "",
-    "text": "A PNS faz duas perguntas diferentes sobre depressão. Uma mede a frequência com que a pessoa se sentiu deprimida nas últimas duas semanas. A outra pergunta se algum médico ou profissional de saúde mental já deu esse diagnóstico. São coisas relacionadas, mas não equivalentes.",
+    "text": "A PNS faz duas perguntas diferentes: com que frequência a pessoa se sentiu deprimida nas últimas duas semanas e se algum médico ou profissional de saúde mental já informou um diagnóstico. As respostas podem estar relacionadas, mas não medem a mesma coisa.",
     "crumbs": [
       "Comparações",
       "Sentir-se deprimido não é ter diagnóstico"
     ]
   },
   {
-    "objectID": "percepcao.html#dois-terços-sem-diagnóstico",
-    "href": "percepcao.html#dois-terços-sem-diagnóstico",
+    "objectID": "percepcao.html#relato-de-sintoma-e-diagnóstico-nem-sempre-coincidem",
+    "href": "percepcao.html#relato-de-sintoma-e-diagnóstico-nem-sempre-coincidem",
     "title": "Sentir-se deprimido não é ter diagnóstico",
-    "section": "Dois terços sem diagnóstico",
-    "text": "Dois terços sem diagnóstico\nEntre as pessoas que se sentem deprimidas na maioria dos dias, 34,8% têm diagnóstico de depressão. Entre as que não se sentem assim, 5,1% têm. A diferença é grande, mas o mais chamativo é o outro lado: 65,2% das pessoas com sintoma frequente não têm diagnóstico registrado.\nA concordância entre as duas medidas é fraca a moderada. O kappa ponderado é de 0,32 (erro padrão 0,03), em uma escala em que 1 seria concordância perfeita e 0 seria ausência de concordância. Entre homens o valor é 0,32; entre mulheres, 0,30.\n\nO que cada pergunta mede. A pergunta de percepção (N016) pede a frequência de sentir-se deprimido nas últimas duas semanas. A de diagnóstico (Q092) pede memória de um diagnóstico médico, sem prazo. Uma não valida a outra: o estudo não é de acurácia diagnóstica.\nPor que isso importa. Sintoma frequente sem diagnóstico pode indicar dificuldade de acesso, subdiagnóstico ou simplesmente que a pessoa não procurou ajuda. Os dados deste site não permitem distinguir essas explicações.\nGrupo pequeno. A comparação envolve 302 pessoas com sintoma frequente. Os intervalos de confiança são mais largos do que nos indicadores gerais.",
+    "section": "Relato de sintoma e diagnóstico nem sempre coincidem",
+    "text": "Relato de sintoma e diagnóstico nem sempre coincidem\nEntre as pessoas que se sentem deprimidas na maioria dos dias, 34,8% relataram ter recebido diagnóstico de depressão. Entre as que não se sentem assim, 5,1% relataram diagnóstico. No primeiro grupo, 65,2% não relataram esse diagnóstico.\nAs duas respostas coincidem parcialmente. O kappa ponderado é 0,32 (erro padrão 0,03). Essa medida vale 1 quando há concordância perfeita e 0 quando a concordância não supera o esperado ao acaso. O valor foi 0,32 entre homens e 0,30 entre mulheres.\n\nO que cada pergunta mede. Uma pergunta é sobre a frequência com que a pessoa se sentiu deprimida nas últimas duas semanas. A outra pergunta se algum médico ou profissional de saúde mental já informou um diagnóstico, sem limitar um período. As respostas medem coisas diferentes; o estudo não avalia a capacidade de diagnosticar depressão.\nPor que isso importa. Sintoma frequente sem diagnóstico pode indicar dificuldade de acesso, subdiagnóstico ou simplesmente que a pessoa não procurou ajuda. Os dados deste site não permitem distinguir essas explicações.\nGrupo menor. A comparação inclui 302 pessoas que relataram sentir-se deprimidas na maioria dos dias. As estimativas para esse grupo são menos precisas do que as dos indicadores gerais.",
     "crumbs": [
       "Comparações",
       "Sentir-se deprimido não é ter diagnóstico"
@@ -59,7 +59,7 @@
     "href": "limites.html",
     "title": "O que os dados não dizem",
     "section": "",
-    "text": "Nenhum resultado deste site deve ser lido como recomendação individual, como previsão de risco ou como prova de causa e efeito. Esta página reúne os limites que valem para todos os números apresentados.",
+    "text": "Os resultados descrevem grupos; não permitem prever a saúde de uma pessoa específica nem servem como recomendação individual.",
     "crumbs": [
       "Sobre",
       "O que os dados não dizem"
@@ -70,7 +70,7 @@
     "href": "limites.html#o-que-não-é-possível-concluir",
     "title": "O que os dados não dizem",
     "section": "O que não é possível concluir",
-    "text": "O que não é possível concluir\n\nCausalidade. A PNS mede alimentação e saúde no mesmo momento. Não é possível saber se a alimentação veio antes da doença, se a doença mudou a alimentação ou se as duas coisas andam juntas por outro motivo.\nRisco individual. Os percentuais descrevem grupos. Não permitem dizer que uma pessoa específica vai adoecer ou deixar de adoecer.\nTendência temporal. Os dados são de 2019. O site não mostra aumento, queda ou efeito de políticas ao longo do tempo.\nComparação com outros lugares. O recorte é o estado do Rio de Janeiro. Nada aqui deve ser generalizado para o Brasil ou para outro estado.",
+    "text": "O que não é possível concluir\n\nCausalidade. A PNS mede alimentação e saúde no mesmo momento. Não é possível saber se a alimentação veio antes da doença, se a doença mudou a alimentação ou se as duas coisas andam juntas por outro motivo.\nRisco individual. Os percentuais descrevem grupos. Não permitem dizer que uma pessoa específica vai adoecer ou deixar de adoecer.\nTendência temporal. Os dados são de 2019. O site não mostra aumento, queda ou efeito de políticas ao longo do tempo.\nAlcance dos resultados. As estimativas se referem a adultos de 18 a 59 anos no estado do Rio de Janeiro. Não descrevem pessoas de outras faixas etárias nem devem ser generalizadas para outros estados sem uma análise específica.",
     "crumbs": [
       "Sobre",
       "O que os dados não dizem"
@@ -81,7 +81,7 @@
     "href": "limites.html#limites-da-pesquisa",
     "title": "O que os dados não dizem",
     "section": "Limites da pesquisa",
-    "text": "Limites da pesquisa\nAutorrelato. Doenças são o que a pessoa lembra de ter ouvido de um médico. Consultas e internações são contadas de memória, no período de 12 meses. Não há verificação em prontuário. Isso tende a subestimar condições que não geram diagnóstico e a depender do acesso ao serviço.\nTransversal. Cada pessoa é observada uma única vez. Não há seguimento.\nFaixa de idade. O recorte vai de 18 a 59 anos. Pessoas de 60 anos ou mais, que concentram mais doença crônica, ficam de fora.\nMedida de alimentação. O consumo é medido em frequência de dias, não em quantidade, porção ou calorias. Os ultraprocessados vêm de um único dia de recordatório, o que aumenta a variabilidade.\nEventos raros. AVC (0,9%), câncer (1,5%) e internação (5,8%) têm poucos casos. Os intervalos de confiança são largos e os modelos têm menos precisão para esses desfechos.",
+    "text": "Limites da pesquisa\nInformações autorrelatadas. As respostas sobre doenças dependem de a pessoa ter recebido e lembrar de um diagnóstico. Consultas e internações nos últimos 12 meses também são informadas pela própria pessoa, sem conferência em prontuário. Assim, os resultados podem refletir tanto a ocorrência das condições quanto o acesso a diagnóstico e serviços de saúde.\nPesquisa transversal. Cada pessoa foi entrevistada uma vez. Como não há acompanhamento ao longo do tempo, não é possível estabelecer o que ocorreu primeiro: a mudança na alimentação ou o diagnóstico.\nFaixa etária. O recorte inclui adultos de 18 a 59 anos. Os resultados não abrangem pessoas com 60 anos ou mais.\nMedida de alimentação. O consumo é medido em frequência de dias, não em quantidade, porção ou calorias. Os ultraprocessados vêm de um único dia de recordatório, o que aumenta a variabilidade.\nEventos menos frequentes. AVC (0,9%), câncer (1,5%) e internação (5,8%) são menos comuns neste recorte. As estimativas têm menor precisão, sobretudo nos modelos.",
     "crumbs": [
       "Sobre",
       "O que os dados não dizem"
@@ -92,7 +92,7 @@
     "href": "limites.html#limites-da-análise",
     "title": "O que os dados não dizem",
     "section": "Limites da análise",
-    "text": "Limites da análise\nGradientes sem ajuste. As figuras de escolaridade e idade são descritivas. Não controlam outros fatores, e escolaridade, idade e renda estão correlacionadas.\nMuitas comparações. Foram 174 testes. A correção de Benjamini-Hochberg reduz o risco de falsos positivos, mas não elimina. Resultados com q próximo de 0,05 devem ser lidos com cautela.\nAusentes. A doença crônica composta tem 4,8% de ausentes, mantidos como ausentes. Não há imputação.\nCélulas pequenas. Grupos com menos de 30 pessoas não aparecem nas figuras de gradiente. As estimativas ficam instáveis e poderiam sugerir padrões que os dados não sustentam.\n\nPrivacidade. O site publica apenas estimativas agregadas para o estado. Não há microdados, identificação de pessoas ou tabelas com células pequenas o suficiente para permitir reconhecimento. Os microdados da PNS são públicos e estão disponíveis no site do IBGE; este site não os redistribui.",
+    "text": "Limites da análise\nGradientes sem ajuste. As figuras de escolaridade e idade são descritivas. Não controlam outros fatores, e escolaridade, idade e renda estão correlacionadas.\nMuitas comparações. Os 174 testes descritivos e exploratórios incluem comparações do núcleo, exploratórias e entre homens e mulheres. Os valores q são ajustados por Benjamini-Hochberg dentro de conjuntos definidos na análise. Os modelos têm correções próprias. Valores próximos de 0,05 merecem cautela e não devem ser interpretados isoladamente.\nAusentes. A doença crônica composta tem 4,8% de ausentes, mantidos como ausentes. Não há imputação.\nCélulas pequenas. Grupos com menos de 30 pessoas não aparecem nas figuras de gradiente. As estimativas ficam instáveis e poderiam sugerir padrões que os dados não sustentam.\n\nPrivacidade. O site publica apenas estimativas agregadas para o estado. Não há microdados, identificação de pessoas ou tabelas com células pequenas o suficiente para permitir reconhecimento. Os microdados da PNS são públicos e estão disponíveis no site do IBGE; este site não os redistribui.",
     "crumbs": [
       "Sobre",
       "O que os dados não dizem"
@@ -103,7 +103,7 @@
     "href": "limites.html#fonte-e-como-citar",
     "title": "O que os dados não dizem",
     "section": "Fonte e como citar",
-    "text": "Fonte e como citar\nOs dados vêm da Pesquisa Nacional de Saúde 2019, do Instituto Brasileiro de Geografia e Estatística (IBGE), em parceria com o Ministério da Saúde. O recorte, as variáveis derivadas e as análises são do relatório técnico do Projeto III da disciplina GET00109 (Prática Estatística III), que acompanha este site.\nPara citar este site:\n\nProjeto III, GET00109 Prática Estatística III. Comer e adoecer no Rio de Janeiro: resultados da Pesquisa Nacional de Saúde 2019 para adultos de 18 a 59 anos. 2026. Disponível em: https://grugg8.github.io/saude-e-alimentacao-rj/.\n\nPara citar os dados:\n\nInstituto Brasileiro de Geografia e Estatística. Pesquisa Nacional de Saúde 2019: microdados. Rio de Janeiro: IBGE, 2020.\n\nO detalhamento metodológico está em como foi feito. O relatório técnico completo, com as tabelas de todos os testes e modelos, está disponível com os autores.",
+    "text": "Fonte e como citar\nOs dados vêm da Pesquisa Nacional de Saúde 2019, do Instituto Brasileiro de Geografia e Estatística (IBGE), em parceria com o Ministério da Saúde. As variáveis derivadas e as análises foram elaboradas para este estudo, que se concentra em adultos de 18 a 59 anos no estado do Rio de Janeiro.\nPara citar este site:\n\nProjeto III, GET00109 Prática Estatística III. Comer e adoecer no Rio de Janeiro: resultados da Pesquisa Nacional de Saúde 2019 para adultos de 18 a 59 anos. 2026. Disponível em: https://grugg8.github.io/saude-e-alimentacao-rj/.\n\nPara citar os dados:\n\nInstituto Brasileiro de Geografia e Estatística. Pesquisa Nacional de Saúde 2019: microdados. Rio de Janeiro: IBGE, 2020.\n\nO detalhamento dos procedimentos está em como foi feito.",
     "crumbs": [
       "Sobre",
       "O que os dados não dizem"
@@ -114,7 +114,7 @@
     "href": "homens-mulheres.html",
     "title": "Homens e mulheres: retratos diferentes",
     "section": "",
-    "text": "Uma das variáveis que mais separam os resultados neste recorte é o sexo. Das nove comparações feitas entre homens e mulheres, oito têm diferença com q menor que 0,05 depois da correção para múltiplas comparações.",
+    "text": "Entre os nove indicadores comparados, oito apresentaram diferenças estatisticamente detectáveis entre homens e mulheres (q &lt; 0,05), após o ajuste para múltiplas comparações.",
     "crumbs": [
       "Comparações",
       "Homens e mulheres: retratos diferentes"
@@ -132,11 +132,11 @@
     ]
   },
   {
-    "objectID": "homens-mulheres.html#o-que-essa-diferença-pode-significar",
-    "href": "homens-mulheres.html#o-que-essa-diferença-pode-significar",
+    "objectID": "homens-mulheres.html#o-que-essas-diferenças-podem-significar",
+    "href": "homens-mulheres.html#o-que-essas-diferenças-podem-significar",
     "title": "Homens e mulheres: retratos diferentes",
-    "section": "O que essa diferença pode significar",
-    "text": "O que essa diferença pode significar\nHá pelo menos duas leituras compatíveis com os dados. A primeira é que as mulheres adoecem mais ou buscam mais o serviço. A segunda é que elas consultam mais e, com isso, têm mais oportunidade de receber um diagnóstico. Como o diagnóstico é autorrelatado e a pesquisa é transversal, não é possível separar as duas coisas.\nA diferença de idade média entre os grupos (38,3 e 39,2 anos) ilustra um ponto importante: ela é estatisticamente detectável, mas não tem relevância prática. Significância estatística não mede importância.\n\nCorreção para múltiplas comparações. Foram feitas 174 comparações no total. Sem correção, cerca de 9 delas apareceriam como “significativas” apenas por acaso, ao nível de 5%. O q de Benjamini-Hochberg controla essa taxa dentro de cada família e de cada vista. Por isso a leitura usa q, e não p isolado.\nLeitura de grupo. As diferenças descrevem grupos, não pessoas. Dizer que mulheres consultam mais, em média, não diz nada sobre uma mulher específica.",
+    "section": "O que essas diferenças podem significar",
+    "text": "O que essas diferenças podem significar\nAs mulheres podem ter mais doenças, buscar mais os serviços de saúde ou ter mais oportunidade de receber um diagnóstico porque consultam com maior frequência. Como a pesquisa é transversal e os diagnósticos são autorrelatados, estes dados não permitem distinguir essas explicações.\nA idade média também difere: 38,3 anos entre homens e 39,2 entre mulheres. A diferença é detectável estatisticamente, mas pequena em termos práticos. Um resultado estatisticamente significativo não é necessariamente importante na vida cotidiana.\n\nVárias comparações. Ao testar muitos indicadores, aumenta a possibilidade de encontrar diferenças por acaso. O procedimento de Benjamini-Hochberg ajusta os valores de p dentro da família de nove comparações entre sexos. A tabela apresenta esses valores ajustados, chamados q.\nLeitura de grupo. As diferenças descrevem grupos, não pessoas. Dizer que mulheres consultam mais, em média, não diz nada sobre uma mulher específica.",
     "crumbs": [
       "Comparações",
       "Homens e mulheres: retratos diferentes"
@@ -169,7 +169,7 @@
     "href": "alimentacao.html#homens-e-mulheres-comem-diferente",
     "title": "O que as pessoas comem",
     "section": "Homens e mulheres comem diferente",
-    "text": "Homens e mulheres comem diferente\nAs diferenças entre os sexos aparecem em quase todos os itens. Homens consomem mais feijão (79,8% contra 67,0%) e mais ultraprocessados (22,4% contra 18,5%). Mulheres consomem mais frutas (44,0% contra 34,9%) e mais verduras e legumes (56,4% contra 50,1%). Doces ficam próximos: 18,6% entre homens e 16,5% entre mulheres, uma diferença que não se sustenta estatisticamente.\n\nSobreposição entre doces e ultraprocessados. Entre quem come doces cinco ou mais dias por semana, 65,3% consumiram algum doce no dia anterior; entre os demais, 32,4%. Por isso o indicador de ultraprocessados de dez itens inclui parte do consumo de doces. A versão de oito itens existe para mostrar que a leitura geral não muda quando essa sobreposição é removida.\nO que “regular” não significa. O indicador não classifica o alimento como saudável ou não saudável, nem mede porção. Ele apenas separa quem consome com frequência de quem consome pouco ou nunca.",
+    "text": "Homens e mulheres comem diferente\nAs diferenças entre os sexos aparecem em quase todos os itens. Homens consomem mais feijão (79,8% contra 67,0%) e mais ultraprocessados (22,4% contra 18,5%). Mulheres consomem mais frutas (44,0% contra 34,9%) e mais verduras e legumes (56,4% contra 50,1%). Doces ficam próximos: 18,6% entre homens e 16,5% entre mulheres, uma diferença que não se sustenta estatisticamente.\n\nSobreposição entre doces e ultraprocessados. Entre quem come doces cinco ou mais dias por semana, 65,3% consumiram algum doce no dia anterior; entre os demais, 32,4%. Por isso, o indicador de dez grupos inclui parte do consumo de doces. Ao retirar esses dois itens, a conclusão geral dos três modelos foi semelhante. Na análise de consultas entre mulheres, porém, a razão de médias foi 0,79 (IC 95% 0,66–0,93; p = 0,006), equivalente a uma média estimada 21% menor entre quem consumiu cinco ou mais grupos. Como essa checagem não teve correção adicional para múltiplos testes, o resultado é exploratório.\nO que “regular” não significa. O indicador não classifica o alimento como saudável ou não saudável, nem mede porção. Ele separa quem consome em cinco ou mais dias da semana de quem consome com menor frequência.",
     "crumbs": [
       "O retrato",
       "O que as pessoas comem"
@@ -178,45 +178,45 @@
   {
     "objectID": "alimentacao-e-saude.html",
     "href": "alimentacao-e-saude.html",
-    "title": "A alimentação explica a saúde?",
+    "title": "Alimentação e resultados de saúde",
     "section": "",
-    "text": "Esta é a pergunta central do trabalho. A resposta curta é não, pelo menos não com estes dados e este desenho.",
+    "text": "A análise investiga se as medidas de consumo alimentar variam junto com os resultados de saúde. Como a pesquisa mediu alimentação e saúde no mesmo período, não é possível concluir que uma cause a outra.",
     "crumbs": [
-      "O que explica",
-      "A alimentação explica a saúde?"
+      "Alimentação e saúde",
+      "Alimentação e resultados de saúde"
     ]
   },
   {
     "objectID": "alimentacao-e-saude.html#o-que-a-análise-simples-mostrava",
     "href": "alimentacao-e-saude.html#o-que-a-análise-simples-mostrava",
-    "title": "A alimentação explica a saúde?",
+    "title": "Alimentação e resultados de saúde",
     "section": "O que a análise simples mostrava",
-    "text": "O que a análise simples mostrava\nForam feitas 174 comparações: cinco exposições contra três desfechos, em três vistas (todos, mulheres, homens), mais as comparações entre sexos e as exploratórias. Na vista direta, 6 das 15 comparações do núcleo tinham q menor que 0,05: feijão e consultas, frutas e consultas, frutas e internações, verduras e doença crônica, verduras e consultas, ultraprocessados e doença crônica.\nDentro de cada sexo, o sinal enfraquece: 2 de 15 entre mulheres e 1 de 15 entre homens. Isso é compatível com confundimento por sexo, mas a perda de precisão dentro de cada grupo também pesa: com menos pessoas, o intervalo de confiança fica maior.\n\nTodosMulheresHomens\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nFeijão\nFrutas\nVerduras e legumes\nDoces\nUltraprocessados (10 itens)\n\n\n\n\nDoença crônica composta\n0,497\n0,103\n0,031 *\n0,344\n0,031 *\n\n\nConsultas em 12 meses\n&lt;0,001 *\n&lt;0,001 *\n&lt;0,001 *\n0,137\n0,217\n\n\nInternações em 12 meses\n0,400\n0,031 *\n0,684\n0,562\n0,344\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nFeijão\nFrutas\nVerduras e legumes\nDoces\nUltraprocessados (10 itens)\n\n\n\n\nDoença crônica composta\n0,714\n0,498\n0,094\n0,729\n0,132\n\n\nConsultas em 12 meses\n0,132\n0,028 *\n0,047 *\n0,877\n0,377\n\n\nInternações em 12 meses\n0,714\n0,279\n0,714\n0,188\n0,714\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nFeijão\nFrutas\nVerduras e legumes\nDoces\nUltraprocessados (10 itens)\n\n\n\n\nDoença crônica composta\n0,335\n0,335\n0,490\n0,335\n0,335\n\n\nConsultas em 12 meses\n0,323\n0,004 *\n0,141\n0,074\n0,705\n\n\nInternações em 12 meses\n0,592\n0,179\n0,335\n0,123\n0,335\n\n\n\n\n\n\nTabela 1. q de Benjamini-Hochberg para as 15 comparações do núcleo, por vista. O asterisco marca q &lt; 0,05. Cada célula resume um teste entre quem consome e quem não consome o alimento.\n\n\n\n\n\n\nNotaVer as 40 comparações exploratórias\n\n\n\n\n\nO bloco exploratório cruza as cinco exposições com oito desfechos: hipertensão, diabetes, doença do coração, AVC, depressão, câncer, indisposição frequente e sentir-se deprimido frequente. Na vista direta, 5 das 40 comparações tinham q &lt; 0,05; dentro de cada sexo, nenhuma.\n\nTodosMulheresHomens\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nFeijão\nFrutas\nVerduras e legumes\nDoces\nUltraprocessados (10 itens)\n\n\n\n\nHipertensão\n0,330\n0,337\n0,031 *\n0,088\n0,031 *\n\n\nDiabetes\n0,277\n0,038 *\n0,828\n&lt;0,001 *\n0,054\n\n\nDoença do coração\n0,507\n0,354\n0,629\n0,924\n0,330\n\n\nAVC ou derrame\n0,277\n0,277\n0,833\n0,828\n0,511\n\n\nDepressão (diagnóstico)\n0,025 *\n0,814\n0,787\n0,277\n0,338\n\n\nCâncer\n0,540\n0,540\n0,277\n0,712\n0,932\n\n\nIndisposição frequente\n0,054\n0,330\n0,277\n0,277\n0,814\n\n\nSentir-se deprimido frequente\n0,540\n0,074\n0,178\n0,833\n0,873\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nFeijão\nFrutas\nVerduras e legumes\nDoces\nUltraprocessados (10 itens)\n\n\n\n\nHipertensão\n0,089\n0,546\n0,062\n0,124\n0,062\n\n\nDiabetes\n0,076\n0,076\n0,957\n0,062\n0,386\n\n\nDoença do coração\n0,957\n0,193\n0,980\n0,705\n0,681\n\n\nAVC ou derrame\n0,193\n0,193\n0,980\n0,681\n0,836\n\n\nDepressão (diagnóstico)\n0,124\n0,957\n0,591\n0,156\n0,699\n\n\nCâncer\n0,705\n0,699\n0,119\n0,546\n0,957\n\n\nIndisposição frequente\n0,546\n0,681\n0,591\n0,524\n0,957\n\n\nSentir-se deprimido frequente\n0,957\n0,193\n0,193\n0,773\n0,732\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nFeijão\nFrutas\nVerduras e legumes\nDoces\nUltraprocessados (10 itens)\n\n\n\n\nHipertensão\n0,947\n0,968\n0,725\n0,725\n0,725\n\n\nDiabetes\n0,947\n0,725\n0,947\n0,097\n0,330\n\n\nDoença do coração\n0,707\n0,707\n0,707\n0,725\n0,707\n\n\nAVC ou derrame\n0,941\n0,727\n0,941\n0,996\n0,697\n\n\nDepressão (diagnóstico)\n0,697\n0,968\n0,697\n0,968\n0,725\n\n\nCâncer\n0,697\n0,968\n0,947\n0,941\n0,968\n\n\nIndisposição frequente\n0,330\n0,941\n0,651\n0,697\n0,968\n\n\nSentir-se deprimido frequente\n0,947\n0,330\n0,697\n0,996\n0,725",
+    "text": "O que a análise simples mostrava\nA comparação inicial testa cada medida de consumo alimentar em relação a cada resultado de saúde. No conjunto principal, foram feitas 15 comparações para cada grupo analisado. Entre todos os participantes, seis tiveram q abaixo de 0,05: feijão e consultas, frutas e consultas, frutas e internações, verduras e doença crônica, verduras e consultas, e ultraprocessados e doença crônica.\nO valor q ajusta os valores de p para levar em conta vários testes feitos em conjunto. Entre mulheres, duas das 15 comparações tiveram q abaixo de 0,05; entre homens, uma. O contraste entre os resultados gerais e os resultados por sexo pode refletir diferenças na composição dos grupos, inclusive por sexo, e a menor precisão das estimativas em grupos menores.\n\nTodosMulheresHomens\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nFeijão\nFrutas\nVerduras e legumes\nDoces\nUltraprocessados (10 itens)\n\n\n\n\nDoença crônica composta\n0,497\n0,103\n0,031 *\n0,344\n0,031 *\n\n\nConsultas em 12 meses\n&lt;0,001 *\n&lt;0,001 *\n&lt;0,001 *\n0,137\n0,217\n\n\nInternações em 12 meses\n0,400\n0,031 *\n0,684\n0,562\n0,344\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nFeijão\nFrutas\nVerduras e legumes\nDoces\nUltraprocessados (10 itens)\n\n\n\n\nDoença crônica composta\n0,714\n0,498\n0,094\n0,729\n0,132\n\n\nConsultas em 12 meses\n0,132\n0,028 *\n0,047 *\n0,877\n0,377\n\n\nInternações em 12 meses\n0,714\n0,279\n0,714\n0,188\n0,714\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nFeijão\nFrutas\nVerduras e legumes\nDoces\nUltraprocessados (10 itens)\n\n\n\n\nDoença crônica composta\n0,335\n0,335\n0,490\n0,335\n0,335\n\n\nConsultas em 12 meses\n0,323\n0,004 *\n0,141\n0,074\n0,705\n\n\nInternações em 12 meses\n0,592\n0,179\n0,335\n0,123\n0,335\n\n\n\n\n\n\nTabela 1. Valores q, ajustados por Benjamini-Hochberg, para as 15 comparações principais em cada grupo. O asterisco marca q &lt; 0,05. Cada célula compara os resultados de quem consome regularmente o alimento com os de quem consome com menor frequência.\n\n\n\n\n\n\nNotaVer as 40 comparações exploratórias\n\n\n\n\n\nA análise exploratória compara cinco medidas de consumo alimentar com oito resultados de saúde: hipertensão, diabetes, doença do coração, AVC, depressão, câncer, indisposição frequente e sentir-se deprimido com frequência. Na vista direta, 5 das 40 comparações tinham q &lt; 0,05; dentro de cada sexo, nenhuma.\n\nTodosMulheresHomens\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nFeijão\nFrutas\nVerduras e legumes\nDoces\nUltraprocessados (10 itens)\n\n\n\n\nHipertensão\n0,330\n0,337\n0,031 *\n0,088\n0,031 *\n\n\nDiabetes\n0,277\n0,038 *\n0,828\n&lt;0,001 *\n0,054\n\n\nDoença do coração\n0,507\n0,354\n0,629\n0,924\n0,330\n\n\nAVC ou derrame\n0,277\n0,277\n0,833\n0,828\n0,511\n\n\nDepressão (diagnóstico)\n0,025 *\n0,814\n0,787\n0,277\n0,338\n\n\nCâncer\n0,540\n0,540\n0,277\n0,712\n0,932\n\n\nIndisposição frequente\n0,054\n0,330\n0,277\n0,277\n0,814\n\n\nSentir-se deprimido frequente\n0,540\n0,074\n0,178\n0,833\n0,873\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nFeijão\nFrutas\nVerduras e legumes\nDoces\nUltraprocessados (10 itens)\n\n\n\n\nHipertensão\n0,089\n0,546\n0,062\n0,124\n0,062\n\n\nDiabetes\n0,076\n0,076\n0,957\n0,062\n0,386\n\n\nDoença do coração\n0,957\n0,193\n0,980\n0,705\n0,681\n\n\nAVC ou derrame\n0,193\n0,193\n0,980\n0,681\n0,836\n\n\nDepressão (diagnóstico)\n0,124\n0,957\n0,591\n0,156\n0,699\n\n\nCâncer\n0,705\n0,699\n0,119\n0,546\n0,957\n\n\nIndisposição frequente\n0,546\n0,681\n0,591\n0,524\n0,957\n\n\nSentir-se deprimido frequente\n0,957\n0,193\n0,193\n0,773\n0,732\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nFeijão\nFrutas\nVerduras e legumes\nDoces\nUltraprocessados (10 itens)\n\n\n\n\nHipertensão\n0,947\n0,968\n0,725\n0,725\n0,725\n\n\nDiabetes\n0,947\n0,725\n0,947\n0,097\n0,330\n\n\nDoença do coração\n0,707\n0,707\n0,707\n0,725\n0,707\n\n\nAVC ou derrame\n0,941\n0,727\n0,941\n0,996\n0,697\n\n\nDepressão (diagnóstico)\n0,697\n0,968\n0,697\n0,968\n0,725\n\n\nCâncer\n0,697\n0,968\n0,947\n0,941\n0,968\n\n\nIndisposição frequente\n0,330\n0,941\n0,651\n0,697\n0,968\n\n\nSentir-se deprimido frequente\n0,947\n0,330\n0,697\n0,996\n0,725",
     "crumbs": [
-      "O que explica",
-      "A alimentação explica a saúde?"
+      "Alimentação e saúde",
+      "Alimentação e resultados de saúde"
     ]
   },
   {
-    "objectID": "alimentacao-e-saude.html#o-que-sobrou-depois-do-ajuste",
-    "href": "alimentacao-e-saude.html#o-que-sobrou-depois-do-ajuste",
-    "title": "A alimentação explica a saúde?",
-    "section": "O que sobrou depois do ajuste",
-    "text": "O que sobrou depois do ajuste\nOs modelos incluem as características pessoais. No ajuste mútuo entram as cinco exposições ao mesmo tempo; no marginal, cada uma separadamente. Para doença crônica e internação, o resultado é um odds ratio (OR); para consultas, uma razão de médias. Nos dois casos, 1 significa nenhuma diferença. Um OR de 1,2 significa cerca de 20% mais chance estimada; de 0,8, cerca de 20% menos. O intervalo de confiança mostra a faixa compatível com os dados: se ele cruza o 1, não há evidência de associação.\n\n\n\nFigura 1. Doença crônica composta: OR por alimento, por sexo, no ajuste marginal (cada alimento com as covariáveis) e no mútuo (os cinco juntos). Escala logarítmica; a linha tracejada em 1 é a ausência de associação.\n\n\n\n\n\n\n\n\nNotaNúmeros exatos: doença crônica (ajuste mútuo)\n\n\n\n\n\n\n\n\nExposição\nHomens\nMulheres\n\n\n\n\nFeijão\n0,84 (0,60–1,18)\n1,06 (0,80–1,39)\n\n\nFrutas\n1,11 (0,81–1,52)\n0,89 (0,67–1,18)\n\n\nVerduras e legumes\n0,82 (0,61–1,11)\n1,12 (0,86–1,47)\n\n\nDoces\n0,88 (0,57–1,36)\n1,22 (0,81–1,82)\n\n\nUltraprocessados (10 itens)\n0,94 (0,65–1,36)\n0,93 (0,65–1,33)\n\n\n\n\n\n\n\n\n\nFigura 2. Consultas em 12 meses: razão de médias por alimento, por sexo, nos dois ajustes. Escala logarítmica; linha tracejada em 1.\n\n\n\n\n\n\n\n\nNotaNúmeros exatos: consultas (ajuste mútuo)\n\n\n\n\n\n\n\n\nExposição\nHomens\nMulheres\n\n\n\n\nFeijão\n0,99 (0,81–1,20)\n0,79 (0,61–1,02)\n\n\nFrutas\n1,22 (0,98–1,52)\n0,99 (0,76–1,30)\n\n\nVerduras e legumes\n1,21 (0,99–1,49)\n1,11 (0,88–1,40)\n\n\nDoces\n0,98 (0,64–1,51)\n1,01 (0,83–1,23)\n\n\nUltraprocessados (10 itens)\n0,90 (0,70–1,15)\n0,91 (0,76–1,09)\n\n\n\n\n\n\n\n\n\nFigura 3. Internação em 12 meses: OR por alimento, por sexo, nos dois ajustes. Escala logarítmica; linha tracejada em 1.\n\n\n\n\n\n\n\n\nNotaNúmeros exatos: internação (ajuste mútuo)\n\n\n\n\n\n\n\n\nExposição\nHomens\nMulheres\n\n\n\n\nFeijão\n0,90 (0,51–1,58)\n0,88 (0,56–1,41)\n\n\nFrutas\n1,75 (0,95–3,20)\n1,44 (0,91–2,26)\n\n\nVerduras e legumes\n1,15 (0,63–2,10)\n0,78 (0,46–1,31)\n\n\nDoces\n0,40 (0,16–1,01)\n1,74 (1,01–3,01)\n\n\nUltraprocessados (10 itens)\n1,82 (0,96–3,45)\n1,16 (0,70–1,91)",
+    "objectID": "alimentacao-e-saude.html#o-que-mostram-os-modelos-ajustados",
+    "href": "alimentacao-e-saude.html#o-que-mostram-os-modelos-ajustados",
+    "title": "Alimentação e resultados de saúde",
+    "section": "O que mostram os modelos ajustados",
+    "text": "O que mostram os modelos ajustados\nOs modelos comparam os grupos levando em conta sexo, idade, escolaridade, renda, cor ou raça, estado civil e características do domicílio. No modelo marginal, cada medida de consumo é analisada separadamente; no modelo mútuo, as cinco entram juntas.\nPara doença crônica e internação, os modelos estimam uma razão de odds (OR). Odds é a relação entre a probabilidade de um evento ocorrer e a de não ocorrer; o OR compara essa relação entre grupos e não corresponde diretamente a uma diferença de probabilidade. Para consultas, os modelos comparam as médias. Em ambas as medidas, 1 representa ausência de diferença; valores acima ou abaixo de 1 indicam estimativas maiores ou menores no grupo que consome regularmente. Os intervalos de confiança expressam a incerteza de cada estimativa. A conclusão sobre os modelos também considera a correção para múltiplas comparações.\n\n\n\nFigura 1. Doença crônica composta: OR por alimento, por sexo, no ajuste marginal (cada alimento com as covariáveis) e no mútuo (os cinco juntos). Escala logarítmica; a linha tracejada em 1 é a ausência de associação.\n\n\n\n\n\n\n\n\nNotaNúmeros exatos: doença crônica (ajuste mútuo)\n\n\n\n\n\n\n\n\nExposição\nHomens\nMulheres\n\n\n\n\nFeijão\n0,84 (0,60–1,18)\n1,06 (0,80–1,39)\n\n\nFrutas\n1,11 (0,81–1,52)\n0,89 (0,67–1,18)\n\n\nVerduras e legumes\n0,82 (0,61–1,11)\n1,12 (0,86–1,47)\n\n\nDoces\n0,88 (0,57–1,36)\n1,22 (0,81–1,82)\n\n\nUltraprocessados (10 itens)\n0,94 (0,65–1,36)\n0,93 (0,65–1,33)\n\n\n\n\n\n\n\n\n\nFigura 2. Consultas em 12 meses: razão de médias por alimento, por sexo, nos dois ajustes. Escala logarítmica; linha tracejada em 1.\n\n\n\n\n\n\n\n\nNotaNúmeros exatos: consultas (ajuste mútuo)\n\n\n\n\n\n\n\n\nExposição\nHomens\nMulheres\n\n\n\n\nFeijão\n0,99 (0,81–1,20)\n0,79 (0,61–1,02)\n\n\nFrutas\n1,22 (0,98–1,52)\n0,99 (0,76–1,30)\n\n\nVerduras e legumes\n1,21 (0,99–1,49)\n1,11 (0,88–1,40)\n\n\nDoces\n0,98 (0,64–1,51)\n1,01 (0,83–1,23)\n\n\nUltraprocessados (10 itens)\n0,90 (0,70–1,15)\n0,91 (0,76–1,09)\n\n\n\n\n\n\n\n\n\nFigura 3. Internação em 12 meses: OR por alimento, por sexo, nos dois ajustes. Escala logarítmica; linha tracejada em 1.\n\n\n\n\n\n\n\n\nNotaNúmeros exatos: internação (ajuste mútuo)\n\n\n\n\n\n\n\n\nExposição\nHomens\nMulheres\n\n\n\n\nFeijão\n0,90 (0,51–1,58)\n0,88 (0,56–1,41)\n\n\nFrutas\n1,75 (0,95–3,20)\n1,44 (0,91–2,26)\n\n\nVerduras e legumes\n1,15 (0,63–2,10)\n0,78 (0,46–1,31)\n\n\nDoces\n0,40 (0,16–1,01)\n1,74 (1,01–3,01)\n\n\nUltraprocessados (10 itens)\n1,82 (0,96–3,45)\n1,16 (0,70–1,91)",
     "crumbs": [
-      "O que explica",
-      "A alimentação explica a saúde?"
+      "Alimentação e saúde",
+      "Alimentação e resultados de saúde"
     ]
   },
   {
-    "objectID": "alimentacao-e-saude.html#o-caso-dos-doces-e-das-internações",
-    "href": "alimentacao-e-saude.html#o-caso-dos-doces-e-das-internações",
-    "title": "A alimentação explica a saúde?",
-    "section": "O caso dos doces e das internações",
-    "text": "O caso dos doces e das internações\nUma combinação merece nota, porque é a que mais se aproxima de um resultado positivo. No ajuste mútuo, a interação entre doces e sexo tem OR de 4,31 (IC 95% 1,47–12,62), com p de 0,008. Entre homens, o OR é de 0,40 (0,16–1,01); entre mulheres, de 1,74 (1,01–3,01).\nDepois da correção para múltiplas comparações, o q fica em 0,079, acima de 0,05. As direções opostas e o intervalo largo tornam a leitura frágil. O resultado fica registrado como hipótese para estudos futuros, não como achado.\n\nPor que o ajuste muda a leitura. Sexo, idade, escolaridade e renda se associam tanto ao que as pessoas comem quanto aos desfechos. Quando essas características entram no modelo, parte do sinal da análise simples desaparece. Isso é compatível com confundimento, embora o ajuste também possa reduzir a precisão das estimativas.\nAusência de evidência não é evidência de ausência. Não encontrar associação com estes dados não prova que a alimentação não importa. Prova que, neste recorte, com estas medidas de frequência e este tamanho de amostra, não há evidência estatística suficiente.\nMuitos testes. Foram 174 comparações. Sem correção, cerca de 9 apareceriam como significativas só por acaso. O q de Benjamini-Hochberg controla essa taxa dentro de cada família e de cada vista. Por isso a leitura principal usa q.",
+    "objectID": "alimentacao-e-saude.html#doces-e-internações-um-sinal-incerto",
+    "href": "alimentacao-e-saude.html#doces-e-internações-um-sinal-incerto",
+    "title": "Alimentação e resultados de saúde",
+    "section": "Doces e internações: um sinal incerto",
+    "text": "Doces e internações: um sinal incerto\nNo modelo mútuo, a estimativa entre homens foi OR 0,40 (IC 95% 0,16–1,01) e, entre mulheres, OR 1,74 (1,01–3,01). A comparação formal dessas estimativas é o teste de interação entre consumo de doces e sexo: OR 4,31 (1,47–12,62), com p = 0,008. Após a correção para múltiplas comparações, q = 0,079, acima do limite de 0,05 adotado no estudo.\nAs estimativas por sexo apontam em direções opostas, mas o teste de interação não passou o critério corrigido. Assim, não há evidência suficiente para concluir que a associação difira entre homens e mulheres. O resultado é uma hipótese a investigar, não um achado confirmado.\n\nPor que o ajuste muda a leitura. Sexo, idade, escolaridade e renda se associam tanto ao que as pessoas comem quanto aos desfechos. Quando essas características entram no modelo, parte do sinal da análise simples desaparece. Isso é compatível com confundimento, embora o ajuste também possa reduzir a precisão das estimativas.\nO que um resultado não significativo significa. Não encontrar evidência estatística suficiente não prova que uma associação não exista. Significa que, com este recorte, estas medidas e a precisão dos dados, a análise não permite confirmá-la.\nVários testes. Os 174 testes descritivos e exploratórios incluem 45 comparações do núcleo, 120 exploratórias e nove entre homens e mulheres. Como muitos testes aumentam a possibilidade de resultados significativos por acaso, os valores q são ajustados por Benjamini-Hochberg dentro de cada conjunto. Nos modelos, a correção é feita separadamente para cada desfecho e tipo de ajuste.",
     "crumbs": [
-      "O que explica",
-      "A alimentação explica a saúde?"
+      "Alimentação e saúde",
+      "Alimentação e resultados de saúde"
     ]
   },
   {
@@ -224,29 +224,29 @@
     "href": "desigualdade.html",
     "title": "Escolaridade e saúde",
     "section": "",
-    "text": "A escolaridade separa os resultados de forma clara entre as mulheres, mas não entre os homens. As figuras abaixo são descritivas: mostram a prevalência estimada em cada grupo, sem ajustar por outras características.",
+    "text": "As figuras mostram como a prevalência de doença crônica e a média de consultas variam entre grupos de idade e escolaridade. São comparações descritivas: não separam a relação de cada característica das demais.",
     "crumbs": [
       "Comparações",
       "Escolaridade e saúde"
     ]
   },
   {
-    "objectID": "desigualdade.html#a-idade-explica-parte-do-padrão",
-    "href": "desigualdade.html#a-idade-explica-parte-do-padrão",
+    "objectID": "desigualdade.html#escolaridade-e-doença-crônica",
+    "href": "desigualdade.html#escolaridade-e-doença-crônica",
     "title": "Escolaridade e saúde",
-    "section": "A idade explica parte do padrão",
-    "text": "A idade explica parte do padrão\nA prevalência de doença crônica sobe com a idade nos dois sexos. Entre homens, vai de 8,4% na faixa de 18 a 29 anos para 41,6% na de 45 a 59. Entre mulheres, vai de 14,1% para 50,6%. Esse é o comportamento esperado para doenças crônicas e ajuda a interpretar o restante.\n\n\n\nFigura 2. Doença crônica composta por escolaridade, por sexo. Percentual estimado; linha vertical: IC 95%.",
+    "section": "Escolaridade e doença crônica",
+    "text": "Escolaridade e doença crônica\nEntre as mulheres, a prevalência estimada é de 48,7% (IC 95% 43,2–54,3) no ensino fundamental, 30,6% (26,6–34,5) no médio e 25,4% (21,7–29,0) no superior. Entre os homens, as estimativas são 28,4% (22,7–34,1), 20,7% (16,7–24,7) e 29,8% (25,1–34,6), respectivamente. Como as comparações não controlam idade, renda ou outros fatores, a variação não pode ser atribuída à escolaridade isoladamente.\n\n\n\nFigura 2. Doença crônica composta por faixa etária, por sexo. Percentual estimado; linha vertical: IC 95%.",
     "crumbs": [
       "Comparações",
       "Escolaridade e saúde"
     ]
   },
   {
-    "objectID": "desigualdade.html#entre-mulheres-a-diferença-é-grande",
-    "href": "desigualdade.html#entre-mulheres-a-diferença-é-grande",
+    "objectID": "desigualdade.html#a-prevalência-aumenta-com-a-idade",
+    "href": "desigualdade.html#a-prevalência-aumenta-com-a-idade",
     "title": "Escolaridade e saúde",
-    "section": "Entre mulheres, a diferença é grande",
-    "text": "Entre mulheres, a diferença é grande\nEntre as mulheres, a prevalência de doença crônica é de 48,7% (IC 95% 43,2–54,3) no ensino fundamental, 30,6% (26,6–34,5) no médio e 25,4% (21,7–29,0) no superior. A diferença entre fundamental e superior é de mais de vinte pontos percentuais.\nEntre os homens, o padrão não se repete: 28,4% (22,7–34,1) no fundamental, 20,7% (16,7–24,7) no médio e 29,8% (25,1–34,6) no superior. Os intervalos se sobrepõem e não há gradiente claro.\n\n\n\nFigura 3. Média de consultas em 12 meses por escolaridade, por sexo. Linha vertical: IC 95%.",
+    "section": "A prevalência aumenta com a idade",
+    "text": "A prevalência aumenta com a idade\nA prevalência de doença crônica sobe com a idade nos dois sexos. Entre homens, vai de 8,4% na faixa de 18 a 29 anos para 41,6% na de 45 a 59. Entre mulheres, vai de 14,1% para 50,6%.\n\n\n\nFigura 3. Média de consultas em 12 meses por escolaridade, por sexo. Linha vertical: IC 95%.",
     "crumbs": [
       "Comparações",
       "Escolaridade e saúde"
@@ -257,7 +257,7 @@
     "href": "desigualdade.html#consultas-não-acompanham-a-escolaridade",
     "title": "Escolaridade e saúde",
     "section": "Consultas não acompanham a escolaridade",
-    "text": "Consultas não acompanham a escolaridade\nA média de consultas não segue o mesmo desenho. Entre mulheres, é de 3,90 (2,55–5,25) no fundamental, 3,43 (3,03–3,84) no médio e 3,92 (3,50–4,35) no superior. Entre homens, 2,11 (1,65–2,57), 2,10 (1,82–2,38) e 2,79 (2,51–3,06). Não há um gradiente consistente.\n\nSem ajuste. Estas figuras não controlam idade, renda ou outros fatores. Como escolaridade, idade e renda estão correlacionadas, não é possível atribuir a diferença a um fator isolado.\nCategorias omitidas. Sem instrução e alfabetização têm menos de 30 pessoas em cada sexo. As estimativas ficam instáveis (um dos grupos tem 5 pessoas e 100% de prevalência), então essas categorias não aparecem nas figuras. Elas continuam na tabela completa do relatório.\nEscolaridade e renda. A PNS mede as duas coisas, mas este recorte usa a escolaridade como marcador socioeconômico principal, porque tem menos ausentes e é mais estável entre adultos jovens.\n\n\n\n\n\n\n\nNotaTabela completa dos gradientes por escolaridade\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nSexo\nEscolaridade\nEstimativa (IC 95%)\nn\n\n\n\n\nDoença crônica composta\nHomens\nFundamental\n28,4% (22,7–34,1)\n348\n\n\nDoença crônica composta\nHomens\nMédio\n20,7% (16,7–24,7)\n595\n\n\nDoença crônica composta\nHomens\nSuperior\n29,8% (25,1–34,6)\n426\n\n\nDoença crônica composta\nMulheres\nFundamental\n48,7% (43,2–54,3)\n391\n\n\nDoença crônica composta\nMulheres\nMédio\n30,6% (26,6–34,5)\n703\n\n\nDoença crônica composta\nMulheres\nSuperior\n25,4% (21,7–29,0)\n566\n\n\nConsultas em 12 meses\nHomens\nFundamental\n2,11 (1,65–2,57)\n388\n\n\nConsultas em 12 meses\nHomens\nMédio\n2,10 (1,82–2,38)\n638\n\n\nConsultas em 12 meses\nHomens\nSuperior\n2,79 (2,51–3,06)\n435\n\n\nConsultas em 12 meses\nMulheres\nFundamental\n3,90 (2,55–5,25)\n413\n\n\nConsultas em 12 meses\nMulheres\nMédio\n3,43 (3,03–3,84)\n732\n\n\nConsultas em 12 meses\nMulheres\nSuperior\n3,92 (3,50–4,35)\n575\n\n\nInternação em 12 meses\nHomens\nFundamental\n4,8% (2,4–7,1)\n388\n\n\nInternação em 12 meses\nHomens\nMédio\n4,4% (2,5–6,3)\n638\n\n\nInternação em 12 meses\nHomens\nSuperior\n4,9% (2,9–6,9)\n435\n\n\nInternação em 12 meses\nMulheres\nFundamental\n4,7% (2,5–7,0)\n413\n\n\nInternação em 12 meses\nMulheres\nMédio\n7,7% (5,3–10,0)\n732\n\n\nInternação em 12 meses\nMulheres\nSuperior\n6,6% (4,3–8,9)\n575",
+    "text": "Consultas não acompanham a escolaridade\nA média de consultas não segue um padrão consistente conforme a escolaridade. Entre mulheres, é de 3,90 (IC 95% 2,55–5,25) no fundamental, 3,43 (3,03–3,84) no médio e 3,92 (3,50–4,35) no superior. Entre homens, as estimativas são 2,11 (1,65–2,57), 2,10 (1,82–2,38) e 2,79 (2,51–3,06), respectivamente.\n\nComparações descritivas. As figuras não controlam idade, renda ou outros fatores relacionados à escolaridade e à saúde.\nCategorias omitidas das figuras. Sem instrução e alfabetização têm menos de 30 pessoas em cada sexo. As estimativas são instáveis, então essas categorias não aparecem nos gráficos. Os valores permanecem na tabela completa incluída abaixo.\nEscolaridade e renda. A PNS mede as duas. Neste recorte, a escolaridade foi usada como principal indicador socioeconômico por ter menos respostas ausentes e estimativas mais estáveis entre adultos jovens.\n\n\n\n\n\n\n\nNotaTabela completa dos gradientes por escolaridade\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesfecho\nSexo\nEscolaridade\nEstimativa (IC 95%)\nn\n\n\n\n\nDoença crônica composta\nHomens\nFundamental\n28,4% (22,7–34,1)\n348\n\n\nDoença crônica composta\nHomens\nMédio\n20,7% (16,7–24,7)\n595\n\n\nDoença crônica composta\nHomens\nSuperior\n29,8% (25,1–34,6)\n426\n\n\nDoença crônica composta\nMulheres\nFundamental\n48,7% (43,2–54,3)\n391\n\n\nDoença crônica composta\nMulheres\nMédio\n30,6% (26,6–34,5)\n703\n\n\nDoença crônica composta\nMulheres\nSuperior\n25,4% (21,7–29,0)\n566\n\n\nConsultas em 12 meses\nHomens\nFundamental\n2,11 (1,65–2,57)\n388\n\n\nConsultas em 12 meses\nHomens\nMédio\n2,10 (1,82–2,38)\n638\n\n\nConsultas em 12 meses\nHomens\nSuperior\n2,79 (2,51–3,06)\n435\n\n\nConsultas em 12 meses\nMulheres\nFundamental\n3,90 (2,55–5,25)\n413\n\n\nConsultas em 12 meses\nMulheres\nMédio\n3,43 (3,03–3,84)\n732\n\n\nConsultas em 12 meses\nMulheres\nSuperior\n3,92 (3,50–4,35)\n575\n\n\nInternação em 12 meses\nHomens\nFundamental\n4,8% (2,4–7,1)\n388\n\n\nInternação em 12 meses\nHomens\nMédio\n4,4% (2,5–6,3)\n638\n\n\nInternação em 12 meses\nHomens\nSuperior\n4,9% (2,9–6,9)\n435\n\n\nInternação em 12 meses\nMulheres\nFundamental\n4,7% (2,5–7,0)\n413\n\n\nInternação em 12 meses\nMulheres\nMédio\n7,7% (5,3–10,0)\n732\n\n\nInternação em 12 meses\nMulheres\nSuperior\n6,6% (4,3–8,9)\n575",
     "crumbs": [
       "Comparações",
       "Escolaridade e saúde"
@@ -268,7 +268,7 @@
     "href": "index.html",
     "title": "Comer e adoecer no Rio de Janeiro",
     "section": "",
-    "text": "Pesquisa Nacional de Saúde · 2019 · Rio de Janeiro\n\n\nO que 3.242 adultos de 18 a 59 anos do estado do Rio de Janeiro contam sobre alimentação, doenças e uso de serviços de saúde. Percentuais e médias são estimativas para a população, com intervalo de confiança de 95%.",
+    "text": "Pesquisa Nacional de Saúde · 2019 · Rio de Janeiro\n\n\nO que a Pesquisa Nacional de Saúde de 2019 mostra sobre alimentação, saúde e uso de serviços entre adultos de 18 a 59 anos no estado. Percentuais e médias são estimativas para essa população, acompanhadas de intervalos de confiança de 95%.",
     "crumbs": [
       "Início"
     ]
@@ -278,7 +278,7 @@
     "href": "index.html#o-que-este-site-mostra",
     "title": "Comer e adoecer no Rio de Janeiro",
     "section": "O que este site mostra",
-    "text": "O que este site mostra\nA Pesquisa Nacional de Saúde de 2019 selecionou 90.846 moradores em todo o Brasil. Desse total, 4.966 eram do estado do Rio de Janeiro e 3.242 tinham entre 18 e 59 anos. É esse grupo que aparece aqui.\nO site reúne os resultados do relatório técnico do Projeto III da disciplina Prática Estatística III, em linguagem acessível. As estimativas usam o peso amostral da pesquisa, o que permite falar da população do estado e não apenas das pessoas entrevistadas.",
+    "text": "O que este site mostra\nA Pesquisa Nacional de Saúde de 2019 selecionou 90.846 moradores em todo o Brasil. Entre eles, 4.966 eram do estado do Rio de Janeiro e 3.242 tinham de 18 a 59 anos. Este site apresenta resultados para esse recorte.\nA pesquisa atribui pesos diferentes às pessoas entrevistadas para que as estimativas representem a população, e não apenas a amostra.",
     "crumbs": [
       "Início"
     ]
@@ -288,7 +288,7 @@
     "href": "index.html#a-resposta-curta",
     "title": "Comer e adoecer no Rio de Janeiro",
     "section": "A resposta curta",
-    "text": "A resposta curta\n\nNa análise simples, algumas diferenças entre quem consome e quem não consome cada alimento apareceram. Depois de levar em conta sexo, idade, escolaridade, renda, cor ou raça, estado civil e características do domicílio, nenhuma das cinco exposições alimentares ficou associada aos três desfechos com evidência estatística.\nO que aparece com força na análise descritiva são as diferenças entre homens e mulheres: elas relatam mais doenças crônicas e consultam muito mais. Entre as mulheres, a escolaridade também separa bastante os resultados.\n\nEssa é a leitura central do trabalho, e ela tem uma consequência prática: os números deste site descrevem quem adoece e quem usa o sistema de saúde, mas não permitem dizer que um alimento específico causa ou previne uma doença.",
+    "text": "A resposta curta\n\nNa comparação inicial, algumas diferenças apareceram entre quem consumia cada alimento e quem não consumia. Após considerar sexo, idade, escolaridade, renda, cor ou raça, estado civil e características do domicílio, nenhum dos modelos mostrou associação entre as cinco medidas alimentares e os resultados de saúde que se mantivesse após a correção para múltiplas comparações. Também não houve evidência suficiente de que essas associações variassem entre homens e mulheres.\nEntre os nove indicadores comparados, oito apresentaram diferenças estatisticamente detectáveis entre homens e mulheres após o ajuste para múltiplas comparações. As diferenças incluem diagnósticos de doenças crônicas e número de consultas. A prevalência de doença crônica também varia entre as faixas de escolaridade das mulheres; essa comparação é descritiva e não separa o efeito da escolaridade de outros fatores.\n\nEsses resultados descrevem diferenças entre grupos. Como alimentação e saúde foram medidas no mesmo período, não permitem concluir que um alimento cause ou previna uma doença.",
     "crumbs": [
       "Início"
     ]
@@ -298,7 +298,7 @@
     "href": "index.html#por-onde-começar",
     "title": "Comer e adoecer no Rio de Janeiro",
     "section": "Por onde começar",
-    "text": "Por onde começar\n\nQuem foi estudado: o recorte, a amostra e o perfil da população.\nO que as pessoas comem: feijão, frutas, verduras, doces e ultraprocessados, com as diferenças entre os sexos.\nComo está a saúde: doenças crônicas, percepção de saúde, consultas e internações.\nHomens e mulheres: nove indicadores comparados.\nPercepção e diagnóstico: sentir-se deprimido não é o mesmo que ter um diagnóstico.\nEscolaridade e saúde: como os resultados mudam conforme o nível de instrução.\nA alimentação explica a saúde?: os testes, os modelos e o que sobrou depois do ajuste.\nO que os dados não dizem e como foi feito: limites, fontes e métodos.\n\n\nSobre os números. Percentuais e médias são estimativas ponderadas pelo desenho amostral da PNS, com intervalo de confiança de 95% entre parênteses. O intervalo indica a faixa de valores compatível com os dados; quando dois intervalos se sobrepõem muito, a diferença entre os grupos é incerta. Este site não refaz análises: ele apresenta resultados já produzidos no relatório técnico.",
+    "text": "Por onde começar\n\nQuem foi estudado: o recorte, a amostra e o perfil da população.\nO que as pessoas comem: feijão, frutas, verduras, doces e ultraprocessados, com as diferenças entre os sexos.\nComo está a saúde: doenças crônicas, percepção de saúde, consultas e internações.\nHomens e mulheres: diferenças em nove indicadores.\nPercepção e diagnóstico: sentir-se deprimido não é o mesmo que ter um diagnóstico.\nEscolaridade e saúde: como os resultados mudam conforme o nível de instrução.\nAlimentação e resultados de saúde: o que mostram as comparações iniciais e os modelos ajustados.\nO que os dados não dizem e como foi feito: limites, fontes e métodos.\n\n\nSobre os números. Percentuais e médias são estimativas que levam em conta o desenho amostral da PNS. Os intervalos de confiança de 95% mostram a incerteza de cada estimativa. A sobreposição entre dois intervalos, sozinha, não determina se os grupos diferem; essa questão é avaliada por testes de comparação descritos nas páginas de resultados e métodos.",
     "crumbs": [
       "Início"
     ]
@@ -308,51 +308,40 @@
     "href": "metodos.html",
     "title": "Como foi feito",
     "section": "",
-    "text": "Esta página resume as decisões metodológicas. O detalhamento completo, com todas as tabelas, está no relatório técnico.",
+    "text": "Esta análise usa dados da Pesquisa Nacional de Saúde de 2019 para adultos de 18 a 59 anos no estado do Rio de Janeiro. Abaixo, explicamos como a pesquisa foi considerada nos cálculos e como interpretar os principais resultados.",
     "crumbs": [
       "Sobre",
       "Como foi feito"
     ]
   },
   {
-    "objectID": "metodos.html#desenho-amostral",
-    "href": "metodos.html#desenho-amostral",
+    "objectID": "metodos.html#como-a-amostra-entra-nos-cálculos",
+    "href": "metodos.html#como-a-amostra-entra-nos-cálculos",
     "title": "Como foi feito",
-    "section": "Desenho amostral",
-    "text": "Desenho amostral\nA PNS 2019 é uma amostra complexa, estratificada e conglomerada em múltiplos estágios. Cada morador selecionado tem um peso que representa quantas pessoas da população ele equivale, com pós-estratificação fornecida pelo IBGE. As estimativas usam o estrato e a unidade primária de amostragem (UPA), com variância por linearização de Taylor.\nNo recorte de 18 a 59 anos do Rio de Janeiro, o desenho tem 37 estratos, 512 UPAs e 475 graus de liberdade. Esse último número define o t crítico usado nos intervalos de confiança.",
+    "section": "Como a amostra entra nos cálculos",
+    "text": "Como a amostra entra nos cálculos\nA PNS não seleciona todas as pessoas com a mesma chance. Os cálculos usam pesos para que as respostas representem a população, além de considerar os grupos e as etapas usados na seleção da amostra. Isso afeta tanto as estimativas quanto sua incerteza; por isso, os intervalos não são calculados como se a pesquisa fosse uma amostra aleatória simples.",
     "crumbs": [
       "Sobre",
       "Como foi feito"
     ]
   },
   {
-    "objectID": "metodos.html#estimação",
-    "href": "metodos.html#estimação",
+    "objectID": "metodos.html#como-os-resultados-foram-comparados",
+    "href": "metodos.html#como-os-resultados-foram-comparados",
     "title": "Como foi feito",
-    "section": "Estimação",
-    "text": "Estimação\n\nProporções: média ponderada, com intervalo de confiança por transformação logit, que mantém o intervalo entre 0% e 100%.\nMédias e medianas: média ponderada e quantis ponderados.\nComparações de proporções: teste de Rao-Scott, que corrige a estatística qui-quadrado para o desenho amostral.\nComparações de contagens: teste de postos ponderado pelo desenho.\nMúltiplas comparações: Benjamini-Hochberg, aplicado dentro de cada família (núcleo, sexo, exploratória) e de cada vista (todos, mulheres, homens).\nModelos: regressão quasi-binomial para doença crônica e internação (resultado em odds ratio) e quasi-Poisson para consultas (resultado em razão de médias). A dispersão de consultas foi alta (9,84), o que justifica a versão quasi-Poisson em vez da Poisson simples.\nAjustes: o marginal inclui uma exposição e as covariáveis; o mútuo inclui as cinco exposições e as covariáveis. Os dois são apresentados lado a lado.\nSexo: entra como covariável e em interação com cada exposição. O efeito entre mulheres é obtido pela combinação dos coeficientes, com a covariância do modelo.\nColinearidade: VIF máximo de 2,10, sem indicativo de problema.",
+    "section": "Como os resultados foram comparados",
+    "text": "Como os resultados foram comparados\nAs proporções e médias são estimadas com os pesos da pesquisa. As comparações entre grupos usam testes que também levam em conta o desenho amostral. Quando vários testes pertencem ao mesmo conjunto, os valores de p são ajustados pelo procedimento de Benjamini-Hochberg; os resultados ajustados são apresentados como valores q.\nOs modelos comparam grupos de consumo alimentar considerando também sexo, idade, escolaridade, renda, cor ou raça, estado civil e características do domicílio. No ajuste marginal, cada medida alimentar entra separadamente. No ajuste mútuo, as cinco medidas entram juntas. Os resultados para doença crônica e internação são expressos como razões de odds (OR); para consultas, como razões de médias. A razão 1 representa ausência de diferença entre os grupos.\n\n\n\n\n\n\nNotaDetalhes estatísticos\n\n\n\n\n\n\nAs proporções usam intervalos de confiança calculados por transformação logit, para que os limites permaneçam entre 0% e 100%.\nAs médias e medianas são ponderadas. As comparações de proporções usam o teste de Rao-Scott; as comparações de contagens usam um teste de postos ponderado.\nO ajuste de Benjamini-Hochberg é feito por família de testes e por grupo de análise. Nos modelos, cada conjunto de testes é corrigido separadamente por desfecho e tipo de ajuste.\nA regressão quasi-binomial é usada para doença crônica e internação. Para consultas, usa-se a regressão quasi-Poisson, que considera a dispersão elevada observada nas contagens (9,84).\nOs modelos incluem sexo como covariável e testam sua interação com cada medida de consumo. As estimativas por sexo são calculadas a partir dos coeficientes e da covariância do modelo.\nA avaliação de colinearidade teve VIF máximo de 2,10.\nA amostra analítica tem 37 estratos e 512 unidades primárias de amostragem (UPAs), com 475 graus de liberdade para os intervalos de confiança.",
     "crumbs": [
       "Sobre",
       "Como foi feito"
     ]
   },
   {
-    "objectID": "metodos.html#decisões-de-construção",
-    "href": "metodos.html#decisões-de-construção",
+    "objectID": "metodos.html#como-as-medidas-foram-definidas",
+    "href": "metodos.html#como-as-medidas-foram-definidas",
     "title": "Como foi feito",
-    "section": "Decisões de construção",
-    "text": "Decisões de construção\nRecorte. 18 a 59 anos, ambos os sexos, estado do Rio de Janeiro.\nConsumo regular. Cinco ou mais dias por semana para feijão, frutas, verduras e legumes e doces.\nUltraprocessados. Dez grupos consumidos no dia anterior, com corte em cinco ou mais. A versão de oito itens, sem os dois itens de doce, é uma análise de sensibilidade. A leitura dos três eixos é a mesma nas duas versões.\nZeros de consultas e internações. O questionário pula a pergunta de quantidade para quem não consultou ou não internou. Esses casos foram tratados como zero, e não como ausentes.\nEscolaridade. Cinco faixas. Quem estuda hoje não responde ao curso mais elevado e entra pelo curso atual; quem nunca frequentou escola entra como sem instrução, junto com creche e pré-escola.\nSem imputação. Os ausentes foram mantidos como ausentes. A doença crônica composta fica ausente quando alguma das seis doenças não tem resposta.\nConferência do dicionário. A conferência das variáveis contra o dicionário do IBGE identificou dois códigos a corrigir, já aplicados na construção da base: a pergunta de doença do coração é Q06306, e não Q06303; a de consultas é J01101, e não J011.",
-    "crumbs": [
-      "Sobre",
-      "Como foi feito"
-    ]
-  },
-  {
-    "objectID": "metodos.html#conferência-dos-números",
-    "href": "metodos.html#conferência-dos-números",
-    "title": "Como foi feito",
-    "section": "Conferência dos números",
-    "text": "Conferência dos números\nOs números publicados foram conferidos contra as saídas da análise. As estimativas de referência são: doença crônica composta 29,5%, média de consultas 3,11, internação 5,8% e idade média 38,8 anos.\nO site é estático: nenhum modelo ou teste é executado quando alguém abre a página. As figuras e tabelas são geradas antes da publicação pelos scripts em R/.",
+    "section": "Como as medidas foram definidas",
+    "text": "Como as medidas foram definidas\n\nConsumo regular: consumo de feijão, frutas, verduras e legumes ou doces em cinco ou mais dias por semana.\nUltraprocessados: número de grupos consumidos no dia anterior. O indicador principal conta dez grupos e considera cinco ou mais como consumo elevado. Uma versão alternativa exclui os dois itens de doces e serve como análise de sensibilidade.\nConsultas e internações: para quem informou não ter usado o serviço no período, a quantidade foi considerada zero, pois o questionário não perguntava o número de eventos nesses casos.\nEscolaridade: cinco categorias. Para quem ainda estuda, considera-se o curso frequentado; quem nunca frequentou escola é agrupado com creche e pré-escola.\nDados ausentes: não foram preenchidos por imputação. A medida composta de doença crônica fica ausente se alguma das seis condições não tem resposta.",
     "crumbs": [
       "Sobre",
       "Como foi feito"
@@ -363,7 +352,7 @@
     "href": "metodos.html#glossário",
     "title": "Como foi feito",
     "section": "Glossário",
-    "text": "Glossário\nPrevalência. Percentual de pessoas com uma condição em um momento ou período.\nIC 95%. Intervalo de confiança de 95%. Faixa de valores compatível com os dados; quanto mais estreita, mais precisa a estimativa.\nPonderação. Uso dos pesos amostrais para que cada pessoa represente o número correto de pessoas da população.\nq (Benjamini-Hochberg). Valor de p ajustado para várias comparações ao mesmo tempo. É o que deve ser lido quando muitos testes são feitos.\nOdds ratio (OR). Razão entre chances. 1 indica nenhuma diferença; acima de 1, maior chance no grupo exposto; abaixo de 1, menor chance. Não é risco.\nRazão de médias. Quantas vezes a média de um grupo é maior que a do grupo de referência. 1 indica nenhuma diferença.\nAutorrelato. Informação dada pela própria pessoa, sem verificação em prontuário ou exame.\nEstudo transversal. Estudo em que cada pessoa é observada uma única vez, sem seguimento no tempo.",
+    "text": "Glossário\nPrevalência. Percentual estimado de pessoas que relataram uma condição no recorte estudado.\nIntervalo de confiança de 95% (IC 95%). Faixa que expressa a incerteza da estimativa. Intervalos mais estreitos indicam maior precisão.\nPeso amostral. Fator usado para que as respostas representem a população, considerando as diferentes chances de seleção.\nValor q. Valor de p ajustado para várias comparações feitas em conjunto. O critério adotado para destacar resultados foi q &lt; 0,05.\nOdds. Relação entre a probabilidade de um evento ocorrer e a probabilidade de ele não ocorrer.\nRazão de odds (OR). Comparação das odds entre dois grupos. OR igual a 1 indica odds iguais; acima de 1, odds maiores no grupo analisado; abaixo de 1, odds menores. Não é uma razão direta entre probabilidades.\nRazão de médias. Divisão da média de um grupo pela média do grupo de referência. Valor 1 indica médias iguais.\nAutorrelato. Informação fornecida pela própria pessoa, sem confirmação em prontuário ou exame.\nEstudo transversal. Pesquisa que observa cada pessoa uma vez, sem acompanhamento ao longo do tempo.",
     "crumbs": [
       "Sobre",
       "Como foi feito"
@@ -374,7 +363,7 @@
     "href": "quem-foi-estudado.html",
     "title": "Quem foi estudado",
     "section": "",
-    "text": "A Pesquisa Nacional de Saúde de 2019 é uma pesquisa domiciliar feita pelo IBGE em parceria com o Ministério da Saúde. Em cada domicílio sorteado, um morador adulto foi selecionado para responder ao questionário. A base usada neste trabalho tem 90.846 moradores selecionados no Brasil.\nPara este trabalho, o recorte é o estado do Rio de Janeiro e a faixa de 18 a 59 anos, com homens e mulheres. O caminho até a amostra final está na tabela abaixo.\nSão 3.242 pessoas, 1.498 homens e 1.744 mulheres. Como a PNS é uma amostra complexa, com pesos diferentes para cada pessoa, esses números não descrevem apenas quem respondeu: com o peso amostral, eles representam a população de 18 a 59 anos do estado.",
+    "text": "A Pesquisa Nacional de Saúde de 2019 é uma pesquisa domiciliar do IBGE, feita em parceria com o Ministério da Saúde. Em cada domicílio sorteado, um adulto foi selecionado para responder. No Brasil, foram selecionadas 90.846 pessoas.\nAqui, os resultados se referem a moradores do estado do Rio de Janeiro com 18 a 59 anos. A tabela mostra como se chega a esse recorte.\nO recorte inclui 3.242 pessoas entrevistadas: 1.498 homens e 1.744 mulheres. As estimativas usam pesos amostrais, que levam em conta as diferentes chances de seleção e permitem representar a população do estado nessa faixa etária.",
     "crumbs": [
       "O retrato",
       "Quem foi estudado"
@@ -385,7 +374,7 @@
     "href": "quem-foi-estudado.html#o-retrato-da-população",
     "title": "Quem foi estudado",
     "section": "O retrato da população",
-    "text": "O retrato da população\nA distribuição por idade é equilibrada: 27,6% têm de 18 a 29 anos, 36,0% têm de 30 a 44 e 36,4% têm de 45 a 59. A idade média é de 38,8 anos (IC 95% 38,6–39,0).\n\n\n\nFigura 1. Faixa etária, por sexo. Percentual estimado para a população do recorte; a linha vertical indica o IC 95%.\n\n\nA escolaridade se concentra no ensino médio: 44,9% das pessoas têm esse nível, 31,0% têm superior, 22,6% têm fundamental e 1,6% estão sem instrução ou apenas alfabetizadas. A renda domiciliar per capita mediana é de R$ 1.033, e 18,4% da população vive com até meio salário mínimo por pessoa.\n\n\n\nFigura 2. Escolaridade, por sexo. Percentual estimado; linha vertical: IC 95%.\n\n\n\n\n\nFigura 3. Renda domiciliar per capita, em faixas de salário mínimo, por sexo. Percentual estimado; linha vertical: IC 95%.\n\n\nA maioria se declara branca (42,2%) ou parda (38,3%); 18,1% se declara preta. A população é quase toda urbana (96,9%), distribuída entre a capital (38,8%), o resto da região metropolitana (34,6%) e o resto do estado (26,6%). Quanto ao estado civil, 44,0% são casados e 47,8% são solteiros.\n\n\n\nFigura 4. Cor ou raça declarada, por sexo. Percentual estimado; linha vertical: IC 95%.\n\n\n\nPor que 18 a 59 anos. O recorte para em 59 anos. A partir dos 60, a frequência de doenças crônicas sobe muito e o grupo ficaria dominado por esse efeito de idade. O piso em 18 marca o início da vida adulta.\nCategorias pequenas. Sem instrução (1,1%) e alfabetização (0,5%) somam 61 pessoas no recorte. Os percentuais aparecem nas figuras, mas o intervalo de confiança é largo e essas categorias não entram nas comparações por escolaridade, onde seriam instáveis.\nPeso amostral. Cada pessoa da PNS representa um número diferente de pessoas da população. Por isso os percentuais do site não coincidem com a contagem simples de respostas.",
+    "text": "O retrato da população\nA distribuição por idade é relativamente equilibrada: 27,6% têm de 18 a 29 anos, 36,0% têm de 30 a 44 e 36,4% têm de 45 a 59. A idade média é de 38,8 anos (IC 95% 38,6–39,0).\n\n\n\nFigura 1. Faixa etária, por sexo. Percentual estimado para a população do recorte; a linha vertical indica o IC 95%.\n\n\nA escolaridade se concentra no ensino médio: 44,9% das pessoas têm esse nível, 31,0% têm superior, 22,6% têm fundamental e 1,6% estão sem instrução ou apenas alfabetizadas. A renda domiciliar per capita mediana é de R$ 1.033, e 18,4% da população vive com até meio salário mínimo por pessoa.\n\n\n\nFigura 2. Escolaridade, por sexo. Percentual estimado; linha vertical: IC 95%.\n\n\n\n\n\nFigura 3. Renda domiciliar per capita, em faixas de salário mínimo, por sexo. Percentual estimado; linha vertical: IC 95%.\n\n\nA maioria se declara branca (42,2%) ou parda (38,3%); 18,1% se declara preta. A população é quase toda urbana (96,9%), distribuída entre a capital (38,8%), o resto da região metropolitana (34,6%) e o resto do estado (26,6%). Quanto ao estado civil, 44,0% são casados e 47,8% são solteiros.\n\n\n\nFigura 4. Cor ou raça declarada, por sexo. Percentual estimado; linha vertical: IC 95%.\n\n\n\nCategorias pequenas. Sem instrução (1,1%) e alfabetização (0,5%) somam 61 pessoas no recorte. Os percentuais aparecem nas figuras, mas o intervalo de confiança é largo e essas categorias não entram nas comparações por escolaridade, onde seriam instáveis.\nPeso amostral. Cada pessoa da PNS representa um número diferente de pessoas da população. Por isso os percentuais do site não coincidem com a contagem simples de respostas.",
     "crumbs": [
       "O retrato",
       "Quem foi estudado"
