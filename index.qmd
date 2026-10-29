@@ -29,8 +29,9 @@ A Pesquisa Nacional de Saúde de 2019 selecionou 90.846 moradores em todo o
 Brasil. Entre eles, 4.966 eram do estado do Rio de Janeiro e 3.242 tinham de 18
 a 59 anos. Este site apresenta resultados para esse recorte.
 
-A pesquisa atribui pesos diferentes às pessoas entrevistadas para que as
-estimativas representem a população, e não apenas a amostra.
+A PNS também reuniu informações individuais detalhadas sobre saúde, hábitos de
+vida e uso de serviços. As estimativas levam em conta os pesos da amostra para
+representar os adultos dessa faixa etária no estado, não apenas os entrevistados.
 
 ## A resposta curta
 
