@@ -12,9 +12,10 @@ consulta a prontuários para confirmar diagnósticos ou atendimentos.
 
 ## Quase três em cada dez relatam diagnóstico de doença crônica
 
-A medida composta reúne seis condições: hipertensão, diabetes, doença do
-coração, AVC, depressão e câncer. Ela indica se a pessoa relatou diagnóstico de
-pelo menos uma delas. A prevalência estimada é de 29,5% (IC 95% 27,7–31,4).
+A medida composta de doença crônica reúne seis condições: hipertensão,
+diabetes, doença do coração, AVC, depressão e câncer. Ela indica se a pessoa
+relatou diagnóstico de pelo menos uma delas. A prevalência estimada é de 29,5%
+(IC 95% 27,7–31,4).
 
 A hipertensão é a mais frequente (19,9%; 18,4–21,5), seguida de depressão (7,8%;
 6,8–9,0) e diabetes (5,2%; 4,5–6,1). Doença do coração (2,9%), câncer (1,5%) e

@@ -5,6 +5,19 @@ title: "O que os dados não dizem"
 Os resultados descrevem grupos; não permitem prever a saúde de uma pessoa
 específica nem servem como recomendação individual.
 
+## O que os dados sugerem
+
+Na comparação entre homens e mulheres, oito dos nove indicadores apresentaram
+diferenças após o ajuste para múltiplas comparações. Mulheres tiveram percentuais
+mais altos de diagnóstico de doença crônica e depressão e maior média de
+consultas; homens tiveram percentuais mais altos de consumo regular de feijão e
+de cinco ou mais grupos de ultraprocessados no dia anterior. Nos modelos
+ajustados, nenhuma das cinco medidas alimentares mostrou associação com doença
+crônica, consultas ou internações após a correção estatística. Na análise de sensibilidade com oito grupos de ultraprocessados, a razão de
+médias de consultas entre mulheres foi 0,79 (IC 95% 0,66–0,93; p = 0,006). Essa
+checagem não teve ajuste adicional para múltiplos testes, então o resultado é
+exploratório.
+
 ## O que não é possível concluir
 
 - **Causalidade.** A PNS mede alimentação e saúde no mesmo momento. Não é

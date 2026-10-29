@@ -35,12 +35,15 @@ estimativas representem a população, e não apenas a amostra.
 ## A resposta curta
 
 ::: {.destaque}
-Na comparação inicial, algumas diferenças apareceram entre quem consumia cada
-alimento e quem não consumia. Após considerar sexo, idade, escolaridade, renda,
-cor ou raça, estado civil e características do domicílio, nenhum dos modelos
-mostrou associação entre as cinco medidas alimentares e os resultados de saúde
-que se mantivesse após a correção para múltiplas comparações. Também não houve
-evidência suficiente de que essas associações variassem entre homens e mulheres.
+Na comparação inicial, comparamos pessoas que relataram comer feijão, frutas,
+verduras, legumes ou doces em cinco ou mais dias por semana, ou consumir cinco
+ou mais grupos de ultraprocessados no dia anterior, com pessoas abaixo desses
+limites. Os resultados avaliados foram diagnóstico de doença crônica, consultas
+e internações. Após considerar sexo, idade,
+escolaridade, renda, cor ou raça, estado civil e características do domicílio,
+nenhuma associação entre as cinco medidas de consumo e esses resultados se
+manteve após a correção para múltiplos testes. Também não houve evidência
+suficiente de que as associações variassem entre homens e mulheres.
 
 Entre os nove indicadores comparados, oito apresentaram diferenças
 estatisticamente detectáveis entre homens e mulheres após o ajuste para múltiplas

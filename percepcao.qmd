@@ -16,7 +16,7 @@ ter recebido diagnóstico de depressão. Entre as que não se sentem assim, 5,1%
 relataram diagnóstico. No primeiro grupo, 65,2% não relataram esse diagnóstico.
 
 As duas respostas coincidem parcialmente. O kappa ponderado é 0,32 (erro padrão
-0,03). Essa medida vale 1 quando há concordância perfeita e 0 quando a
+0,03). Nessa medida, 1 representa concordância perfeita e 0 (zero) indica que a
 concordância não supera o esperado ao acaso. O valor foi 0,32 entre homens e
 0,30 entre mulheres.
 

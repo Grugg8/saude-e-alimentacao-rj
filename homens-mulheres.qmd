@@ -2,11 +2,16 @@
 title: "Homens e mulheres: retratos diferentes"
 ---
 
-Entre os nove indicadores comparados, oito apresentaram diferenças
-estatisticamente detectáveis entre homens e mulheres (q < 0,05), após o ajuste
-para múltiplas comparações.
+Os nove indicadores comparados foram cinco medidas de consumo (feijão, frutas,
+verduras e legumes, doces e ultraprocessados), três resultados de saúde
+(diagnóstico de doença crônica, consultas e internações) e idade. Oito
+apresentaram diferenças estatisticamente detectáveis entre homens e mulheres
+(q < 0,05), após o ajuste para múltiplas comparações. As medidas de consumo
+indicam frequência relatada, não classificam a alimentação como certa ou errada.
 
+::: {.cartoes-sexo}
 {{< include tabelas/cartoes_homens.md >}}
+:::
 
 {{< include tabelas/sexo.md >}}
 
@@ -16,14 +21,17 @@ dentro da família de nove testes; o asterisco marca q < 0,05.
 
 ## As diferenças vão na mesma direção
 
-Mulheres relatam mais doença crônica (33,0% contra 25,4%), mais depressão (10,4%
-contra 4,8%) e mais consultas (3,73 contra 2,39 por pessoa em 12 meses). Homens
-relatam mais consumo regular de feijão (79,8% contra 67,0%) e mais
-ultraprocessados (22,4% contra 18,5%); mulheres relatam mais frutas (44,0%
-contra 34,9%) e mais verduras e legumes (56,4% contra 50,1%).
+O percentual que relatou ao menos uma doença crônica foi maior entre mulheres
+do que entre homens (33,0% contra 25,4%). Também foi maior o percentual que
+relatou diagnóstico de depressão (10,4% contra 4,8%) e a média de consultas por
+pessoa em 12 meses (3,73 contra 2,39).
 
-O único indicador sem diferença estatística é o consumo de doces: 18,6% entre
-homens e 16,5% entre mulheres (q = 0,22).
+Entre homens, foi maior o percentual que relatou comer feijão em cinco ou mais
+dias por semana (79,8% contra 67,0%) e que consumiu cinco ou mais grupos de
+ultraprocessados no dia anterior (22,4% contra 18,5%). Entre mulheres, foram
+maiores os percentuais de consumo de frutas (44,0% contra 34,9%) e de verduras
+ou legumes (56,4% contra 50,1%) em cinco ou mais dias por semana. Para doces, os percentuais foram próximos: 18,6% entre homens e
+16,5% entre mulheres (q = 0,22), sem diferença estatisticamente detectável.
 
 ![**Figura 1.** Quem não usou o serviço nenhuma vez em 12 meses. A não utilização de consultas é quase o dobro entre homens (25,3% contra 13,0%). Linha vertical: IC 95%.](figuras/fig_zeros.png){fig-alt="Barras horizontais com o percentual de pessoas que não consultaram e que não internaram nenhuma vez em 12 meses, mostrando que a não utilização é mais comum entre homens."}
 

@@ -3,8 +3,9 @@ title: "Quem foi estudado"
 ---
 
 A Pesquisa Nacional de Saúde de 2019 é uma pesquisa domiciliar do IBGE, feita em
-parceria com o Ministério da Saúde. Em cada domicílio sorteado, um adulto foi
-selecionado para responder. No Brasil, foram selecionadas 90.846 pessoas.
+parceria com o Ministério da Saúde. Em cada domicílio sorteado para a pesquisa,
+um adulto também era selecionado para responder ao questionário individual. Ao
+todo, 90.846 pessoas foram selecionadas no Brasil.
 
 Aqui, os resultados se referem a moradores do estado do Rio de Janeiro com 18 a
 59 anos. A tabela mostra como se chega a esse recorte.

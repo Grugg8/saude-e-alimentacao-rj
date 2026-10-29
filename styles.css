@@ -99,6 +99,9 @@ main.content { max-width: var(--max); margin-inline: auto; }
   gap: 14px;
   margin: 1.8rem 0 2rem;
 }
+.cartoes-sexo .cartoes {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
 .cartao {
   background: var(--soft);
   border: 1px solid var(--rule);
