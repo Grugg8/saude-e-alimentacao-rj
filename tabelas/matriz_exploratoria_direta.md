@@ -1,4 +1,4 @@
-|Desfecho                      |  Feijão|  Frutas| Verduras e legumes|    Doces| Ultraprocessados (10 itens)|
+|Desfecho                      |  Feijão|  Frutas| Verduras e legumes|    Doces| Ultraprocessados (5 ou mais dos 10 grupos)|
 |:-----------------------------|-------:|-------:|------------------:|--------:|---------------------------:|
 |Hipertensão                   |   0,330|   0,337|            0,031 *|    0,088|                     0,031 *|
 |Diabetes                      |   0,277| 0,038 *|              0,828| <0,001 *|                       0,054|

@@ -11,24 +11,25 @@ industrializados foram consumidos no dia anterior.
 
 - **Consumo regular**: cinco ou mais dias por semana. Vale para feijão, frutas,
   verduras e legumes e doces.
-- **Ultraprocessados**: contagem de dez grupos consumidos no dia anterior:
+- **Ultraprocessados**: contam-se os grupos consumidos no dia anterior. São dez:
   refrigerante; suco de fruta de caixinha ou lata ou refresco em pó; bebida
   achocolatada ou iogurte com sabor; salgadinho de pacote ou biscoito salgado;
   biscoito doce, recheado ou bolo de pacote; sorvete, chocolate, gelatina ou
   sobremesa industrializada; salsicha, linguiça, mortadela ou presunto; pão de
   forma, de hambúrguer ou de cachorro-quente; margarina, maionese, ketchup ou
   outros molhos industrializados; macarrão instantâneo, sopa de pacote ou prato
-  congelado. O indicador usado no estudo considera cinco ou mais grupos; esse
-  corte não é uma classificação clínica ou nutricional.
-- **Versão de 8 itens**: a mesma conta sem os dois itens de doce, usada para
-  checar se o resultado depende dessa sobreposição.
+  congelado. O indicador principal é consumir cinco ou mais desses dez grupos
+  no dia anterior; não significa consumir dez itens nem é uma classificação
+  clínica ou nutricional.
+- **Análise de sensibilidade**: repete a contagem com oito grupos, retirando os
+  dois associados a doces. O corte continua sendo cinco ou mais grupos.
 - A pergunta mede **frequência, não quantidade**. Comer feijão cinco dias por
   semana não diz quanto feijão a pessoa come.
 :::
 
 {{< include tabelas/cartoes_alimentacao.md >}}
 
-![**Figura 1.** Consumo regular (5 ou mais dias por semana) e ultraprocessados, por sexo. Percentual estimado; linha vertical: IC 95%.](figuras/fig_exposicoes.png){fig-alt="Barras horizontais com a prevalência de consumo regular de feijão, frutas, verduras e legumes, doces e ultraprocessados, em painéis de homens e mulheres."}
+![**Figura 1.** Percentual que consome feijão, frutas, verduras e legumes ou doces em cinco ou mais dias por semana; e percentual que consumiu cinco ou mais grupos de ultraprocessados no dia anterior. A análise principal conta dez grupos; a análise de sensibilidade usa oito, excluindo os dois associados a doces. Linha vertical: IC 95%.](figuras/fig_exposicoes.png){fig-alt="Barras horizontais por sexo. Para feijão, frutas, verduras e legumes e doces, o indicador é consumo em cinco ou mais dias por semana. Para ultraprocessados, são cinco ou mais grupos consumidos no dia anterior, usando listas de dez grupos e, na análise de sensibilidade, oito grupos."}
 
 ## Feijão é o item mais frequente
 
@@ -37,10 +38,10 @@ dias por semana, a maior proporção entre os itens perguntados. Verduras e
 legumes vêm em seguida, com 53,5% (51,2–55,8), e frutas com 39,7% (37,6–41,9).
 Para doces, a proporção foi de 17,5% (15,8–19,2).
 
-Nos ultraprocessados, 20,3% (18,4–22,3) consumiram cinco ou mais grupos no dia
-anterior. Na versão de oito itens, sem os doces, a prevalência cai para 13,0%
-(11,5–14,7). Em média, as pessoas consumiram 3,0 grupos de ultraprocessados
-(IC 95% 2,89–3,10), de um total de dez.
+No indicador principal de ultraprocessados, 20,3% (18,4–22,3) consumiram cinco
+ou mais dos dez grupos no dia anterior. Na análise de sensibilidade, que usa
+oito grupos e exclui os dois associados a doces, foram 13,0% (11,5–14,7). Em
+média, as pessoas consumiram 3,0 grupos (IC 95% 2,89–3,10), de um total de dez.
 
 ## Homens e mulheres comem diferente
 

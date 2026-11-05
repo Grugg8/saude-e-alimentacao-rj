@@ -5,7 +5,7 @@ project:
     - "*.qmd"
 
 website:
-  title: "Comer e adoecer no Rio de Janeiro"
+  title: "Alimentação e saúde no Rio de Janeiro"
   site-url: "https://grugg8.github.io/saude-e-alimentacao-rj/"
   description: "O que a Pesquisa Nacional de Saúde de 2019 mostra sobre alimentação, doenças e uso de serviços entre adultos de 18 a 59 anos no estado do Rio de Janeiro."
   bread-crumbs: false
@@ -52,7 +52,7 @@ format:
     include-in-header:
       text: |
         <meta name="description" content="Resultados da PNS 2019 para adultos de 18 a 59 anos no Rio de Janeiro, em linguagem acessível.">
-        <meta property="og:title" content="Comer e adoecer no Rio de Janeiro">
+        <meta property="og:title" content="Alimentação e saúde no Rio de Janeiro">
         <meta property="og:description" content="O que a Pesquisa Nacional de Saúde de 2019 mostra sobre alimentação, doenças e uso de serviços no estado do Rio de Janeiro.">
         <meta property="og:type" content="website">
     include-after-body:

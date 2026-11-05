@@ -34,10 +34,10 @@ exploratório.
 ## Limites da pesquisa
 
 **Informações autorrelatadas.** As respostas sobre doenças dependem de a pessoa
-ter recebido e lembrar de um diagnóstico. Consultas e internações nos últimos 12
-meses também são informadas pela própria pessoa, sem conferência em prontuário.
-Assim, os resultados podem refletir tanto a ocorrência das condições quanto o
-acesso a diagnóstico e serviços de saúde.
+ter recebido de um profissional de saúde e lembrar de um diagnóstico. Consultas
+e internações nos últimos 12 meses também são informadas pela própria pessoa,
+sem conferência em prontuário. Assim, os resultados podem refletir tanto a
+ocorrência das condições quanto o acesso a diagnóstico e serviços de saúde.
 
 **Pesquisa transversal.** Cada pessoa foi entrevistada uma vez. Como não há
 acompanhamento ao longo do tempo, não é possível estabelecer o que ocorreu
@@ -69,9 +69,11 @@ devem ser interpretados isoladamente.
 **Ausentes.** A doença crônica composta tem 4,8% de ausentes, mantidos como
 ausentes. Não há imputação.
 
-**Células pequenas.** Grupos com menos de 30 pessoas não aparecem nas figuras de
-gradiente. As estimativas ficam instáveis e poderiam sugerir padrões que os
-dados não sustentam.
+**Categorias pequenas.** Sem instrução e alfabetização têm menos de 30 pessoas
+em cada sexo. Por isso, não aparecem nas figuras nem na tabela dos gradientes de
+saúde por escolaridade. A omissão não indica ausência de diferença: com grupos
+tão pequenos, as estimativas são instáveis e não permitem comparações
+confiáveis.
 
 ::: {.nota}
 **Privacidade.** O site publica apenas estimativas agregadas para o estado. Não
@@ -89,7 +91,7 @@ concentra em adultos de 18 a 59 anos no estado do Rio de Janeiro.
 
 Para citar este site:
 
-> Projeto III, GET00109 Prática Estatística III. *Comer e adoecer no Rio de
+> Projeto III, GET00109 Prática Estatística III. *Alimentação e saúde no Rio de
 > Janeiro: resultados da Pesquisa Nacional de Saúde 2019 para adultos de 18 a 59
 > anos*. 2026. Disponível em:
 > https://grugg8.github.io/saude-e-alimentacao-rj/.

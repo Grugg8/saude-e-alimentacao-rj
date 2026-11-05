@@ -1,4 +1,4 @@
-|Desfecho                |   Feijão|   Frutas| Verduras e legumes| Doces| Ultraprocessados (10 itens)|
+|Desfecho                |   Feijão|   Frutas| Verduras e legumes| Doces| Ultraprocessados (5 ou mais dos 10 grupos)|
 |:-----------------------|--------:|--------:|------------------:|-----:|---------------------------:|
 |Doença crônica composta |    0,497|    0,103|            0,031 *| 0,344|                     0,031 *|
 |Consultas em 12 meses   | <0,001 *| <0,001 *|           <0,001 *| 0,137|                       0,217|

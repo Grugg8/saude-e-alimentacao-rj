@@ -55,9 +55,9 @@ A razão 1 representa ausência de diferença entre os grupos.
 - **Consumo regular:** consumo de feijão, frutas, verduras e legumes ou doces em
   cinco ou mais dias por semana.
 - **Ultraprocessados:** número de grupos consumidos no dia anterior. O indicador
-  principal conta dez grupos e considera cinco ou mais como consumo elevado. Uma
-  versão alternativa exclui os dois itens de doces e serve como análise de
-  sensibilidade.
+  principal conta dez grupos e marca quem consumiu cinco ou mais. A análise de
+  sensibilidade exclui os dois grupos associados a doces, totalizando oito; o
+  corte continua em cinco ou mais.
 - **Consultas e internações:** para quem informou não ter usado o serviço no
   período, a quantidade foi considerada zero, pois o questionário não perguntava
   o número de eventos nesses casos.

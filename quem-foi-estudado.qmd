@@ -29,12 +29,14 @@ A distribuição por idade é relativamente equilibrada: 27,6% têm de 18 a 29 a
 
 A escolaridade se concentra no ensino médio: 44,9% das pessoas têm esse nível,
 31,0% têm superior, 22,6% têm fundamental e 1,6% estão sem instrução ou apenas
-alfabetizadas. A renda domiciliar per capita mediana é de R$ 1.033, e 18,4% da
-população vive com até meio salário mínimo por pessoa.
+alfabetizadas. Em 2019, a renda domiciliar per capita mediana foi de R$ 1.033,
+cerca de 1,04 salário mínimo daquele ano (R$ 998). Esse valor se refere ao
+período da pesquisa; 18,4% da população vivia com até meio salário mínimo por
+pessoa.
 
 ![**Figura 2.** Escolaridade, por sexo. Percentual estimado; linha vertical: IC 95%.](figuras/fig_perfil_escolaridade.png){fig-alt="Barras horizontais com a distribuição por escolaridade, em painéis de homens e mulheres. O ensino médio é a categoria mais frequente nos dois sexos."}
 
-![**Figura 3.** Renda domiciliar per capita, em faixas de salário mínimo, por sexo. Percentual estimado; linha vertical: IC 95%.](figuras/fig_perfil_renda.png){fig-alt="Barras horizontais com a distribuição por faixas de renda domiciliar per capita, em salários mínimos, separadas por sexo."}
+![**Figura 3.** Renda domiciliar per capita, em faixas de salários mínimos (SM) de 2019, por sexo. Percentual estimado; linha vertical: IC 95%.](figuras/fig_perfil_renda.png){fig-alt="Barras horizontais com a distribuição por faixas de renda domiciliar per capita, expressas em salários mínimos (SM) de 2019, separadas por sexo."}
 
 A maioria se declara branca (42,2%) ou parda (38,3%); 18,1% se declara preta. A
 população é quase toda urbana (96,9%), distribuída entre a capital (38,8%), o

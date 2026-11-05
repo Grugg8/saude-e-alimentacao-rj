@@ -1,4 +1,4 @@
-# Saúde e alimentação no Rio de Janeiro — PNS 2019
+# Alimentação e saúde no Rio de Janeiro — PNS 2019
 
 Site estático em Quarto com resultados da Pesquisa Nacional de Saúde (PNS) 2019
 para adultos de 18 a 59 anos no estado do Rio de Janeiro.

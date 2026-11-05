@@ -38,9 +38,12 @@ no médio e 3,92 (3,50–4,35) no superior. Entre homens, as estimativas são 2,
 **Comparações descritivas.** As figuras não controlam idade, renda ou outros
 fatores relacionados à escolaridade e à saúde.
 
-**Categorias omitidas das figuras.** Sem instrução e alfabetização têm menos de
-30 pessoas em cada sexo. As estimativas são instáveis, então essas categorias não
-aparecem nos gráficos. Os valores permanecem na tabela completa incluída abaixo.
+**Categorias pequenas.** Sem instrução (46 pessoas) e alfabetização (15 pessoas)
+somam 61 participantes na amostra. Em cada sexo, os grupos têm menos de 30
+pessoas. Por isso, não são mostrados nos gradientes de saúde por escolaridade:
+as estimativas são instáveis e não permitem comparações confiáveis. Isso não
+significa que não haja diferenças, mas que a amostra é pequena demais para
+avaliá-las com segurança.
 
 **Escolaridade e renda.** A PNS mede as duas. Neste recorte, a escolaridade foi
 usada como principal indicador socioeconômico por ter menos respostas ausentes e
@@ -48,7 +51,7 @@ estimativas mais estáveis entre adultos jovens.
 :::
 
 ::: {.callout-note collapse="true"}
-## Tabela completa dos gradientes por escolaridade
+## Gradientes de saúde por escolaridade (categorias com amostra suficiente)
 
 {{< include tabelas/gradientes.md >}}
 :::

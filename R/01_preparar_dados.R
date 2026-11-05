@@ -313,7 +313,10 @@ matriz <- function(familia, vista) {
     select(desfecho, comparacao, celula) |>
     pivot_wider(names_from = comparacao, values_from = celula)
   cols <- c("desfecho", intersect(ordem_exposicoes, names(d)))
-  d |> select(all_of(cols)) |> rename(Desfecho = desfecho)
+  d |>
+    select(all_of(cols)) |>
+    rename(Desfecho = desfecho) |>
+    rename_with(~ ifelse(.x == "Ultraprocessados (10 itens)", "Ultraprocessados (5 ou mais dos 10 grupos)", .x))
 }
 
 for (vista in c("direta", "mulheres", "homens")) {
@@ -331,6 +334,10 @@ escreve_md(
   testes |>
     filter(familia == "Sexo") |>
     mutate(
+      desfecho = if_else(
+        desfecho == "Ultraprocessados (10 itens)",
+        "Ultraprocessados (5 ou mais dos 10 grupos)", desfecho
+      ),
       unidade = case_when(
         desfecho %in% c("Consultas em 12 meses", "Internações em 12 meses") ~ "media",
         desfecho == "Idade (anos)" ~ "anos",
@@ -350,7 +357,7 @@ rotulos_exposicao <- c(
   frutas_regular = "Frutas",
   hortalicas_regular = "Verduras e legumes",
   doces_regular = "Doces",
-  ultraprocessados_5mais = "Ultraprocessados (10 itens)"
+  ultraprocessados_5mais = "Ultraprocessados (5 ou mais dos 10 grupos)"
 )
 ordem_exposicao <- names(rotulos_exposicao)
 

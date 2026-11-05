@@ -59,8 +59,12 @@ barras_sexo <- function(df, ordem = NULL, sufixo = "%", digitos = 1,
 
   df$texto <- paste0(fmt_num(df$est, digitos), sufixo)
 
-  ggplot(df, aes(x = rotulo, y = est)) +
-    geom_col(fill = pal[["teal"]], width = 0.6) +
+  ggplot(df, aes(x = rotulo, y = est, fill = grupo)) +
+    geom_col(width = 0.6) +
+    scale_fill_manual(
+      values = c(Homens = pal[["teal"]], Mulheres = pal[["terra"]]),
+      guide = "none"
+    ) +
     geom_errorbar(
       aes(ymin = pmax(li, 0, na.rm = TRUE), ymax = ls),
       width = 0.16, colour = pal[["ink"]], linewidth = 0.4, na.rm = TRUE
@@ -118,9 +122,15 @@ salva_svg(f_raca, "fig_perfil_raca", 6.3, 5.0)
 # ---------------------------------------------------------------------------
 f_expo <- exposicoes |>
   filter(!grepl("Média de grupos", categoria)) |>
+  mutate(categoria = case_when(
+    categoria == "Ultraprocessados (10 itens)" ~ "Ultraprocessados (5 ou mais dos 10 grupos)",
+    categoria == "Ultraprocessados (8 itens, sensibilidade)" ~ "Ultraprocessados (5 ou mais dos 8 grupos)",
+    TRUE ~ categoria
+  )) |>
   barras_sexo(ordem = c(
     "Feijão", "Frutas", "Verduras e legumes", "Doces",
-    "Ultraprocessados (10 itens)", "Ultraprocessados (8 itens, sensibilidade)"
+    "Ultraprocessados (5 ou mais dos 10 grupos)",
+    "Ultraprocessados (5 ou mais dos 8 grupos)"
   ))
 salva_svg(f_expo, "fig_exposicoes", 6.3, 6.4)
 
@@ -198,8 +208,12 @@ barras_gradiente <- function(df, sufixo, digitos, ordem, extra = 0.3) {
       rotulo = factor(categoria, levels = rev(ordem))
     ) |>
     mutate(texto = paste0(fmt_num(est, digitos), sufixo)) |>
-    ggplot(aes(x = rotulo, y = est)) +
-    geom_col(fill = pal[["teal"]], width = 0.55) +
+    ggplot(aes(x = rotulo, y = est, fill = grupo)) +
+    geom_col(width = 0.55) +
+    scale_fill_manual(
+      values = c(Homens = pal[["teal"]], Mulheres = pal[["terra"]]),
+      guide = "none"
+    ) +
     geom_errorbar(
       aes(ymin = pmax(li, 0, na.rm = TRUE), ymax = ls),
       width = 0.15, colour = pal[["ink"]], linewidth = 0.4, na.rm = TRUE
