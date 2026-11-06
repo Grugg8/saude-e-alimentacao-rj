@@ -49,6 +49,15 @@ h3 {
 
 p { margin-bottom: 0.9rem; }
 
+main.content p,
+main.content li,
+main.content figcaption {
+  text-align: justify;
+  hyphens: auto;
+}
+.creditos-home p,
+.creditos-home li { text-align: left; }
+
 a {
   color: var(--teal-dark);
   text-decoration: underline;
@@ -129,7 +138,8 @@ main.content { max-width: var(--max); margin-inline: auto; }
   gap: 14px;
   margin: 1.8rem 0 2rem;
 }
-.cartoes-sexo .cartoes {
+.cartoes-sexo .cartoes,
+.cartoes-saude .cartoes {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 .cartao {
