@@ -278,6 +278,10 @@ th.num, td.num { text-align: right; font-variant-numeric: tabular-nums; }
   padding: 0.55rem 0.9rem;
 }
 .callout .callout-body { padding: 0.7rem 0.9rem; }
+.callout .callout-body li {
+  text-align: justify;
+  hyphens: auto;
+}
 
 /* Botão de sumário e navegação */
 .sidebar-title { font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
