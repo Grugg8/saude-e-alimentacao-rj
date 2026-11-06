@@ -34,8 +34,8 @@ website:
           - limites.qmd
           - metodos.qmd
   page-footer:
-    left: "Projeto III — GET00109, Prática Estatística III"
-    right: "Dados: PNS 2019, IBGE"
+    left: "Projeto Final — GET00109, Prática Estatística III"
+    right: "Lucas Batista de Oliveira"
 
 format:
   html:
