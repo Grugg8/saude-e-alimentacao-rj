@@ -91,6 +91,36 @@ main.content { max-width: var(--max); margin-inline: auto; }
   color: var(--ink-soft);
   margin: 0;
 }
+.creditos-home {
+  border-top: 1px solid var(--rule);
+  margin-top: 1rem;
+  padding-top: 0.8rem;
+  color: var(--ink-soft);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.78rem;
+  line-height: 1.45;
+}
+.creditos-curso {
+  display: block;
+  color: var(--muted);
+  font-size: 0.74rem;
+  margin-bottom: 0.7rem;
+}
+.creditos-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 2fr);
+  gap: 1rem;
+}
+.creditos-grupo h3 {
+  color: var(--muted);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  margin: 0 0 0.35rem;
+  text-transform: uppercase;
+}
+.creditos-grupo p { margin: 0; }
+.creditos-grupo ul { margin: 0; padding-left: 1rem; }
+.creditos-grupo li { margin-bottom: 0.35rem; }
 
 /* Cartões de indicadores */
 .cartoes {
@@ -276,6 +306,7 @@ li { margin-bottom: 0.4rem; }
   body { font-size: 18px; }
   .hero h1 { font-size: 2rem; }
   .hero p.lead { font-size: 1.08rem; }
+  .creditos-grid { grid-template-columns: 1fr; gap: 0.75rem; }
   .cartoes { grid-template-columns: 1fr 1fr; gap: 10px; }
   .cartao { padding: 13px 14px 12px; }
   .cartao .valor { font-size: 1.55rem; }
