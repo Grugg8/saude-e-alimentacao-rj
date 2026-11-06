@@ -34,9 +34,9 @@ Lucas Batista de Oliveira, aluno do Bacharelado em Estatística, Universidade Fe
 ::: {.creditos-grupo}
 ### Orientação
 
-- Prof. Dr. Luis Guillermo Coca Velarde, orientador da disciplina. Departamento de Estatística (GET), Instituto de Matemática e Estatística (IME), UFF. [Lattes](http://lattes.cnpq.br/5087016670022826){aria-label="Currículo Lattes de Luis Guillermo Coca Velarde"}
-- Gabrielle Gracio Ribeiro Moraes, doutoranda do Programa de Pós-Graduação em Ciências Médicas (PPGCM), Faculdade de Medicina, UFF, colaboradora na orientação deste trabalho. [Lattes](http://lattes.cnpq.br/1610152976166476){aria-label="Currículo Lattes de Gabrielle Gracio Ribeiro Moraes"}
-- Prof.ª Dr.ª Aline D’Avila Pereira, orientadora de doutorado de Gabrielle. Departamento de Ciências Ambientais, Instituto de Geografia (IGEOG), Universidade do Estado do Rio de Janeiro (UERJ), unidade de Cabo Frio. [Lattes](http://lattes.cnpq.br/5764527420063027){aria-label="Currículo Lattes de Aline D’Avila Pereira"}
+- Prof. Dr. Luis Guillermo Coca Velarde, Departamento de Estatística (GET), Instituto de Matemática e Estatística (IME), UFF. [Lattes](http://lattes.cnpq.br/5087016670022826){aria-label="Currículo Lattes de Luis Guillermo Coca Velarde"}
+- Gabrielle Gracio Ribeiro Moraes, doutoranda do Programa de Pós-Graduação em Ciências Médicas (PPGCM) da Faculdade de Medicina (CMM), UFF. [Lattes](http://lattes.cnpq.br/1610152976166476){aria-label="Currículo Lattes de Gabrielle Gracio Ribeiro Moraes"}
+- Prof.ª Dr.ª Aline D’Avila Pereira, Departamento de Ciências Ambientais, Instituto de Geografia (IGEOG), Universidade do Estado do Rio de Janeiro (UERJ), unidade de Cabo Frio. [Lattes](http://lattes.cnpq.br/5764527420063027){aria-label="Currículo Lattes de Aline D’Avila Pereira"}
 :::
 :::
 ::::
