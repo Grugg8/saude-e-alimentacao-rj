@@ -18,28 +18,8 @@ format:
 
 # Alimentação e saúde no Rio de Janeiro
 
-[O que a Pesquisa Nacional de Saúde de 2019 mostra sobre alimentação, saúde e uso de serviços entre adultos de 18 a 59 anos no estado. Percentuais e médias são estimativas para essa população, acompanhadas de intervalos de confiança de 95%.]{.lead}
+[O que a Pesquisa Nacional de Saúde de 2019 mostra sobre alimentação, saúde e uso de serviços entre adultos de 18 a 59 anos no estado.]{.lead}
 :::
-
-:::: {.creditos-home}
-[Trabalho desenvolvido para fins avaliativos na disciplina Prática Estatística III (GET00109), Bacharelado em Estatística da UFF.]{.creditos-curso}
-
-::: {.creditos-grid}
-::: {.creditos-grupo}
-### Autoria
-
-Lucas Batista de Oliveira, aluno do Bacharelado em Estatística, Universidade Federal Fluminense (UFF). [Lattes](http://lattes.cnpq.br/7212382087349916){aria-label="Currículo Lattes de Lucas Batista de Oliveira"}
-:::
-
-::: {.creditos-grupo}
-### Orientação
-
-- Prof. Dr. Luis Guillermo Coca Velarde, Departamento de Estatística (GET), Instituto de Matemática e Estatística (IME), UFF. [Lattes](http://lattes.cnpq.br/5087016670022826){aria-label="Currículo Lattes de Luis Guillermo Coca Velarde"}
-- Gabrielle Gracio Ribeiro Moraes, doutoranda do Programa de Pós-Graduação em Ciências Médicas (PPGCM) da Faculdade de Medicina (CMM), UFF. [Lattes](http://lattes.cnpq.br/1610152976166476){aria-label="Currículo Lattes de Gabrielle Gracio Ribeiro Moraes"}
-- Prof.ª Dr.ª Aline D’Avila Pereira, Departamento de Ciências Ambientais, Instituto de Geografia (IGEOG), Universidade do Estado do Rio de Janeiro (UERJ), unidade de Cabo Frio. [Lattes](http://lattes.cnpq.br/5764527420063027){aria-label="Currículo Lattes de Aline D’Avila Pereira"}
-:::
-:::
-::::
 
 {{< include tabelas/cartoes_index.md >}}
 
@@ -50,9 +30,6 @@ Brasil para responder ao questionário individual, com perguntas detalhadas sobr
 saúde, hábitos de vida e uso de serviços. Entre eles, 4.966 eram do estado do
 Rio de Janeiro e 3.242 tinham de 18 a 59 anos. Este site apresenta resultados
 para esse recorte.
-
-As estimativas usam os pesos da amostra para representar os adultos dessa faixa
-etária no estado, não apenas as pessoas entrevistadas.
 
 ## A resposta curta
 
@@ -105,3 +82,23 @@ incerteza de cada estimativa. A sobreposição entre dois intervalos, sozinha,
 não determina se os grupos diferem; essa questão é avaliada por testes de
 comparação descritos nas páginas de resultados e métodos.
 :::
+
+:::: {.creditos-home}
+[Trabalho desenvolvido para fins avaliativos na disciplina Prática Estatística III (GET00109), Bacharelado em Estatística da UFF.]{.creditos-curso}
+
+::: {.creditos-grid}
+::: {.creditos-grupo}
+### Autoria
+
+Lucas Batista de Oliveira, aluno do Bacharelado em Estatística, Universidade Federal Fluminense (UFF). [Lattes](http://lattes.cnpq.br/7212382087349916){aria-label="Currículo Lattes de Lucas Batista de Oliveira"}
+:::
+
+::: {.creditos-grupo}
+### Orientação
+
+- Prof. Dr. Luis Guillermo Coca Velarde, Departamento de Estatística (GET), Instituto de Matemática e Estatística (IME), UFF. [Lattes](http://lattes.cnpq.br/5087016670022826){aria-label="Currículo Lattes de Luis Guillermo Coca Velarde"}
+- Gabrielle Gracio Ribeiro Moraes, doutoranda do Programa de Pós-Graduação em Ciências Médicas (PPGCM) da Faculdade de Medicina (CMM), UFF. [Lattes](http://lattes.cnpq.br/1610152976166476){aria-label="Currículo Lattes de Gabrielle Gracio Ribeiro Moraes"}
+- Prof.ª Dr.ª Aline D’Avila Pereira, Departamento de Ciências Ambientais, Instituto de Geografia (IGEOG), Universidade do Estado do Rio de Janeiro (UERJ), unidade de Cabo Frio. [Lattes](http://lattes.cnpq.br/5764527420063027){aria-label="Currículo Lattes de Aline D’Avila Pereira"}
+:::
+:::
+::::

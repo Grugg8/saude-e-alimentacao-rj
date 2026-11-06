@@ -6,7 +6,9 @@ A análise reúne diagnósticos de doenças crônicas, relatos sobre saúde e us
 serviços. As informações foram fornecidas pelas próprias pessoas: não houve
 consulta a prontuários para confirmar diagnósticos ou atendimentos.
 
+::: {.cartoes-saude}
 {{< include tabelas/cartoes_saude.md >}}
+:::
 
 ![**Figura 1.** Doenças crônicas diagnosticadas, por sexo. Percentual estimado; linha vertical: IC 95%.](figuras/fig_doencas.png){fig-alt="Barras horizontais com a prevalência de doença crônica composta, hipertensão, depressão, diabetes, doença do coração, câncer e AVC, em painéis de homens e mulheres."}
 
